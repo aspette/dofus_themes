@@ -1,8 +1,8 @@
 [{
 	"author" : "Aspette", 
 	"name" : "darkOpacityWIP", 
-	"keyWords" : "keyword1,keyword2", 
-	"version" : "0.5.0", 
+	"keyWords" : "keyword1", 
+	"version" : "0.5.1", 
 	"dofusVersion" : "2.42", 
 	"description" : "A la recherche d'une description. (Go follow @Aspette sur Twitter)", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityWIP.zip", 
