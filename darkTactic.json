@@ -2,11 +2,11 @@
 	"author" : "Aspette", 
 	"name" : "darkTactic", 
 	"keyWords" : "Tactic", 
-	"version" : "1.0.0", 
-	"dofusVersion" : "2.42", 
+	"version" : "1.0.1", 
+	"dofusVersion" : "2.44", 
 	"description" : "Mode tactique sombre", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkTactic.zip", 
 	"previewUrl" : "empty", 
 	"creationDate" : "23/07/2017", 
-	"modificationDate" : "23/07/2017" 
+	"modificationDate" : "22/10/2017" 
 }]
