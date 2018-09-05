@@ -1,7 +1,20 @@
-[
-	 {
+[	
+	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity 2.1", 
+	"name" : "darkOpacity 2.2", 
+	"keyWords" : "darkOpacity", 
+	"version" : "2.2.0", 
+	"dofusVersion" : "2.48", 
+	"description" : "darkOpacity : Green is here ! La version 2.2 de darkOpacity ! (My Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity220.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity220.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "05/09/2018"
+    },
+	
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity 2.1.0", 
 	"keyWords" : "darkOpacity", 
 	"version" : "2.1.0", 
 	"dofusVersion" : "2.48", 
@@ -11,4 +24,4 @@
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "03/09/2018"
     }
-] 
+]
