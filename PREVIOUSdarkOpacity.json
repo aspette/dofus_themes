@@ -34,5 +34,58 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity210.jpg", 
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "03/09/2018"
-    }
+    },
+	
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity 1.1", 
+	"keyWords" : "darkOpacity", 
+	"version" : "1.1.0", 
+	"dofusVersion" : "2.39", 
+	"description" : "darkOpacity 1.1", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity110.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity110.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "01/08/2017"
+    },
+	
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity 1.0.3", 
+	"keyWords" : "darkOpacity", 
+	"version" : "1.0.3", 
+	"dofusVersion" : "2.39", 
+	"description" : "darkOpacity 1.0.3", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity103.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity103.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "01/08/2017"
+    },
+	
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity 1.0.2", 
+	"keyWords" : "darkOpacity", 
+	"version" : "1.0.2", 
+	"dofusVersion" : "2.39", 
+	"description" : "darkOpacity 1.0.2", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity102.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity102.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "01/08/2017"
+    },
+	
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity 1.0.", 
+	"keyWords" : "darkOpacity", 
+	"version" : "1.0.0", 
+	"dofusVersion" : "2.39", 
+	"description" : "darkOpacity 1.0", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "01/08/2017"
+    },
 ]
+
