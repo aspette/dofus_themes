@@ -10,7 +10,8 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity330.jpg", 
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "13/01/2019"
-    },
+    	},
+	
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity : The 100.", 
@@ -22,5 +23,5 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/dark100Opacity330.jpg", 
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "22/01/2019"
-    }
-] 
+    	}
+]
