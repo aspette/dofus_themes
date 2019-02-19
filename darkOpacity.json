@@ -1,0 +1,26 @@
+[	
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity", 
+	"version" : "4.0.0", 
+	"dofusVersion" : "2.50", 
+	"description" : "darkOpacity 4.0 : le Renouveau (Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "19/02/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity", 
+	"version" : "2.0.0", 
+	"dofusVersion" : "2.50", 
+	"description" : "darkOpacity Hundred 2.0 : le Renouveau (Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityHundred.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "19/02/2019"
+    }
+] 
