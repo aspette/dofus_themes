@@ -1,0 +1,38 @@
+[	
+	{
+	"author" : "Aspette", 
+	"name" : "lightOpacity Beta", 
+	"keyWords" : "lightOpacity, Tactic", 
+	"version" : "1.0.1-tactic.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity tactic mode for lightOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityTactic.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityTacticPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, Tactic", 
+	"version" : "1.0.1-tactic.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "lightOpacity tactic mode for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacityTactic.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacityTacticPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacityHundred", 
+	"keyWords" : "darkOpacityHundred, Tactic", 
+	"version" : "1.0.1-tactic.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "lightOpacity tactic mode for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacityTacticH.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacityTacticPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    }
+] 
