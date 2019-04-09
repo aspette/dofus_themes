@@ -22,5 +22,17 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityHundred.jpg", 
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "31/03/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "lightOpacity Beta", 
+	"keyWords" : "lightOpacity", 
+	"version" : "1.0.0-beta.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "lightOpacity Beta (Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacity.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
     }
 ] 
