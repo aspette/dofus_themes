@@ -6,8 +6,8 @@
 	"version" : "4.1.1", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity 4.0 : le Renouveau (Twitter : @Aspette)", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacity.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacityPreview.png", 
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "09/04/2019"
     },
@@ -18,8 +18,8 @@
 	"version" : "2.1.1", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity Hundred 2.0 : le Renouveau (Twitter : @Aspette)", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityHundred.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityHundred.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundredPreview.png", 
 	"creationDate" : "01/08/2017", 
 	"modificationDate" : "09/04/2019"
     },
@@ -30,8 +30,8 @@
 	"version" : "1.0.0-beta.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "lightOpacity Beta (Twitter : @Aspette)", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/lightOpacity.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/lightOpacity/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/lightOpacity/lightOpacityPreview.png", 
 	"creationDate" : "09/04/2019", 
 	"modificationDate" : "09/04/2019"
     }
