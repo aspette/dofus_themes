@@ -2,7 +2,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "lightOpacity Beta", 
-	"keyWords" : "lightOpacity, Tactic", 
+	"keyWords" : "lightOpacity, Tactic Mode", 
 	"version" : "1.0.1-tactic.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity tactic mode for lightOpacity", 
@@ -14,7 +14,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity", 
-	"keyWords" : "darkOpacity, Tactic", 
+	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "1.0.1-tactic.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "lightOpacity tactic mode for darkOpacity", 
@@ -26,7 +26,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacityHundred", 
-	"keyWords" : "darkOpacityHundred, Tactic", 
+	"keyWords" : "darkOpacityHundred, Tactic Mode", 
 	"version" : "1.0.1-tactic.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "lightOpacity tactic mode for darkOpacity Hundred", 
