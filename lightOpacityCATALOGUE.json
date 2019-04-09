@@ -1,10 +1,10 @@
 [	
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Tactic", 
+	"name" : "lightOpacity Beta", 
 	"keyWords" : "darkOpacity, Tactic", 
 	"version" : "1.0-tactic", 
-	"dofusVersion" : "2-all", 
+	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity tactic mode for lightOpacity", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityTactic.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/darkOpacityTacticPreview.jpg", 
