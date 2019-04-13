@@ -107,4 +107,40 @@
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, HP Display", 
+	"version" : "1.0.1-hpDisplay.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity HP display for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/hpDisplay/default/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkOpacityPreview.jpg", 
+	"creationDate" : "13/04/2019", 
+	"modificationDate" : "13/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity Hundred, HP Display", 
+	"version" : "1.0.1-hpDisplay.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity HP display for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/hpDisplay/default/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkOpacityPreview.jpg", 
+	"creationDate" : "13/04/2019", 
+	"modificationDate" : "13/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "lightOpacity Beta", 
+	"keyWords" : "lightOpacity, HP Display", 
+	"version" : "1.0.1-hpDisplay.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity HP display for lightOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/hpDisplay/default/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/lightOpacityPreview.jpg", 
+	"creationDate" : "13/04/2019", 
+	"modificationDate" : "13/04/2019"
+    },
 ] 
