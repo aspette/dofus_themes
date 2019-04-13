@@ -66,7 +66,7 @@
 	"version" : "1.0.1-tactic.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity tactic mode for darkOpacity Hundred", 
-	"url" : "https://github.com/aspette/dofus_themes/blob/master/catalogue/darkOpacity%20Hundred/tacticMode/darkOpacity/darkOpacityHundred.zip", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/tacticMode/darkOpacity/darkOpacityHundred.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/darkOpacityTacticPreview.png", 
 	"creationDate" : "09/04/2019", 
 	"modificationDate" : "09/04/2019"
@@ -78,7 +78,7 @@
 	"version" : "1.0.1-hpDisplay.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) HP display for darkOpacity", 
-	"url" : "https://github.com/aspette/dofus_themes/blob/master/catalogue/darkOpacity/hpDisplay/darkStone/darkOpacity.zip", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/hpDisplay/darkStone/darkOpacity.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkStoneDOPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
@@ -90,7 +90,7 @@
 	"version" : "1.0.1-hpDisplay.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) HP display for darkOpacity Hundred", 
-	"url" : "https://github.com/aspette/dofus_themes/blob/master/catalogue/darkOpacity%20Hundred/hpDisplay/darkStone/darkOpacityHundred.zip", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/hpDisplay/darkStone/darkOpacityHundred.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkStoneDOPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
@@ -102,7 +102,7 @@
 	"version" : "1.0.1-hpDisplay.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) HP display for lightOpacity", 
-	"url" : "https://github.com/aspette/dofus_themes/blob/master/catalogue/lightOpacity/hpDisplay/darkStone/lightOpacity.zip", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/hpDisplay/darkStone/lightOpacity.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkStoneLOPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
