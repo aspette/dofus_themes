@@ -143,7 +143,19 @@
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
-		{
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, Color", 
+	"version" : "1.0.1-defaultColor.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "default color for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/themeColors/default/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/themeColorsPreview/default.png", 
+	"creationDate" : "27/04/2019", 
+	"modificationDate" : "27/04/2019"
+    },
+	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity", 
 	"keyWords" : "darkOpacity, Color", 
@@ -212,6 +224,18 @@
 	"description" : "magenta color for darkOpacity", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/themeColors/magenta/darkOpacity.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/themeColorsPreview/magenta.png", 
+	"creationDate" : "27/04/2019", 
+	"modificationDate" : "27/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity Hundred, Color", 
+	"version" : "1.0.1-defaultColor.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "default color for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/themeColors/default/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/themeColorsPreview/default.png", 
 	"creationDate" : "27/04/2019", 
 	"modificationDate" : "27/04/2019"
     },
