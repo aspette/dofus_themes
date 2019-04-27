@@ -302,7 +302,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity Hundred", 
-	"keyWords" : "darkOpacity Hundred, Color", Hundred
+	"keyWords" : "darkOpacity Hundred, Color",
 	"version" : "1.0.1-magentaColor.0", 
 	"dofusVersion" : "2.51", 
 	"description" : "magenta color for darkOpacity Hundred", 
@@ -311,3 +311,4 @@
 	"creationDate" : "27/04/2019", 
 	"modificationDate" : "27/04/2019"
     }
+]
