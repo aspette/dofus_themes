@@ -73,6 +73,42 @@
     },
 	{
 	"author" : "Aspette", 
+	"name" : "lightOpacity Beta", 
+	"keyWords" : "lightOpacity, Tactic Mode", 
+	"version" : "tactic", 
+	"dofusVersion" : "2.51", 
+	"description" : "chess tactic mode for lightOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/TacticMode/chess/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/chessTacticPreview.png", 
+	"creationDate" : "29/04/2019", 
+	"modificationDate" : "29/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, Tactic Mode", 
+	"version" : "tactic", 
+	"dofusVersion" : "2.51", 
+	"description" : "chess tactic mode for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/TacticMode/chess/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/chessTacticPreview.png", 
+	"creationDate" : "29/04/2019", 
+	"modificationDate" : "29/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
+	"version" : "tactic",
+	"dofusVersion" : "2.51", 
+	"description" : "chess tactic mode for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/TacticMode/chess/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/chessTacticPreview.png", 
+	"creationDate" : "29/04/2019", 
+	"modificationDate" : "29/04/2019"
+    },
+	{
+	"author" : "Aspette", 
 	"name" : "darkOpacity", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "hpDisplay", 
