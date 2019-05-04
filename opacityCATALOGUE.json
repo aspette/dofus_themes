@@ -346,5 +346,53 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/themeColorsPreview/magenta.png", 
 	"creationDate" : "27/04/2019", 
 	"modificationDate" : "27/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, Buttons", 
+	"version" : "buttons", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity's old buttons for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/buttons/oldButtons/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/buttonsPreview/oldButtonsPreview.png", 
+	"creationDate" : "04/05/2019", 
+	"modificationDate" : "04/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity Hundred, Buttons", 
+	"version" : "buttons", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity's old buttons for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/buttons/oldButtons/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/buttonsPreview/oldButtonsPreview.png", 
+	"creationDate" : "04/05/2019", 
+	"modificationDate" : "04/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, Buttons", 
+	"version" : "buttons", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity's default buttons for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/buttons/defaultButtons/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/buttonsPreview/defaultButtonsPreview.png", 
+	"creationDate" : "04/05/2019", 
+	"modificationDate" : "04/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity Hundred, Buttons", 
+	"version" : "buttons", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkOpacity's default buttons for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/buttons/defaultButtons/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/buttonsPreview/defaultButtonsPreview.png", 
+	"creationDate" : "04/05/2019", 
+	"modificationDate" : "04/05/2019"
     }
 ]
