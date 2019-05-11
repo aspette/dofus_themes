@@ -193,6 +193,18 @@
     },
 	{
 	"author" : "Aspette", 
+	"name" : "oldUI Remake", 
+	"keyWords" : "oldUI, Tactic Mode", 
+	"version" : "stoneTactic", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkStone(default) tactic mode for oldUI Remake", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/oldUI%20Remake/tacticMode/darkStone/oldUIRemake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/darkStoneTacticPreview.png", 
+	"creationDate" : "11/05/2019", 
+	"modificationDate" : "11/05/2019"
+    },
+	{
+	"author" : "Aspette", 
 	"name" : "darkOpacity", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "stoneHpDisplay", 
