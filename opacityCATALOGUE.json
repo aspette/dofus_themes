@@ -206,6 +206,42 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity", 
+	"keyWords" : "darkOpacity, Tactic Mode", 
+	"version" : "stoneTactic", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkStone(default) tactic mode for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/tacticMode/darkStone/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/darkStoneTacticPreview.png", 
+	"creationDate" : "11/05/2019", 
+	"modificationDate" : "11/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred", 
+	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
+	"version" : "stoneTactic", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkStone(default) tactic mode for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/tacticMode/darkStone/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/darkStoneTacticPreview.png", 
+	"creationDate" : "11/05/2019", 
+	"modificationDate" : "11/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "lightOpacity Beta", 
+	"keyWords" : "lightOpacity, Tactic Mode", 
+	"version" : "stoneTactic", 
+	"dofusVersion" : "2.51", 
+	"description" : "darkStone(default) tactic mode for lightOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/tacticMode/darkStone/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticModePreview/darkStoneTacticPreview.png", 
+	"creationDate" : "11/05/2019", 
+	"modificationDate" : "11/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "stoneHpDisplay", 
 	"dofusVersion" : "2.51", 
