@@ -34,5 +34,17 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/lightOpacity/lightOpacity.jpg", 
 	"creationDate" : "09/04/2019", 
 	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "oldUI Remake", 
+	"keyWords" : "oldUI", 
+	"version" : "1.0.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "L'ancienne interface utilisateur revisitée ! (Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIRemake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIPreview.jpg", 
+	"creationDate" : "11/05/2019", 
+	"modificationDate" : "11/05/2019"
     }
 ] 
