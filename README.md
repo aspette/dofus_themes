@@ -1,10 +1,18 @@
-# Themes by Aspette.
+# Dofus's themes by Aspette.
 
-## Lien des thèmes :
- - https://github.com/aspette/dofus_themes/raw/master/darkOpacity.json
+## Themes' list
 
-## Lien du catalogue de personnalisation :
- - https://github.com/aspette/dofus_themes/raw/master/opacityCATALOGUE.json
+```
+[darkOpacity](https://github.com/aspette/dofus_themes/blob/master/themes/darkOpacity/darkOpacity.jpg?raw=true)
+[darkOpacity Hundred](https://github.com/aspette/dofus_themes/blob/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg?raw=true)
+[lightOpacity](https://github.com/aspette/dofus_themes/blob/master/themes/lightOpacity/lightOpacity.jpg?raw=true)
+[oldUI Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%20Remake/oldUIPreview.jpg?raw=true)
+```
 
-## Lien du guide d'utilisation du catalogue : 
- - https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
+## Links
+
+- Themes: https://github.com/aspette/dofus_themes/raw/master/darkOpacity.json
+
+- Catalog: https://github.com/aspette/dofus_themes/raw/master/opacityCATALOGUE.json
+
+- Catalog's installation guide: https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
