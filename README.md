@@ -1,4 +1,4 @@
-# Dofus's themes by Aspette.
+# Dofus themes by Aspette.
 
 ## Themes' list
 
@@ -6,6 +6,8 @@
 - [darkOpacity Hundred](https://github.com/aspette/dofus_themes/blob/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg?raw=true)
 - [lightOpacity](https://github.com/aspette/dofus_themes/blob/master/themes/lightOpacity/lightOpacity.jpg?raw=true)
 - [oldUI Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%20Remake/oldUIPreview.jpg?raw=true)
+- [oldUI 1.x Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.x%20Remake/oldUIPreview.jpg?raw=true)
+
 
 ## Links
 
