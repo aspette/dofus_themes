@@ -8,14 +8,13 @@
 - [oldUI Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%20Remake/oldUIPreview.jpg?raw=true)
 - [oldUI 1.x Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.x%20Remake/oldUIPreview.jpg?raw=true)
 
-
 ## Links
 
 - Themes: 
   https://github.com/aspette/dofus_themes/raw/master/darkOpacity.json
-
+  
 - Catalog:
   https://github.com/aspette/dofus_themes/raw/master/opacityCATALOGUE.json
-
+  
 - Catalog's installation guide:
   https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
