@@ -11,8 +11,11 @@
 
 ## Links
 
-- Themes: https://github.com/aspette/dofus_themes/raw/master/darkOpacity.json
+- Themes: 
+  https://github.com/aspette/dofus_themes/raw/master/darkOpacity.json
 
-- Catalog: https://github.com/aspette/dofus_themes/raw/master/opacityCATALOGUE.json
+- Catalog:
+  https://github.com/aspette/dofus_themes/raw/master/opacityCATALOGUE.json
 
-- Catalog's installation guide: https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
+- Catalog's installation guide:
+  https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
