@@ -146,7 +146,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
-	"keyWords" : "oldUI, Tactic Mode", 
+	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity tactic mode for oldUI Remake", 
@@ -158,7 +158,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
-	"keyWords" : "oldUI, Tactic Mode", 
+	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.51", 
 	"description" : "lightOpacity tactic mode for oldUI Remake", 
@@ -170,7 +170,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
-	"keyWords" : "oldUI, Tactic Mode", 
+	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.51", 
 	"description" : "oldUI tactic mode for oldUI Remake", 
@@ -182,7 +182,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
-	"keyWords" : "oldUI, Tactic Mode", 
+	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.51", 
 	"description" : "chess tactic mode for oldUI Remake", 
@@ -194,7 +194,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
-	"keyWords" : "oldUI, Tactic Mode", 
+	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) tactic mode for oldUI Remake", 
