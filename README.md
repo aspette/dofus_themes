@@ -18,3 +18,4 @@
   
 - Catalog's installation guide:
   https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
+![pdf](https://github.com/aspette/dofus_themes/blob/master/TUTO_CATALOGUE.pdf?raw=true)
