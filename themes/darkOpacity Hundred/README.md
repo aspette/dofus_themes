@@ -1,1 +1,1 @@
-![Preview](darkOpacity.jpg)
+![Preview](darkOpacityHundred.jpg)
