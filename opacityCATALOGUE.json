@@ -1,7 +1,7 @@
 [	
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - darkTactic mode", 
 	"keyWords" : "lightOpacity, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.51", 
@@ -13,7 +13,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - lightTactic mode", 
 	"keyWords" : "lightOpacity, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.51", 
@@ -25,7 +25,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - lightTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.51", 
@@ -37,7 +37,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - lightTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.51", 
@@ -49,7 +49,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - darkTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.51", 
@@ -61,7 +61,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - darkTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.51", 
@@ -73,7 +73,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - chessTactic mode", 
 	"keyWords" : "lightOpacity, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.51", 
@@ -85,7 +85,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - chessTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.51", 
@@ -97,7 +97,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - chessTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "chessTactic",
 	"dofusVersion" : "2.51", 
@@ -109,7 +109,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - oldUITactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.51", 
@@ -121,7 +121,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - oldUITactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.51", 
@@ -133,7 +133,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - oldUITactic mode", 
 	"keyWords" : "lightOpacity, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.51", 
@@ -145,7 +145,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI Remake", 
+	"name" : "oldUI Remake - darkTactic mode", 
 	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.51", 
@@ -157,7 +157,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI Remake", 
+	"name" : "oldUI Remake - lightTactic mode", 
 	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.51", 
@@ -169,7 +169,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI Remake", 
+	"name" : "oldUI Remake - oldUITactic mode", 
 	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.51", 
@@ -181,7 +181,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI Remake", 
+	"name" : "oldUI Remake - chessTactic mode", 
 	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.51", 
@@ -193,7 +193,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI Remake", 
+	"name" : "oldUI Remake - stoneTactic mode", 
 	"keyWords" : "oldUI Remake, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.51", 
@@ -205,7 +205,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI 1.x Remake", 
+	"name" : "oldUI 1.x Remake - darkTactic mode", 
 	"keyWords" : "oldUI 1.x Remake, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.51", 
@@ -217,7 +217,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI 1.x Remake", 
+	"name" : "oldUI 1.x Remake - lightTactic mode", 
 	"keyWords" : "oldUI 1.x Remake, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.51", 
@@ -229,7 +229,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI 1.x Remake", 
+	"name" : "oldUI 1.x Remake - oldUITactic mode", 
 	"keyWords" : "oldUI 1.x Remake, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.51", 
@@ -241,7 +241,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI 1.x Remake", 
+	"name" : "oldUI 1.x Remake - chessTactic mode", 
 	"keyWords" : "oldUI 1.x Remake, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.51", 
@@ -253,7 +253,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "oldUI 1.x Remake", 
+	"name" : "oldUI 1.x Remake - stoneTactic mode", 
 	"keyWords" : "oldUI 1.x Remake, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.51", 
@@ -265,7 +265,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - stoneTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.51", 
@@ -277,7 +277,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - stoneTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.51", 
@@ -289,7 +289,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - stoneTactic mode", 
 	"keyWords" : "lightOpacity, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.51", 
@@ -301,79 +301,79 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - stone HP display", 
 	"keyWords" : "darkOpacity, HP Display", 
-	"version" : "stoneHpDisplay", 
+	"version" : "stoneHPDisplay", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) HP display for darkOpacity", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/hpDisplay/darkStone/darkOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkStoneDOPreview.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/HPDisplay/darkStone/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/HPDisplayPreview/darkStoneDOPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - stone HP display", 
 	"keyWords" : "darkOpacity Hundred, HP Display", 
-	"version" : "stoneHpDisplay", 
+	"version" : "stoneHPDisplay", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) HP display for darkOpacity Hundred", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/hpDisplay/darkStone/darkOpacityHundred.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkStoneDOPreview.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/HPDisplay/darkStone/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/HPDisplayPreview/darkStoneDOPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - stone HP display", 
 	"keyWords" : "lightOpacity, HP Display", 
-	"version" : "stoneHpDisplay", 
+	"version" : "stoneHPDisplay", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkStone(default) HP display for lightOpacity", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/hpDisplay/darkStone/lightOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkStoneLOPreview.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/HPDisplay/darkStone/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/HPDisplayPreview/darkStoneLOPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - opacity HP display", 
 	"keyWords" : "darkOpacity, HP Display", 
-	"version" : "opacityHpDisplay", 
+	"version" : "opacityHPDisplay", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity HP display for darkOpacity", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/hpDisplay/default/darkOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkOpacityPreview.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity/HPDisplay/default/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/HPDisplayPreview/darkOpacityPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - opacity HP display", 
 	"keyWords" : "darkOpacity Hundred, HP Display", 
-	"version" : "opacityHpDisplay", 
+	"version" : "opacityHPDisplay", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity HP display for darkOpacity Hundred", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/hpDisplay/default/darkOpacityHundred.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/darkOpacityPreview.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/darkOpacity%20Hundred/HPDisplay/default/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/HPDisplayPreview/darkOpacityPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
 	{
 	"author" : "Aspette", 
-	"name" : "lightOpacity Beta", 
+	"name" : "lightOpacity - opacity HP display", 
 	"keyWords" : "lightOpacity, HP Display", 
-	"version" : "opacityHpDisplay", 
+	"version" : "opacityHPDisplay", 
 	"dofusVersion" : "2.51", 
 	"description" : "darkOpacity HP display for lightOpacity", 
-	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/hpDisplay/default/lightOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplayPreview/lightOpacityPreview.jpg", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/lightOpacity/HPDisplay/default/lightOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/HPDisplayPreview/lightOpacityPreview.jpg", 
 	"creationDate" : "13/04/2019", 
 	"modificationDate" : "13/04/2019"
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - default color", 
 	"keyWords" : "darkOpacity, Color", 
 	"version" : "defaultColor", 
 	"dofusVersion" : "2.51", 
@@ -385,7 +385,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - red color", 
 	"keyWords" : "darkOpacity, Color", 
 	"version" : "redColor", 
 	"dofusVersion" : "2.51", 
@@ -397,7 +397,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - green color", 
 	"keyWords" : "darkOpacity, Color", 
 	"version" : "greenColor", 
 	"dofusVersion" : "2.51", 
@@ -409,7 +409,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - yellow color", 
 	"keyWords" : "darkOpacity, Color", 
 	"version" : "yellowColor", 
 	"dofusVersion" : "2.51", 
@@ -433,7 +433,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - cyan color", 
 	"keyWords" : "darkOpacity, Color", 
 	"version" : "cyanColor", 
 	"dofusVersion" : "2.51", 
@@ -445,7 +445,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - magenta color", 
 	"keyWords" : "darkOpacity, Color", 
 	"version" : "magentaColor", 
 	"dofusVersion" : "2.51", 
@@ -457,7 +457,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - default color", 
 	"keyWords" : "darkOpacity Hundred, Color", 
 	"version" : "defaultColor", 
 	"dofusVersion" : "2.51", 
@@ -469,7 +469,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - red color", 
 	"keyWords" : "darkOpacity Hundred, Color", 
 	"version" : "redColor", 
 	"dofusVersion" : "2.51", 
@@ -481,7 +481,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - green color", 
 	"keyWords" : "darkOpacity Hundred, Color", 
 	"version" : "greenColor", 
 	"dofusVersion" : "2.51", 
@@ -493,7 +493,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - yellow color", 
 	"keyWords" : "darkOpacity Hundred, Color", 
 	"version" : "yellowColor", 
 	"dofusVersion" : "2.51", 
@@ -505,7 +505,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - blue color", 
 	"keyWords" : "darkOpacity Hundred, Color", 
 	"version" : "blueColor", 
 	"dofusVersion" : "2.51", 
@@ -517,7 +517,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - cyan color", 
 	"keyWords" : "darkOpacity Hundred, Color", 
 	"version" : "cyanColor", 
 	"dofusVersion" : "2.51", 
@@ -529,7 +529,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - magenta color", 
 	"keyWords" : "darkOpacity Hundred, Color",
 	"version" : "magentaColor", 
 	"dofusVersion" : "2.51", 
@@ -541,7 +541,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - old opacity buttons", 
 	"keyWords" : "darkOpacity, Buttons", 
 	"version" : "opacityOldButtons", 
 	"dofusVersion" : "2.51", 
@@ -553,7 +553,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - old opacity buttons", 
 	"keyWords" : "darkOpacity Hundred, Buttons", 
 	"version" : "opacityOldButtons", 
 	"dofusVersion" : "2.51", 
@@ -565,7 +565,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity", 
+	"name" : "darkOpacity - default buttons", 
 	"keyWords" : "darkOpacity, Buttons", 
 	"version" : "opacityButtons", 
 	"dofusVersion" : "2.51", 
@@ -577,7 +577,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "darkOpacity Hundred", 
+	"name" : "darkOpacity Hundred - default buttons", 
 	"keyWords" : "darkOpacity Hundred, Buttons", 
 	"version" : "opacityButtons", 
 	"dofusVersion" : "2.51", 
