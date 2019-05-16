@@ -1,6 +1,6 @@
 # Dofus themes by Aspette.
 
-## Themes' list
+## Themes list
 
 - [darkOpacity](https://github.com/aspette/dofus_themes/blob/master/themes/darkOpacity/darkOpacity.jpg?raw=true)
 - [darkOpacity Hundred](https://github.com/aspette/dofus_themes/blob/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg?raw=true)
