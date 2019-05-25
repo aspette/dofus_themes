@@ -58,5 +58,29 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%201.x%20Remake/oldUIPreview.jpg", 
 	"creationDate" : "12/05/2019", 
 	"modificationDate" : "12/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "oldUI 1.29 Remake", 
+	"keyWords" : "oldUI 1.29 Remake", 
+	"version" : "1.0.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "L'ancienne interface utilisateur revisitée, en beige ! (Twitter : @Aspette)", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%201.29%20Remake/oldUI1.29Remake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%201.29%20Remake/oldUIPreview.jpg", 
+	"creationDate" : "25/05/2019", 
+	"modificationDate" : "25/05/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "customDarkStone", 
+	"keyWords" : "customDarkStone", 
+	"version" : "1.0.0", 
+	"dofusVersion" : "2.51", 
+	"description" : "Thème sombre, composé de variantes de gris, dans un style moderne.", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/customDarkStone/customDarkStone.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/customDarkStone/customDarkStone.jpg", 
+	"creationDate" : "25/05/2019", 
+	"modificationDate" : "25/05/2019"
     }
 ] 
