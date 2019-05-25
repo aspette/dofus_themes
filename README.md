@@ -7,6 +7,8 @@
 - [lightOpacity](https://github.com/aspette/dofus_themes/blob/master/themes/lightOpacity/lightOpacity.jpg?raw=true)
 - [oldUI Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%20Remake/oldUIPreview.jpg?raw=true)
 - [oldUI 1.x Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.x%20Remake/oldUIPreview.jpg?raw=true)
+- [oldUI 1.29 Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.29%20Remake/oldUIPreview.jpg?raw=true)
+- [customDarkStone](https://github.com/aspette/dofus_themes/blob/master/themes/customDarkStone/darkStonePreview.jpg?raw=true)
 
 ## Links
 
