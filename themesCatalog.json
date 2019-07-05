@@ -650,7 +650,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity - 85% opacity Windows", 
-	"keyWords" : "darkOpacity, Tactic Mode", 
+	"keyWords" : "darkOpacity, Windows", 
 	"version" : "85%windows", 
 	"dofusVersion" : "2.52", 
 	"description" : "85% opacity windows for darkOpacity", 
@@ -662,7 +662,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity - 90% opacity Windows", 
-	"keyWords" : "darkOpacity, Tactic Mode", 
+	"keyWords" : "darkOpacity, Windows", 
 	"version" : "90%windows", 
 	"dofusVersion" : "2.52", 
 	"description" : "90% opacity windows for darkOpacity", 
@@ -674,7 +674,7 @@
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity - 85% opacity No Stripes Windows", 
-	"keyWords" : "darkOpacity, Tactic Mode", 
+	"keyWords" : "darkOpacity, Windows", 
 	"version" : "noStripes85%windows", 
 	"dofusVersion" : "2.52", 
 	"description" : "85% opacity no stripes windows for darkOpacity", 
