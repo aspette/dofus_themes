@@ -655,7 +655,7 @@
 	"dofusVersion" : "2.52", 
 	"description" : "85% opacity windows for darkOpacity", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/darkOpacity/opacity85Windows/darkOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/opacity85Preview.png", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/preview/opacity85Preview.png", 
 	"creationDate" : "05/07/2019", 
 	"modificationDate" : "05/07/2019"
     },
@@ -667,7 +667,7 @@
 	"dofusVersion" : "2.52", 
 	"description" : "90% opacity windows for darkOpacity", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/darkOpacity/opacity90Windows/darkOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/opacity90Preview.png", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/preview/opacity90Preview.png", 
 	"creationDate" : "05/07/2019", 
 	"modificationDate" : "05/07/2019"
     },
@@ -679,7 +679,7 @@
 	"dofusVersion" : "2.52", 
 	"description" : "85% opacity no stripes windows for darkOpacity", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/darkOpacity/opacity85NoStripesWindows/darkOpacity.zip", 
-	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/opacity85NoStripesPreview.png", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/preview/opacity85NoStripesPreview.png", 
 	"creationDate" : "05/07/2019", 
 	"modificationDate" : "05/07/2019"
     },
