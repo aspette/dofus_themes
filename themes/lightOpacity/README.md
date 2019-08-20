@@ -1,2 +1,0 @@
-# lightOpacity
-![Preview](lightOpacity.jpg)
