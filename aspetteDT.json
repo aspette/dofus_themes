@@ -2,25 +2,25 @@
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
 	"keyWords" : "oldUI", 
-	"version" : "1.3.0", 
-	"dofusVersion" : "2.53", 
+	"version" : "1.5.0", 
+	"dofusVersion" : "2.54", 
 	"description" : "L'ancienne interface utilisateur revisitée ! (Twitter : @Aspette)", 
 	"url" : "http://dofus.tools/php2/content/theme-244.zip", 
 	"previewUrl" : "http://dofus.tools/php2/content/theme-244.jpeg", 
 	"creationDate" : "11/05/2019", 
-	"modificationDate" : "28/09/2019"
+	"modificationDate" : "08/12/2019"
 	},
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI (beige) Remake", 
 	"keyWords" : "oldUI", 
-	"version" : "1.3.0", 
-	"dofusVersion" : "2.53", 
+	"version" : "1.5.0", 
+	"dofusVersion" : "2.54", 
 	"description" : "L'ancienne interface utilisateur revisitée, en beige ! (Twitter : @Aspette)", 
 	"url" : "http://dofus.tools/php2/content/theme-245.zip", 
 	"previewUrl" : "http://dofus.tools/php2/content/theme-245.jpeg", 
 	"creationDate" : "12/05/2019", 
-	"modificationDate" : "28/09/2019"
+	"modificationDate" : "08/12/2019"
 	},
 	{
 	"author" : "Aspette", 
@@ -38,25 +38,25 @@
 	"author" : "Aspette", 
 	"name" : "darkOpacity", 
 	"keyWords" : "darkOpacity", 
-	"version" : "5.2.0", 
-	"dofusVersion" : "2.53", 
+	"version" : "5.5.0", 
+	"dofusVersion" : "2.54", 
 	"description" : "darkOpacity : La transparence à portée de main. (Twitter : @Aspette)", 
 	"url" : "http://dofus.tools/php2/content/theme-249.zip", 
 	"previewUrl" : "http://dofus.tools/php2/content/theme-249.jpeg", 
 	"creationDate" : "01/08/2017", 
-	"modificationDate" : "28/09/2019"
+	"modificationDate" : "08/12/2019"
 	},
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity Hundred", 
 	"keyWords" : "darkOpacity", 
-	"version" : "5.2.0", 
-	"dofusVersion" : "2.53", 
+	"version" : "5.5.0", 
+	"dofusVersion" : "2.54", 
 	"description" : "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)", 
 	"url" : "http://dofus.tools/php2/content/theme-248.zip", 
 	"previewUrl" : "http://dofus.tools/php2/content/theme-248.jpeg", 
 	"creationDate" : "01/08/2017", 
-	"modificationDate" : "28/09/2019"
+	"modificationDate" : "08/12/2019"
 	},
 	{
 	"author" : "Aspette", 
