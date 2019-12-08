@@ -6,7 +6,7 @@
 - [darkOpacity Hundred](https://github.com/aspette/dofus_themes/blob/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg?raw=true)
 - [lightOpacity](https://github.com/aspette/dofus_themes/blob/master/themes/lightOpacity/lightOpacity.jpg?raw=true)
 - [oldUI Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%20Remake/oldUIPreview.jpg?raw=true)
-- [oldUI 1.x Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.x%20Remake/oldUIPreview.jpg?raw=true)
+- [oldUI (beige) Remake](https://raw.githubusercontent.com/aspette/dofus_themes/master/themes/oldUI%20beige%20Remake/oldUIPreview.jpg?raw=true)
 - [oldUI 1.29 Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.29%20Remake/oldUIPreview.jpg?raw=true)
 - [customDarkStone](https://github.com/aspette/dofus_themes/blob/master/themes/customDarkStone/darkStonePreview.jpg?raw=true)
 
