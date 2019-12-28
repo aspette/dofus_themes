@@ -3,25 +3,25 @@
 	"author" : "Aspette", 
 	"name" : "darkOpacity", 
 	"keyWords" : "darkOpacity", 
-	"version" : "5.5.1", 
+	"version" : "5.5.2", 
 	"dofusVersion" : "2.54", 
 	"description" : "darkOpacity : La transparence à portée de main. (Twitter : @Aspette)", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg", 
 	"creationDate" : "01/08/2017", 
-	"modificationDate" : "09/12/2019"
+	"modificationDate" : "28/12/2019"
     },
 	{
 	"author" : "Aspette", 
 	"name" : "darkOpacity Hundred", 
 	"keyWords" : "darkOpacity", 
-	"version" : "5.5.1", 
+	"version" : "5.5.2", 
 	"dofusVersion" : "2.54", 
 	"description" : "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg", 
 	"creationDate" : "01/08/2017", 
-	"modificationDate" : "09/12/2019"
+	"modificationDate" : "28/12/2019"
     },
 	{
 	"author" : "Aspette", 
@@ -39,25 +39,25 @@
 	"author" : "Aspette", 
 	"name" : "oldUI Remake", 
 	"keyWords" : "oldUI Remake", 
-	"version" : "1.5.1", 
+	"version" : "1.5.2", 
 	"dofusVersion" : "2.54", 
 	"description" : "L'ancienne interface utilisateur revisitée ! (Twitter : @Aspette)", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIRemake.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIPreview.jpg", 
 	"creationDate" : "11/05/2019", 
-	"modificationDate" : "11/12/2019"
+	"modificationDate" : "28/12/2019"
     },
 	{
 	"author" : "Aspette", 
 	"name" : "oldUI (beige) Remake", 
 	"keyWords" : "oldUI (beige) Remake", 
-	"version" : "1.5.1", 
+	"version" : "1.5.2", 
 	"dofusVersion" : "2.54", 
 	"description" : "L'ancienne interface utilisateur revisitée, en beige ! (Twitter : @Aspette)", 
 	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20beige%20Remake/oldUIbeigeRemake.zip", 
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20beige%20Remake/oldUIPreview.jpg", 
 	"creationDate" : "12/05/2019", 
-	"modificationDate" : "11/12/2019"
+	"modificationDate" : "28/12/2019"
     },
 	{
 	"author" : "Aspette", 

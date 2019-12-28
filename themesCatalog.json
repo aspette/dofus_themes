@@ -694,5 +694,101 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/preview/opacity90NoStripesPreview.jpg", 
 	"creationDate" : "05/07/2019", 
 	"modificationDate" : "05/07/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity - colored Infinite Dreams Slots", 
+	"keyWords" : "darkOpacity, Infinite Dreams", 
+	"version" : "coloredIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "colored infinite dreams slots for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/darkOpacity/colored/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/coloredPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred - colored Infinite Dreams Slots", 
+	"keyWords" : "darkOpacity Hundred, Infinite Dreams", 
+	"version" : "coloredIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "colored infinite dreams slots for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/darkOpacityHundred/colored/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/coloredPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "oldUI Remake - colored Infinite Dreams Slots", 
+	"keyWords" : "oldUI Remake, Infinite Dreams", 
+	"version" : "coloredIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "colored infinite dreams slots for oldUI Remake", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/oldUIRemake/colored/oldUIRemake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/coloredPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "oldUI (beige) Remake - colored Infinite Dreams Slots", 
+	"keyWords" : "oldUI (beige) Remake, Infinite Dreams", 
+	"version" : "coloredIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "colored infinite dreams slots for oldUI (beige) Remake", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/oldUIbeigeRemake/colored/oldUIbeigeRemake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/coloredPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity - default Infinite Dreams Slots", 
+	"keyWords" : "darkOpacity, Infinite Dreams", 
+	"version" : "defaultIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "default infinite dreams slots for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/darkOpacity/default/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/defaultPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred - default Infinite Dreams Slots", 
+	"keyWords" : "darkOpacity Hundred, Infinite Dreams", 
+	"version" : "defaultIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "default infinite dreams slots for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/darkOpacityHundred/default/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/defaultPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "oldUI Remake - default Infinite Dreams Slots", 
+	"keyWords" : "oldUI Remake, Infinite Dreams", 
+	"version" : "defaultIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "default infinite dreams slots for oldUI Remake", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/oldUIRemake/default/oldUIRemake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/defaultPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "oldUI (beige) Remake - default Infinite Dreams Slots", 
+	"keyWords" : "oldUI (beige) Remake, Infinite Dreams", 
+	"version" : "defaultIDSlots", 
+	"dofusVersion" : "2.54", 
+	"description" : "default infinite dreams slots for oldUI (beige) Remake", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/oldUIbeigeRemake/default/oldUIbeigeRemake.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/infiniteDreamsSlots/preview/defaultPreview.jpg", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "28/12/2019"
     }
 ]
