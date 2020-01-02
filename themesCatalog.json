@@ -697,6 +697,30 @@
     },
 	{
 	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred - No Stripes Windows", 
+	"keyWords" : "darkOpacity Hundred, Windows", 
+	"version" : "noStripesWindows", 
+	"dofusVersion" : "2.54", 
+	"description" : "no stripes windows for darkOpacityHundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/darkOpacityHundred/noStripesWindows/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/preview/noStripesPreview.jpg", 
+	"creationDate" : "05/07/2019", 
+	"modificationDate" : "05/07/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "darkOpacity Hundred - default Windows", 
+	"keyWords" : "darkOpacity Hundred, Windows", 
+	"version" : "defaultWindows", 
+	"dofusVersion" : "2.54", 
+	"description" : "default windows for darkOpacityHundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/darkOpacityHundred/defaultWindows/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/windows/preview/defaultPreview.jpg", 
+	"creationDate" : "05/07/2019", 
+	"modificationDate" : "05/07/2019"
+    },
+	{
+	"author" : "Aspette", 
 	"name" : "darkOpacity - colored Infinite Dreams Slots", 
 	"keyWords" : "darkOpacity, Infinite Dreams", 
 	"version" : "coloredIDSlots", 
