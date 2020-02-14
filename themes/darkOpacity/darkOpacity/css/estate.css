@@ -1,0 +1,35 @@
+title {
+	font-family: Roboto;
+	font-size: 18;
+	color: #e0e0de;
+	text-align: center;
+}
+
+normal {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #e0e0de;
+	text-align: justify;
+}
+
+bold {
+	font-family: Roboto;
+	font-size: 16;
+	color: #e0e0de;
+	font-weight: bold;
+	text-align: left;
+}
+
+kamaslabel {
+	font-family: Roboto;
+	font-size: 16;
+	color: #e0e0de;
+}
+
+kamasinput {
+	font-family: Roboto;
+	font-size: 16;
+	color: #e0e0de;
+	font-weight: bold;
+	text-align: right;
+}

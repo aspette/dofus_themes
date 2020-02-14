@@ -1,0 +1,54 @@
+p {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #E7DEDA;
+	text-align: left;
+	font-weight: bold;
+}
+
+normal {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #E7DEDA;
+	text-align: left;
+	font-weight: bold;
+}
+
+center {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #E7DEDA;
+	font-weight: bold;
+	text-align: center;
+}
+
+spell {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #ffac4b;
+	text-align: left;
+	font-weight: bold;
+}
+
+etheral {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #8ab7ee;
+	text-align: left;
+	font-weight: bold;
+}
+
+itemset {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #feb336;
+	text-align: left;
+	font-weight: bold;
+}
+
+shield {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #9966CC;
+	font-weight: bold;
+}

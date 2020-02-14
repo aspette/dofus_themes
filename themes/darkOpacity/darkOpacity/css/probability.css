@@ -1,0 +1,41 @@
+p {
+    font-family: Roboto;
+    font-size: 15;
+    color: #c7c7c5;
+    text-align: left;
+}
+
+right_p {
+    text-align: right;
+}
+
+left_p {
+    text-align: left;
+}
+
+common_right {
+    color: #b0b0b0;
+}
+
+uncommon_right {
+    color: #52ae3f;
+}
+
+rare_right {
+    color: #49a8af;
+}
+
+epic_right {
+    color: #9855cb;
+}
+
+legendary_right {
+    color: #f5d000;
+}
+
+headertitle {
+    font-family: Roboto;
+    font-size: 18;
+    font-weight: bold;
+    color: #dfdfdf;
+}

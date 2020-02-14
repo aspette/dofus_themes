@@ -1,0 +1,34 @@
+p {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #ffd376;
+	text-align: center;
+}
+
+center {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #ffd376;
+	text-align: center;
+}
+
+bonta {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #00ffff;
+	text-align: center;
+}
+
+brakmar {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #ff6666;
+	text-align: center;
+}
+
+malus {
+    font-family: Verdana;
+    font-size: 17px;
+    color:#f87600;
+    text-align: center;
+}

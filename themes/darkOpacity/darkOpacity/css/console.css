@@ -1,0 +1,49 @@
+p {
+	font-family: Courier;
+	font-size: 14px;
+	color: #dddddd;
+	useEmbedFonts: false;
+}
+
+pinfo {
+	font-family: Courier;
+	font-size: 14px;
+	color: #6cc26e;
+	useEmbedFonts: false;
+}
+
+perror {
+	font-family: Courier;
+	font-size: 14px;
+	color: #dd9292;
+	useEmbedFonts: false;
+}
+
+palpha {
+	font-family: Courier;
+	font-size: 14px;
+	color: #eeeeee;
+	useEmbedFonts: false;
+}
+
+pinfoalpha {
+	font-family: Courier;
+	font-size: 14px;
+	color: #78fe00;
+	useEmbedFonts: false;
+}
+
+perroralpha {
+	font-family: Courier;
+	font-size: 14px;
+	color: #ffb400;
+	useEmbedFonts: false;
+}
+
+
+b {
+	font-family: Courier;
+	font-size: 14px;
+	color: #dddddd;
+	useEmbedFonts: false;
+}
