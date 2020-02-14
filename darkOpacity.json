@@ -60,7 +60,7 @@
 	"modificationDate" : "14/02/2020"
     },	{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - lightTactic mode", 
+	"name" : "x darkOpacity - lightTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.54", 
@@ -72,7 +72,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - darkTactic mode", 
+	"name" : "x darkOpacity - darkTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.54", 
@@ -83,7 +83,7 @@
 	"modificationDate" : "09/04/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - chessTactic mode", 
+	"name" : "x darkOpacity - chessTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.54", 
@@ -94,7 +94,7 @@
 	"modificationDate" : "29/04/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - oldUITactic mode", 
+	"name" : "x darkOpacity - oldUITactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.54", 
@@ -105,7 +105,7 @@
 	"modificationDate" : "11/05/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - oldUITactic mode", 
+	"name" : "x darkOpacity Hundred - oldUITactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.54", 
@@ -116,7 +116,7 @@
 	"modificationDate" : "11/05/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - stoneTactic mode", 
+	"name" : "x darkOpacity - stoneTactic mode", 
 	"keyWords" : "darkOpacity, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.54", 
@@ -127,7 +127,7 @@
 	"modificationDate" : "11/05/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - stone HP display", 
+	"name" : "x darkOpacity - stone HP display", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "stoneHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -138,7 +138,7 @@
 	"modificationDate" : "13/04/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - oldUI HP display", 
+	"name" : "x darkOpacity - oldUI HP display", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "oldUIHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -149,7 +149,7 @@
 	"modificationDate" : "04/07/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - oldUI 1.29 HP display", 
+	"name" : "x darkOpacity - oldUI 1.29 HP display", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "oldUI1.29HPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -160,7 +160,7 @@
 	"modificationDate" : "04/07/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - 85% opacity No Stripes Windows", 
+	"name" : "x darkOpacity - 85% opacity No Stripes Windows", 
 	"keyWords" : "darkOpacity, Windows", 
 	"version" : "noStripes85%windows", 
 	"dofusVersion" : "2.54", 
@@ -172,7 +172,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - 90% opacity No Stripes Windows", 
+	"name" : "x darkOpacity - 90% opacity No Stripes Windows", 
 	"keyWords" : "darkOpacity, Windows", 
 	"version" : "noStripes90%windows", 
 	"dofusVersion" : "2.54", 
@@ -185,7 +185,7 @@
 
 	{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - lightTactic mode", 
+	"name" : "x darkOpacity Hundred - lightTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.54", 
@@ -197,7 +197,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - darkTactic mode", 
+	"name" : "x darkOpacity Hundred - darkTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.54", 
@@ -208,7 +208,7 @@
 	"modificationDate" : "09/04/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - chessTactic mode", 
+	"name" : "x darkOpacity Hundred - chessTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "chessTactic",
 	"dofusVersion" : "2.54", 
@@ -219,7 +219,7 @@
 	"modificationDate" : "29/04/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - stoneTactic mode", 
+	"name" : "x darkOpacity Hundred - stoneTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.54", 
@@ -230,7 +230,7 @@
 	"modificationDate" : "11/05/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - stone HP display", 
+	"name" : "x darkOpacity Hundred - stone HP display", 
 	"keyWords" : "darkOpacity Hundred, HP Display", 
 	"version" : "stoneHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -241,7 +241,7 @@
 	"modificationDate" : "13/04/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity - opacity HP display", 
+	"name" : "x darkOpacity - opacity HP display", 
 	"keyWords" : "darkOpacity, HP Display", 
 	"version" : "opacityHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -252,7 +252,7 @@
 	"modificationDate" : "03/07/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - opacity HP display", 
+	"name" : "x darkOpacity Hundred - opacity HP display", 
 	"keyWords" : "darkOpacity Hundred, HP Display", 
 	"version" : "opacityHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -263,7 +263,7 @@
 	"modificationDate" : "03/07/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - oldUI HP display", 
+	"name" : "x darkOpacity Hundred - oldUI HP display", 
 	"keyWords" : "darkOpacity Hundred, HP Display", 
 	"version" : "oldUIHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -274,7 +274,7 @@
 	"modificationDate" : "04/07/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! darkOpacity Hundred - oldUI 1.29 HP display", 
+	"name" : "x darkOpacity Hundred - oldUI 1.29 HP display", 
 	"keyWords" : "darkOpacity Hundred, HP Display", 
 	"version" : "oldUI1.29HPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -290,7 +290,7 @@
 	
 	{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - darkTactic mode", 
+	"name" : "x customDarkStone - darkTactic mode", 
 	"keyWords" : "customDarkStone, Tactic Mode", 
 	"version" : "darkTactic", 
 	"dofusVersion" : "2.54", 
@@ -302,7 +302,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - lightTactic mode", 
+	"name" : "x customDarkStone - lightTactic mode", 
 	"keyWords" : "customDarkStone, Tactic Mode", 
 	"version" : "lightTactic", 
 	"dofusVersion" : "2.54", 
@@ -314,7 +314,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - oldUITactic mode", 
+	"name" : "x customDarkStone - oldUITactic mode", 
 	"keyWords" : "customDarkStone, Tactic Mode", 
 	"version" : "oldUITactic", 
 	"dofusVersion" : "2.54", 
@@ -326,7 +326,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - chessTactic mode", 
+	"name" : "x customDarkStone - chessTactic mode", 
 	"keyWords" : "customDarkStone, Tactic Mode", 
 	"version" : "chessTactic", 
 	"dofusVersion" : "2.54", 
@@ -338,7 +338,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - stoneTactic mode", 
+	"name" : "x customDarkStone - stoneTactic mode", 
 	"keyWords" : "customDarkStone, Tactic Mode", 
 	"version" : "stoneTactic", 
 	"dofusVersion" : "2.54", 
@@ -349,7 +349,7 @@
 	"modificationDate" : "25/05/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - oldUI HP display", 
+	"name" : "x customDarkStone - oldUI HP display", 
 	"keyWords" : "customDarkStone, HP Display", 
 	"version" : "oldUIHPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -360,7 +360,7 @@
 	"modificationDate" : "04/07/2019"
     },{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - oldUI 1.29 HP display", 
+	"name" : "x customDarkStone - oldUI 1.29 HP display", 
 	"keyWords" : "customDarkStone, HP Display", 
 	"version" : "oldUI1.29HPDisplay", 
 	"dofusVersion" : "2.54", 
@@ -372,7 +372,7 @@
     },
 	{
 	"author" : "Aspette", 
-	"name" : "! customDarkStone - stone HP display", 
+	"name" : "x customDarkStone - stone HP display", 
 	"keyWords" : "customDarkStone, HP Display", 
 	"version" : "stoneHPDisplay", 
 	"dofusVersion" : "2.54", 
