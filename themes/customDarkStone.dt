@@ -1,11 +1,9 @@
 <theme>
     <name>customDarkStone</name>
     <skinType>1</skinType>
-    <description>Thème sombre, composé de variantes de gris, dans un style moderne. Compatible avec le catalogue.</description>
+    <description>Thème sombre, composé de variantes de gris, dans un style moderne.</description>
     <previewUri>darkStonePreview.jpg</previewUri>
 	<author>Ankama Games</author>
-	<version>1.2.0</version>
-    <dofusVersion>2.53</dofusVersion>
-	<creationDate>25/05/2019</creationDate>
-    <modificationDate>28/09/2019</modificationDate>
+	<version>2.1.0</version>
+    <dofusVersion>2.54</dofusVersion>
 </theme>
