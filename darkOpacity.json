@@ -205,6 +205,54 @@
     },	
 	{
 	"author" : "Aspette", 
+	"name" : "x darkOpacity - semiBlocks tactic mode", 
+	"keyWords" : "darkOpacity, Tactic Mode", 
+	"version" : "semiBlocksTactic", 
+	"dofusVersion" : "2.54", 
+	"description" : "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ semiBlocks tactic mode for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacity/semiBlock/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/semiBlockPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "x darkOpacity - normalBlocks tactic mode", 
+	"keyWords" : "darkOpacity, Tactic Mode", 
+	"version" : "normalBlocksTactic", 
+	"dofusVersion" : "2.54", 
+	"description" : "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ normalBlocks tactic mode for darkOpacity", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacity/normalBlock/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/normalBlockPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "x darkOpacity Hundred - semiBlocks tactic mode", 
+	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
+	"version" : "semiBlocksTactic", 
+	"dofusVersion" : "2.54", 
+	"description" : "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ semiBlocks tactic mode for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacityHundred/semiBlock/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/semiBlockPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "x darkOpacity Hundred - normalBlocks tactic mode", 
+	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
+	"version" : "normalBlocksTactic", 
+	"dofusVersion" : "2.54", 
+	"description" : "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ normalBlocks tactic mode for darkOpacity Hundred", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacityHundred/normalBlock/darkOpacityHundred.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/normalBlockPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
 	"name" : "x darkOpacity Hundred - lightTactic mode", 
 	"keyWords" : "darkOpacity Hundred, Tactic Mode", 
 	"version" : "lightTactic", 
@@ -406,5 +454,29 @@
 	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/hpDisplay/preview/darkStonePreview.jpg", 
 	"creationDate" : "04/07/2019", 
 	"modificationDate" : "04/07/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "x customDarkStone - semiBlocks tactic mode", 
+	"keyWords" : "customDarkStone, Tactic Mode", 
+	"version" : "semiBlocksTactic", 
+	"dofusVersion" : "2.54", 
+	"description" : "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ semiBlocks tactic mode for customDarkStone", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/customDarkStone/semiBlock/customDarkStone.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/semiBlockPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
+    },
+	{
+	"author" : "Aspette", 
+	"name" : "x customDarkStone - normalBlocks tactic mode", 
+	"keyWords" : "customDarkStone, Tactic Mode", 
+	"version" : "normalBlocksTactic", 
+	"dofusVersion" : "2.54", 
+	"description" : "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ normalBlocks tactic mode for customDarkStone", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/customDarkStone/normalBlock/customDarkStone.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/normalBlockPreview.png", 
+	"creationDate" : "09/04/2019", 
+	"modificationDate" : "09/04/2019"
     }
 ] 
