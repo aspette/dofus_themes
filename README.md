@@ -18,4 +18,5 @@
   
   if it doesn't work: 
   https://github.com/aspette/dofus_themes/raw/master/aspetteDT.json
+  
   http://www.dofus.tools/?page=themeCenter&sort=popularity&author=Aspette
