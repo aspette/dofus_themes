@@ -16,10 +16,7 @@
 	darkOpacitys & customDarkStone : https://github.com/aspette/dofus_themes/raw/master/darkOpacity.json
 	oldUI Remakes : https://github.com/aspette/dofus_themes/raw/master/oldUIRemake.json
   
-  if it doesn't work: https://github.com/aspette/dofus_themes/raw/master/aspetteDT.json
+  if it doesn't work: 
+  https://github.com/aspette/dofus_themes/raw/master/aspetteDT.json
   
-- Catalog:
-  https://github.com/aspette/dofus_themes/raw/master/themesCatalog.json
-  
-- Catalog's installation guide:
-  https://www.cjoint.com/doc/19_05/IEltgbXl0Bs_TUTO-CATALOGUE.pdf
+  http://www.dofus.tools/?page=themeCenter&sort=popularity&author=Aspette
