@@ -35,7 +35,8 @@
 	<entry key="grid.selected">0x30CCCCCC</entry>
 	<entry key="grid.bg.green">0x2C512C</entry>
 	<entry key="grid.bg.red">0x5F190B</entry>
-	
+<!--	// Temporis IV-->
+	<entry key="grid.passiveSpell">0x7C6399</entry>		
 	<entry key="multigrid.line">0x4c4c4c</entry>
 	<entry key="multigrid.subline">0x202020</entry>
 	<entry key="multigrid.selected">0xe6c300</entry>
@@ -134,6 +135,7 @@
     <entry key="progressbar.damage">0xff6a3d</entry>
 	<entry key="progressbar.lifePoints">0xc71c26</entry>
 	<entry key="progressbar.shieldPoints">0x9966CC</entry>
+	<entry key="progressbar.lifeThreshold">0xebc304</entry>
 	<entry key="progressbar.xp">0x3aceff</entry>
 	<entry key="progressbar.guildXp">0xa545ff</entry>
 	<entry key="progressbar.mountXp">0x6CF0E5</entry>
@@ -154,7 +156,14 @@
 	<entry key="flag.quest3">0xfe20a9</entry>
 	<entry key="flag.quest4">0xffa91c</entry>
 	<entry key="flag.quest5">0x01fafe</entry>
+	<entry key="gameserver.type0">0x9eb11f</entry>
+	<entry key="gameserver.type1">0x371c12</entry>
+	<entry key="gameserver.type3">0x173c3c</entry>
+	<entry key="gameserver.type4">0x143b5c</entry>
+	<entry key="gameserver.type5">0xc36a00</entry>
 	
+	
+	<!-- tactic mode -->	
 	<entry key="tacticmode.floor01">0x5f5f5f</entry>
 	<entry key="tacticmode.floor02">0x1d1d1d</entry>
 	<entry key="tacticmode.block01">0x282828</entry>
