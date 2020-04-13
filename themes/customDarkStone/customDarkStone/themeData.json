@@ -1,0 +1,383 @@
+{
+	popup_border_frame:{
+		uri: "[config.ui.skin]common/window_border_popup_bottom.png",
+		scale9Grid:{x:50,y:40,width:18,height:38}
+	},
+	
+	popup_background:{
+		uri: "[config.ui.skin]common/window_green_background.jpg",
+		align:"CENTER",
+		margin:{left:22,right:22,top:20,bottom:23},
+		colorTransform:{ alphaMultiplier :0.7,redMultiplier:0.16,	greenMultiplier:0.16,	blueMultiplier:0.16   }
+	},	
+	
+	popup_close_background:{
+		uri: "[config.ui.skin]common/block_corner_popup.png"
+	},
+	
+	grid_border_grey:{
+		uri: "[config.ui.skin]common/grid_border_grey.png",
+		scale9Grid:{x:10,y:10,width:54,height:54}
+	},
+	
+	background_left_gradient:{
+		uri: "[config.ui.skin]texture/hud/background_gradient_timeline.png",
+		scale9Grid:{x:300,y:10,width:53,height:68}
+	},
+		
+	htab_background_disabled_normal:{
+		uri: "[config.ui.skin]common/bg_tab_disabled_normal.png",
+		scale9Grid:{x:12,y:27,width:67,height:3}
+	},
+	htab_background_disabled_over:{
+		uri: "[config.ui.skin]common/bg_tab_disabled_over.png",
+		scale9Grid:{x:12,y:27,width:67,height:3}
+	},
+	htab_background_disabled_pressed:{
+		uri: "[config.ui.skin]common/bg_tab_disabled_pressed.png",
+		scale9Grid:{x:12,y:27,width:67,height:3}
+	},
+	htab_background_selected_normal:{
+		uri: "[config.ui.skin]common/bg_tab_selected_normal.png",
+		scale9Grid:{x:12,y:27,width:67,height:3}
+	},
+	htab_background_selected_over:{
+		uri: "[config.ui.skin]common/bg_tab_selected_over.png",
+		scale9Grid:{x:12,y:27,width:67,height:3}
+	},
+	htab_background_selected_pressed:{
+		uri: "[config.ui.skin]common/bg_tab_selected_pressed.png",
+		scale9Grid:{x:12,y:27,width:67,height:3}
+	},
+	
+	htab_dark_background_disabled_normal:{
+		uri: "[config.ui.skin]common/bg_tab_disabled_normal.png",
+		scale9Grid:{x:12,y:27,width:67,height:3},
+		colorTransform:{ redMultiplier:0.7,	greenMultiplier:0.7,	blueMultiplier:0.7 }
+	},
+	
+	htab_dark_background_disabled_over:{
+		uri: "[config.ui.skin]common/bg_tab_disabled_over.png",
+		scale9Grid:{x:12,y:27,width:67,height:3},
+		colorTransform:{ redMultiplier:0.7,	greenMultiplier:0.7,	blueMultiplier:0.7 }
+	},
+	htab_dark_background_disabled_pressed:{
+		uri: "[config.ui.skin]common/bg_tab_disabled_pressed.png",
+		scale9Grid:{x:12,y:27,width:67,height:3},
+		colorTransform:{ redMultiplier:0.7,	greenMultiplier:0.7,	blueMultiplier:0.7 }
+	},
+	htab_dark_background_selected_normal:{
+		uri: "[config.ui.skin]common/bg_tab_selected_normal.png",
+		scale9Grid:{x:12,y:27,width:67,height:3},
+		colorTransform:{ redMultiplier:0.7,	greenMultiplier:0.7,	blueMultiplier:0.7 }
+	},
+	htab_dark_background_selected_over:{
+		uri: "[config.ui.skin]common/bg_tab_selected_over.png",
+		scale9Grid:{x:12,y:27,width:67,height:3},
+		colorTransform:{ redMultiplier:0.7,	greenMultiplier:0.7,	blueMultiplier:0.7 }
+	},
+	htab_dark_background_selected_pressed:{
+		uri: "[config.ui.skin]common/bg_tab_selected_pressed.png",
+		scale9Grid:{x:12,y:27,width:67,height:3},
+		colorTransform:{ redMultiplier:0.7,	greenMultiplier:0.7,	blueMultiplier:0.7 }
+	},
+	
+	slot_background_dark_empty:{
+		uri: "[config.ui.skin]texture/slot/slot_dark_background_empty.png",
+		scale9Grid:{x:10,y:10,width:44,height:44}
+	},
+	slot_background_dark_full:{
+		uri: "[config.ui.skin]texture/slot/slot_dark_background_full.png",
+		scale9Grid:{x:10,y:10,width:44,height:44}
+	},
+	
+	btn_cross_in_grey_circle_normal:{
+		uri: "[config.ui.skin]common/btn_cross_in_grey_circle_normal.png"
+	},
+	btn_cross_in_grey_circle_over:{
+		uri: "[config.ui.skin]common/btn_cross_in_grey_circle_over.png"
+	},
+	btn_cross_in_grey_circle_pressed:{
+		uri: "[config.ui.skin]common/btn_cross_in_grey_circle_pressed.png"
+	},
+	
+	
+	map_search_box:{
+		uri: "[config.ui.skin]common/map_searchBox.png",
+		scale9Grid:{x:9,y:6,width:45,height:45}
+	},
+	floating_window_background:{
+		uri: "[config.ui.skin]common/floatingWindow_bg.png",
+		scale9Grid:{x:14,y:14,width:35,height:35},
+		alpha:0.90
+	},
+	
+	floating_window_background_full:{
+		uri: "[config.ui.skin]common/floatingWindow_bg_full.png",
+		scale9Grid:{x:14,y:14,width:35,height:35}
+	},
+	
+	floating_window_bar:{
+		uri: "[config.ui.skin]texture/hud/left_floating_menu.png",
+		scale9Grid:{x:5,y:5,width:10,height:10}
+	},
+
+    bg_floating_window_horizontal:{
+        uri: "[config.ui.skin]common/floatingWindow_horizontal_bg.png",
+        scale9Grid:{x:14,y:14,width:35,height:35}
+    },
+	
+	/*
+		map_filters_icons
+	*/
+	//pin
+	filter_pin_off:{
+		uri: "[config.ui.skin]texture/map/filterRepere_Off.png"
+	},
+	filter_pin_on:{
+		uri: "[config.ui.skin]texture/map/filterRepere_On.png"
+	},
+	
+	// transport
+	filter_transport_off:{
+		uri: "[config.ui.skin]texture/map/filterZaap_Off.png"
+	},
+	filter_transport_on:{
+		uri: "[config.ui.skin]texture/map/filterZaap_On.png"
+	},
+	
+	// dungeon
+	filter_dungeon_off:{
+		uri: "[config.ui.skin]texture/map/filterDungeon_Off.png"
+	},
+	filter_dungeon_on:{
+		uri: "[config.ui.skin]texture/map/filterDungeon_On.png"
+	},
+	
+	// bid
+	filter_bid_off:{
+		uri: "[config.ui.skin]texture/map/filterAH_Off.png"
+	},
+	filter_bid_on:{
+		uri: "[config.ui.skin]texture/map/filterAH_On.png"
+	},
+	
+	// craft houses
+	filter_crafthouse_off:{
+		uri: "[config.ui.skin]texture/map/filterWork_Off.png"
+	},
+	filter_crafthouse_on:{
+		uri: "[config.ui.skin]texture/map/filterWork_On.png"
+	},
+	
+	// temple
+	filter_temple_off:{
+		uri: "[config.ui.skin]texture/map/filterTemple_Off.png"
+	},
+	filter_temple_on:{
+		uri: "[config.ui.skin]texture/map/filterTemple_On.png"
+	},
+	
+	// misc
+	filter_misc_off:{
+		uri: "[config.ui.skin]texture/map/filterMisc_Off.png"
+	},
+	filter_misc_on:{
+		uri: "[config.ui.skin]texture/map/filterMisc_On.png"
+	},
+
+	
+	// private
+	filter_private_off:{
+		uri: "[config.ui.skin]texture/map/filterHouse_Off.png"
+	},
+	filter_private_on:{
+		uri: "[config.ui.skin]texture/map/filterHouse_On.png"
+	},
+	
+	// conquest
+	filter_conquest_off:{
+		uri: "[config.ui.skin]texture/map/filterPrism_Off.png"
+	},
+	filter_conquest_on:{
+		uri: "[config.ui.skin]texture/map/filterPrism_On.png"
+	},
+
+	// anomaly
+	filter_anomaly_off:{
+		uri: "[config.ui.skin]texture/map/filterSpiral_Off.png"
+	},
+	filter_anomaly_on:{
+		uri: "[config.ui.skin]texture/map/filterSpiral_On.png"
+	},
+	
+	// all
+	filter_all_off:{
+		uri: "[config.ui.skin]texture/map/filterAll_Off.png"
+	},
+	filter_all_on:{
+		uri: "[config.ui.skin]texture/map/filterAll_On.png"
+	},
+
+		
+	/*
+		ICONS
+	*/
+	icon_sword_black:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_sword.png"
+	},
+	icon_player:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_focus.png"
+	},	
+	icon_grid:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_Grid.png"
+	},
+	icon_minus_without_white_space:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_minus.png"
+	},
+	icon_plus_without_white_space:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_plus.png"
+	},
+	icon_sword_colored:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_Conquest.png",
+		margin:{left:4,right:3,top:3,bottom:4}
+	},
+	icon_bestiary:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_Bestiary.png",
+		margin:{left:1,right:2,top:3,bottom:3}
+	},
+	icon_location:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_pin.png"
+	},
+	icon_mail:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_mail.png"
+	},
+	icon_external_link:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_external_link.png"
+	},
+	
+	hud_tab_background:{
+		uri: "[config.ui.skin]texture/hud/background_edge.png",
+		scale9Grid:{}
+	},
+	
+	hud_window_background:{
+		uri: "[config.ui.skin]texture/hud/background_hud.png",
+		tileRender: true
+	},
+	
+	separator_white_line:{
+		uri: "[config.ui.skin]texture/hud/separator_white_line.png",
+		scale9Grid:{}
+	},
+	
+	separator_green_column:{
+		uri: "[config.ui.skin]texture/hud/separator_green_column.png",
+		tileRender: true
+	},
+	
+	separator_green_column_shadow:{
+		uri: "[config.ui.skin]texture/hud/cache_separator_green.png",
+		scale9Grid:{}
+	},
+
+	chat_input_background:{
+		uri: "[config.ui.skin]texture/hud/chat_input_background.png",
+		scale9Grid:{}
+	},
+	
+	progress_bar_background:{
+		uri: "[config.ui.skin]common/progress_bar_background.png",
+		scale9Grid:{}
+	},
+	progress_bar_foreground:{
+		uri: "[config.ui.skin]common/progress_bar_foreground.png",
+		scale9Grid:{x:5,y:5,width:1,height:1}
+	},
+	selection_green:{
+		uri: "[config.ui.skin]texture/slot/selected.png",
+        scale9Grid:{x:10,y:10,width:25,height:25}
+	},
+	over_green:{
+		uri: "[config.ui.skin]texture/slot/over.png",
+		scale9Grid:{x:10,y:10,width:25,height:25}
+	},
+	refuse_red:{
+		uri: "[config.ui.skin]texture/slot/refuseDrop.png",
+		scale9Grid:{x:10,y:10,width:24,height:24}
+	},
+	light_slot:{
+		uri: "[config.ui.skin]texture/slot/lightSlot.jpg",
+		scale9Grid:{x:10,y:10,width:44,height:44}
+	},
+	icon_magnifier_green:{
+		uri: "[config.ui.skin]texture/icon_magnifier.png",
+		colorTransform:{ redMultiplier:0,	greenMultiplier:0,	blueMultiplier:0, redOffset:194,	greenOffset:233,	blueOffset:2 }
+	},
+    yellow_slot:{
+      uri: "[config.ui.skin]texture/slot/slotYellow.png",
+      scale9Grid:{x:4,y:4,width:37,height:37}
+    },
+	
+		
+	green_square_line:{
+		uri: "[config.ui.skin]texture/onboarding/vignetting_ServerIllu_Selected_40.png",
+		scale9Grid:{}
+	},
+	bg_server_slot:{
+		uri: "[config.ui.skin]texture/onboarding/bg_SlotServer_Empty.PNG",
+		scale9Grid:{}
+	},
+	fg_server_slot:{
+		uri: "[config.ui.skin]texture/onboarding/filter_ServerIllu_Normal.PNG",
+		scale9Grid:{}
+	},
+	fg_server_slot_disabled:{
+		uri: "[config.ui.skin]texture/onboarding/filter_ServerIllu_Unselected.PNG",
+		scale9Grid:{}
+	},
+	
+	bg_simple_button:{
+		uri: "[config.ui.skin]texture/onboarding/bg_btnBottom.png",
+		scale9Grid:{x:25,y:10,width:10,height:10}
+	},
+	
+	list_menu_background:{
+		uri: "[config.ui.skin]common/list_menu_background.png",
+		scale9Grid:{x:10,y:7,width:280,height:17}
+	},
+
+	levelup_banner:{
+		uri: "[config.ui.skin]texture/background/background_levelup_banner.png",
+		scale9Grid: {}
+	},
+
+	box_text_parchment:{
+		uri:"[config.ui.skin]common/box_text_parchment.png",
+		scale9Grid:{x:10,y:10,width:670,height:210}
+	},
+    tx_mount_male:{
+        uri:"[config.ui.skin]texture/breeding/tx_male.png"
+    },
+    tx_mount_female:{
+        uri:"[config.ui.skin]texture/breeding/tx_female.png"
+    },
+    tx_red_sword:{
+        uri:"[config.ui.skin]texture/red_sword_icon.png"
+    },
+    tx_sword:{
+        uri:"[config.ui.skin]texture/sword_icon.png"
+    },
+	btn_buy_over: {
+		"uri": "[config.ui.skin]bitmap/btn_buy_over.png",
+		scale9Grid:{x:10,y:10,width:12,height:12}
+    },
+	bg_small_green: {
+		"uri": "[config.ui.skin]bitmap/bg_small_green.png",
+		scale9Grid:{x:5,y:5,width:35,height:35}
+	},
+	tx_breach:{
+		uri:"[config.ui.skin]texture/icon_spiral_grey.png"
+	}
+	
+}

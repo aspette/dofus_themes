@@ -1,0 +1,188 @@
+successpoints {
+	font-family: Roboto;
+	font-size: 30px;
+	color: #512809;
+	font-weight: bold;
+	text-align: center;
+}
+
+apmp {
+	font-family: BebasNeue;
+	font-size: 27px;
+	color: #ffffff;
+	text-align: center;
+	shadow-distance: 3;
+	shadow-blurX: 3;
+}
+
+hp {
+	font-family: BebasNeue;
+	font-size: 27px;
+	color: #FFFFFF;
+	text-align: center;
+	shadow-distance: 3;
+	shadow-blurX: 2;
+}
+
+hpshield_hp {
+	font-size: 24px;
+}
+
+shield_hp {
+	font-family: BebasNeue;
+	font-size: 20px;
+}
+
+countdown {
+	font-family: Eras;
+	font-size: 50px;
+	color: #c96217;
+	text-align: center;
+}
+
+coord {
+	font-family: RobotoCondensed;
+	font-size: 26px;
+	color: #e5e5e3;
+	font-weight: bold;
+
+	shadow-angle: 360;
+	shadow-distance: 0;
+    shadow-blurX: 8;
+    shadow-blurY: 8;
+    shadow-strength: 1.5;
+
+}
+
+zone {
+	font-family: Verdana;
+	font-size: 27px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+
+idolsscore {
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #4E280A;
+	text-align:center;
+	font-weight: bold;
+}
+
+robotoboldcenter72 {
+	font-family: RobotoCondensed;
+	font-size: 72px;
+	color: #c7c7c5;
+	font-weight: bold;
+	text-align: center;
+}
+
+greenunderlineleft {
+	font-family: Roboto;
+	font-size: 12px;
+	color: #deff00;
+	text-align: left;
+	text-decoration: underline;
+}
+
+whitehugeboldshadow{
+	font-family: RobotoCondensed;
+	font-size: 44px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle:90;
+}
+
+whitebigboldshadow{
+	font-family: RobotoCondensed;
+	font-size: 40px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle:90;
+}
+
+levelup {
+	font-family: GoodyBookletter;
+	font-size: 20px;
+    color: #753f0c;
+    text-align: center;
+}
+
+smallscreen {
+	font-family: Tahoma;
+	font-size: 17px;
+    color: #ffffff;
+}
+
+smallscreenleft {
+	font-family: Tahoma;
+	font-size: 17px;
+    color: #ffffff;
+	text-align: left;
+}
+
+statbonus {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #f1c64f;
+	text-align: left;
+}
+
+fighterinfo {
+	font-family: RobotoCondensed;
+	font-size: 17px;
+	color: #c7c7c5;
+	font-weight: bold;
+	text-align: left;
+}
+fighterinfodisabled {
+	font-family: RobotoCondensed;
+	font-size: 17px;
+	color: #848480;
+	font-weight: bold;
+	text-align: left;
+}
+
+fighterinfolifepoints {
+	font-family: RobotoCondensed;
+	font-size: 17px;
+	color: #c7c7c5;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: -2px;
+}
+
+
+configqualityinfo {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #808080;
+	font-style: italic;
+	text-align: center;
+}
+
+shopoldprice {
+	font-family: Roboto;
+	font-size: 12px;
+	color: #737373;
+	text-align: justify;
+    	font-weight: normal;
+}
+
+/*-------------------- niveaux de zone sur la map --------------------*/
+subarealevel {
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: justify;
+}
+subarealevelgray_subarealevel { color: #c7c7c5; }
+subarealevelgreen_subarealevel { color: #52ae3f; }
+subarealevelorange_subarealevel { color: #e48c51; }
+subarealevelred_subarealevel { color: #cb685e; }

@@ -1,0 +1,696 @@
+{
+	// Green button
+	button_normal:{
+		uri: "[config.ui.skin]common/btn_green_normal.png",
+		scale9Grid:{}
+	},
+	button_over:{
+		uri: "[config.ui.skin]common/btn_green_over.png",
+		scale9Grid:{}
+	},
+	button_pressed:{
+		uri: "[config.ui.skin]common/btn_green_pressed.png",
+		scale9Grid:{}
+	},
+	button_disabled:{
+		uri: "[config.ui.skin]common/btn_green_disabled.png",
+		scale9Grid:{}
+	},
+	
+	// Green small button
+	button_small_normal:{
+		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+	button_small_over:{
+		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+	button_small_pressed:{
+		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+	button_small_disabled:{
+		uri: "[config.ui.skin]common/btn_green_small_disabled.png",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+	button_small_selected:{
+		uri: "[config.ui.skin]common/btn_green_small_selected.jpg",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+	button_small_selected_over:{
+		uri: "[config.ui.skin]common/btn_green_small_selectedover.jpg",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+	button_small_selected_pressed:{
+		uri: "[config.ui.skin]common/btn_green_small_selectedpressed.jpg",
+		scale9Grid:{x:7,y:12,width:10,height:15}
+	},
+
+	// Gray small button (emotes/smileys panel)
+	button_grey_normal:{
+		uri: "[config.ui.skin]common/btn_grey_small_normal.png",
+		scale9Grid:{}
+	},
+	button_grey_over:{
+		uri: "[config.ui.skin]common/btn_grey_small_over.png",
+		scale9Grid:{}
+	},
+	button_grey_pressed:{
+		uri: "[config.ui.skin]common/btn_grey_small_pressed.png",
+		scale9Grid:{}
+	},
+	button_grey_disabled:{
+		uri: "[config.ui.skin]common/btn_grey_small_normal.png",
+		scale9Grid:{}
+	},
+	button_grey_selected:{
+		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
+		scale9Grid:{}
+	},
+	button_grey_selected_over:{
+		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		scale9Grid:{}
+	},
+	button_grey_selected_pressed:{
+		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		scale9Grid:{}
+	},
+
+
+	// Red button
+	button_small_red_normal:{
+		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
+			redOffset: 128, greenOffset: 2, blueOffset: -255
+		}
+	},
+	button_small_red_over:{
+		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
+			redOffset: 128, greenOffset: 2, blueOffset: -255
+		}
+	},
+	button_small_red_pressed:{
+		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
+			redOffset: 128, greenOffset: 2, blueOffset: -255
+		}
+	},
+	
+	// Green small button with very thin border
+	button_thin_border_normal:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_normal.png",
+		scale9Grid:{}
+	},
+	button_thin_border_over:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_over.png",
+		scale9Grid:{}
+	},
+	button_thin_border_pressed:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_pressed.png",
+		scale9Grid:{}
+	},
+	button_thin_border_selected:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_pressed.png",
+		scale9Grid:{}
+	},
+	button_thin_border_disabled:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_disabled.png",
+		scale9Grid:{}
+	},
+	
+	// Green grey button with very thin border
+	button_grey_thin_border_normal:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_disabled.png",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5
+		}
+	},
+	button_grey_thin_border_over:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_disabled_over.png",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 0.7, greenMultiplier: 0.7, blueMultiplier: 0.7
+		}
+	},
+	button_grey_thin_border_pressed:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_disabled_pressed.png",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 0.4, greenMultiplier: 0.4, blueMultiplier: 0.4
+		}
+	},
+	button_grey_thin_border_selected:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_normal.png",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
+		}
+	},
+	button_grey_thin_border_selected_over:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_over.png",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
+		}
+	},
+	button_grey_thin_border_selected_pressed:{
+		uri: "[config.ui.skin]common/btn_green_thin_border_pressed.png",
+		scale9Grid:{},
+		colorTransform:{
+			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
+		}
+	},
+	
+	// Giant green button with decoration
+	button_largeBorder_normal:{
+		uri: "[config.ui.skin]common/btn_greenLargeBorder_normal.png"
+	},
+	button_largeBorder_over:{
+		uri: "[config.ui.skin]common/btn_greenLargeBorder_over.png"
+	},
+	button_largeBorder_pressed:{
+		uri: "[config.ui.skin]common/btn_greenLargeBorder_pressed.png"
+	},
+	button_largeBorder_selected:{
+		uri: "[config.ui.skin]common/btn_greenLargeBorder_pressed.png"
+	},
+	button_largeBorder_disabled:{
+		uri: "[config.ui.skin]common/btn_greenLargeBorder_disabled.png"
+	},
+	
+	// Giant green button with green decoration
+	button_largeBorder_green_normal:{
+		uri: "[config.ui.skin]common/btn_greenSecondLargeBorder_normal.png"
+	},
+	button_largeBorder_green_over:{
+		uri: "[config.ui.skin]common/btn_greenSecondLargeBorder_over.png"
+	},
+	button_largeBorder_green_pressed:{
+		uri: "[config.ui.skin]common/btn_greenSecondLargeBorder_pressed.png"
+	},
+	// L'�tat selected est gris�, volontairement, pour le bouton pret de banner
+	button_largeBorder_green_selected:{
+		uri: "[config.ui.skin]common/btn_greenSecondLargeBorder_disabled.png"
+	},
+	button_largeBorder_green_disabled:{
+		uri: "[config.ui.skin]common/btn_greenSecondLargeBorder_disabled.png"
+	},
+
+	// Green radio button
+	button_radio_normal:{
+		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		scale9Grid:{},
+		alpha:0
+	},
+	button_radio_over:{
+		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		scale9Grid:{},
+		alpha:1
+	},
+	button_radio_pressed:{
+		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		scale9Grid:{},
+		alpha:1
+	},
+	button_radio_disabled:{
+		uri: "[config.ui.skin]common/btn_green_small_disabled.jpg",
+		scale9Grid:{},
+		alpha:1
+	},
+	button_radio_selected:{
+		uri: "[config.ui.skin]common/btn_green_small_selected.jpg",
+		scale9Grid:{},
+		alpha:1
+	},
+	button_radio_selected_over:{
+		uri: "[config.ui.skin]common/btn_green_small_selectedover.jpg",
+		scale9Grid:{},
+		alpha:1
+	},
+	button_radio_selected_pressed:{
+		uri: "[config.ui.skin]common/btn_green_small_selectedpressed.jpg",
+		scale9Grid:{},
+		alpha:1
+	},
+
+	// Help button
+	button_help_normal:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_question.png"
+	},
+    button_help_over:{
+        uri: "[config.ui.skin]texture/subhint_over.png"
+    },
+	button_help_selected:{
+		uri: "[config.ui.skin]texture/subhint_selected.png"
+	},
+	button_help_selected_over:{
+		uri: "[config.ui.skin]texture/subhint_selected.png"
+	},
+
+
+	// Close button
+	button_close_normal:{
+		uri: "[config.ui.skin]common/btn_close_normal.png"
+	},
+	button_close_over:{
+		uri: "[config.ui.skin]common/btn_close_over.png"
+	},
+	button_close_pressed:{
+		uri: "[config.ui.skin]common/btn_close_pressed.png"
+	},
+	button_close_disabled:{
+		uri: "[config.ui.skin]common/btn_close_disabled.png"
+	},
+
+	// Maximize button
+	button_maximize_normal:{
+		uri: "[config.ui.skin]common/btn_extend_normal.png"
+	},
+	button_maximize_over:{
+		uri: "[config.ui.skin]common/btn_extend_over.png"
+	},
+	button_maximize_pressed:{
+		uri: "[config.ui.skin]common/btn_extend_pressed.png"
+	},
+
+	// Minimize button
+	button_minimize_normal:{
+		uri: "[config.ui.skin]common/btn_reduce_normal.png"
+	},
+	button_minimize_over:{
+		uri: "[config.ui.skin]common/btn_reduce_over.png"
+	},
+	button_minimize_pressed:{
+		uri: "[config.ui.skin]common/btn_reduce_pressed.png"
+	},
+	
+	// Yellow button
+	button_yellow_square_normal:{
+		uri: "[config.ui.skin]common/btn_yellow_normal.png",
+		scale9Grid:{x:24, y:25, width:9, height:4}
+	},
+	button_yellow_square_over:{
+		uri: "[config.ui.skin]common/btn_yellow_over.png"
+	},
+	button_yellow_square_pressed:{
+		uri: "[config.ui.skin]common/btn_yellow_pressed.png"
+	},
+
+	// Yellow button less yellow
+	button_dark_yellow_square_normal:{
+		uri: "[config.ui.skin]common/btn_yellow2_normal.png",
+		scale9Grid:{x:24, y:25, width:9, height:4}
+	},
+	button_dark_yellow_square_over:{
+		uri: "[config.ui.skin]common/btn_yellow2_over.png"
+	},
+	button_dark_yellow_square_pressed:{
+		uri: "[config.ui.skin]common/btn_yellow2_pressed.png"
+	},
+    button_dark_yellow_square_disabled:{
+        uri: "[config.ui.skin]common/btn_yellow2_disabled.png"
+    },
+	
+	// Scrollbar cursor button
+	button_tiny_normal:{
+		uri: "[config.ui.skin]common/scrollbar_cursor_normal.jpg",
+		scale9Grid:{}
+	},
+	button_tiny_over:{
+		uri: "[config.ui.skin]common/scrollbar_cursor_over.jpg",
+		scale9Grid:{}
+	},
+	button_tiny_pressed:{
+		uri: "[config.ui.skin]common/scrollbar_cursor_pressed.jpg",
+		scale9Grid:{}
+	},
+	
+	button_checkbox_normal:{
+		uri: "[config.ui.skin]common/btn_checkbox_normal.png"
+	},
+	button_checkbox_selected:{
+		uri: "[config.ui.skin]common/btn_checkbox_selected.png"
+	},
+	
+	// Arrow button
+	btn_arrow_pagination_normal:{
+		uri: "[config.ui.skin]common/btn_arrow_pagination_normal.png"
+	},
+	btn_arrow_pagination_over:{
+		uri: "[config.ui.skin]common/btn_arrow_pagination_over.png"
+	},
+	btn_arrow_pagination_pressed:{
+		uri: "[config.ui.skin]common/btn_arrow_pagination_pressed.png"
+	},
+	btn_arrow_pagination_disabled:{
+		uri: "[config.ui.skin]common/btn_arrow_pagination_disabled.png"
+	},
+	
+	btn_big_arrow_normal:{
+		uri: "[config.ui.skin]common/btn_greenBigArrow_normal.png"
+	},
+	btn_big_arrow_over:{
+		uri: "[config.ui.skin]common/btn_greenBigArrow_over.png"
+	},
+	btn_big_arrow_pressed:{
+		uri: "[config.ui.skin]common/btn_greenBigArrow_pressed.png"
+	},
+	btn_big_arrow_disabled:{
+		uri: "[config.ui.skin]common/btn_greenBigArrow_disabled.png"
+	},
+	
+	
+	// Switch button (ActionBar)
+	btn_green_switch_normal:{
+		uri: "[config.ui.skin]texture/hud/btn_green_switch_normal.png"
+	},
+	btn_green_switch_over:{
+		uri: "[config.ui.skin]texture/hud/btn_green_switch_over.png"
+	},
+	btn_green_switch_pressed:{
+		uri: "[config.ui.skin]texture/hud/btn_green_switch_pressed.png"
+	},
+	
+	// Button with transparent background
+	btn_transparent_normal:{
+		uri: "[config.ui.skin]common/btn_transparent_normal.png",
+        scale9Grid:{}
+	},
+	btn_transparent_over:{
+		uri: "[config.ui.skin]common/btn_transparent_over.png",
+        scale9Grid:{}
+	},
+	btn_transparent_pressed:{
+		uri: "[config.ui.skin]common/btn_transparent_pressed.png",
+        scale9Grid:{}
+	},
+	
+		// help button
+	btn_help_normal:{
+		uri: "[config.ui.skin]common/btn_help_normal.png"
+	},
+	btn_help_over:{
+		uri: "[config.ui.skin]common/btn_help_over.png"
+	},
+	btn_help_pressed:{
+		uri: "[config.ui.skin]common/btn_help_pressed.png"
+	},
+	btn_help_disabled:{
+		uri: "[config.ui.skin]common/btn_help_disabled.png"
+	},
+	
+	arrow_small_bottom_normal:{
+		uri: "[config.ui.skin]common/arrow_small_bottom_normal.png"
+	},
+	arrow_small_bottom_over:{
+		uri: "[config.ui.skin]common/arrow_small_bottom_over.png"
+	},
+	arrow_small_bottom_pressed:{
+		uri: "[config.ui.skin]common/arrow_small_bottom_pressed.png",
+		alpha: 0.4
+	},
+	
+	// Button green eye
+	btn_eye_normal:{
+		uri: "[config.ui.skin]texture/icon_eye_normal.png"
+	},
+	btn_eye_over:{
+		uri: "[config.ui.skin]texture/icon_eye_normal.png"
+	},
+	btn_eye_pressed:{
+		uri: "[config.ui.skin]texture/icon_eye_normal.png"
+	},
+	btn_eye_selected:{
+		uri: "[config.ui.skin]texture/icon_eye_selected.png"
+	},
+	btn_eye_selected_over:{
+		uri: "[config.ui.skin]texture/icon_eye_selected.png"
+	},
+	btn_eye_selected_pressed:{
+		uri: "[config.ui.skin]texture/icon_eye_selected.png"
+	},
+
+	btnIcon_cross:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_cross.png"
+	},
+
+	// Bin button
+	btn_bin_normal:{
+		uri: "[config.ui.skin]texture/icon_bin_normal.png"
+	},
+	btn_bin_over:{
+		uri: "[config.ui.skin]texture/icon_bin_over.png"
+	},
+	btn_bin_pressed:{
+		uri: "[config.ui.skin]texture/icon_bin_over.png"
+	},
+	btn_bin_selected:{
+		uri: "[config.ui.skin]texture/icon_bin_over.png"
+	},
+	btn_bin_selected_over:{
+		uri: "[config.ui.skin]texture/icon_bin_over.png"
+	},
+	btn_bin_selected_pressed:{
+		uri: "[config.ui.skin]texture/icon_bin_over.png"
+	},
+	
+	btn_gender_female_normal:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_normal.png"
+	},
+	btn_gender_female_over:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_normal.png"
+	},
+	btn_gender_female_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_normal.png"
+	},
+	btn_gender_female_disabled:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_normal.png"
+	},
+	btn_gender_female_selected:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_selected.png"
+	},
+	btn_gender_female_selected_over:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_selected.png"
+	},
+	btn_gender_female_selected_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_selected.png"
+	},
+	
+	btn_gender_male_normal:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_normal.png"
+	},
+	btn_gender_male_over:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_normal.png"
+	},
+	btn_gender_male_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_normal.png"
+	},
+	btn_gender_male_disabled:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_normal.png"
+	},
+	btn_gender_male_selected:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_selected.png"
+	},
+	btn_gender_male_selected_over:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_selected.png"
+	},
+	btn_gender_male_selected_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_selected.png"
+	},
+	
+	btn_close_small_normal:{
+		uri: "[config.ui.skin]texture/onboarding/colors_choice_cross_normal.png"
+	},
+	btn_close_small_over:{
+		uri: "[config.ui.skin]texture/onboarding/colors_choice_cross_over.png"
+	},
+	btn_close_small_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/colors_choice_cross_pressed.png"
+	},
+	
+	btn_color_choice_normal:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorsChoice.png"
+	},
+	btn_color_choice_over:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorsChoice.png"
+	},
+	btn_color_choice_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorsChoice.png"
+	},
+	btn_color_choice_disabled:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorsChoice.png"
+	},
+	btn_color_choice_selected:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorChoice.png"
+	},
+	btn_color_choice_selected_over:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorChoice.png"
+	},
+	btn_color_choice_selected_pressed:{
+		uri: "[config.ui.skin]texture/onboarding/bgColorChoice.png"
+	},
+	
+	btn_arrow_turn_normal:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_character_normal.png"
+	},
+	btn_arrow_turn_over:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_character_over.png"
+	},
+	btn_arrow_turn_pressed:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_character_pressed.png"
+	},
+	btn_arrow_turn_disabled:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_character_disabled.png"
+	},
+
+	btn_arrow_turn_outside_normal:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_outside_normal.png"
+	},
+	btn_arrow_turn_outside_over:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_outside_over.png"
+	},
+	btn_arrow_turn_outside_pressed:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_outside_pressed.png"
+	},
+	btn_arrow_turn_outside_disabled:{
+		uri: "[config.ui.skin]common/btn_arrow_turn_outside_disabled.png"
+	},
+
+    button_magnifier:{
+        uri: "[config.ui.skin]texture/btnIcon/btnIcon_magnifierSearch.png",
+        scale9Grid:{}
+    },
+
+	// background bord de fenetre
+	background_border_button:{
+		uri: "[config.ui.skin]common/background_align_green_button.png",
+		scale9Grid:{}
+    },
+	
+	btn_pin_normal:{
+		uri: "[config.ui.skin]common/icon_pin_normal.png"
+	},
+	btn_pin_over:{
+		uri: "[config.ui.skin]common/icon_pin_normal.png"
+	},
+	btn_pin_pressed:{
+		uri: "[config.ui.skin]common/icon_pin_normal.png"
+	},
+	btn_pin_disabled:{
+		uri: "[config.ui.skin]common/icon_pin_normal.png"
+	},
+	btn_pin_selected:{
+		uri: "[config.ui.skin]common/icon_pin_selected.png"
+	},
+	btn_pin_selected_over:{
+		uri: "[config.ui.skin]common/icon_pin_selected.png"
+	},
+	btn_pin_selected_pressed:{
+		uri: "[config.ui.skin]common/icon_pin_selected.png"
+	},
+	
+	// Grey tab, with green bg when selected
+	tab_small_grey_normal:{
+		uri: "[config.ui.skin]common/tab_small_normal.png",
+		scale9Grid:{}
+	},
+	tab_small_grey_over:{
+		uri: "[config.ui.skin]common/tab_small_over.png",
+		scale9Grid:{}
+	},
+	tab_small_grey_pressed:{
+		uri: "[config.ui.skin]common/tab_small_pressed.png",
+		scale9Grid:{}
+	},
+	tab_small_grey_selected:{
+		uri: "[config.ui.skin]common/tab_small_selected.png",
+		scale9Grid:{}
+	},
+	tab_small_grey_selected_over:{
+		uri: "[config.ui.skin]common/tab_small_selectedOver.png",
+		scale9Grid:{}
+	},
+	tab_small_grey_selected_pressed:{
+		uri: "[config.ui.skin]common/tab_small_selectedPressed.png",
+		scale9Grid:{}
+	},
+
+	//button type encyclopedia
+	btn_type_encyclopedia_normal:
+	{
+		uri:"[config.ui.skin]common/slot_inventory_normal.png"
+	},
+	btn_type_encyclopedia_over:
+	{
+		uri:"[config.ui.skin]common/slot_inventory_over.png"
+	},
+	btn_type_encyclopedia_selected:
+	{
+		uri:"[config.ui.skin]common/slot_inventory_over.png"
+	},
+	btn_type_encyclopedia_selected:
+	{
+		uri:"[config.ui.skin]common/slot_inventory_selected.png"
+	},
+	btn_type_encyclopedia_selected_over:
+	{
+		uri:"[config.ui.skin]common/slot_inventory_selected.png"
+	},
+	btn_type_encyclopedia_selected_pressed:
+	{
+		uri:"[config.ui.skin]common/slot_inventory_selected.png"
+	},
+
+	//button info
+	btn_info_normal:
+	{
+		uri:"[config.ui.skin]texture/help_icon_normal.png"
+	},
+	btn_info_over:
+	{
+		uri:"[config.ui.skin]texture/help_icon_over.png"
+	},
+	btn_info_selected:
+	{
+		uri:"[config.ui.skin]texture/help_icon_over.png"
+	},
+	btn_info_selected:
+	{
+		uri:"[config.ui.skin]texture/help_icon_selected.png"
+	},
+	btn_info_selected_over:
+	{
+		uri:"[config.ui.skin]texture/help_icon_selected.png"
+	},
+	btn_info_selected_pressed:
+	{
+		uri:"[config.ui.skin]texture/help_icon_pressed.png"
+	},
+	btn_info_selected_disabled:
+	{
+		uri:"[config.ui.skin]texture/help_icon_disabled.png"
+	},
+	btn_info_disabled:
+	{
+		uri:"[config.ui.skin]texture/help_icon_disabled.png"
+	},
+
+
+    button_green_border_normal:{
+        uri: "[config.ui.skin]common/green_border_slot_normal.png",
+        scale9Grid:{x:15, y:15, width:34, height:34}
+    },
+    button_green_border_over:{
+        uri: "[config.ui.skin]common/green_border_slot_over.png",
+        scale9Grid:{x:15, y:15, width:34, height:34}
+    }
+}

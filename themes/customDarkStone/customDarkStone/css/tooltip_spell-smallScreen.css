@@ -1,0 +1,178 @@
+p {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #c7c7c5;
+}
+
+.separator {
+	leading: -12;
+}
+
+.customli {
+	color: #57574f;
+	margin-left: 22;
+}
+
+.value {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #ffffff;
+}
+
+.subtitle {
+	font-family: Tahoma;
+	font-size: 18;
+	color: #dfdfdf;
+	margin-left: 16;
+}
+
+.bonus {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #6db213;
+}
+
+.bonusvalue {
+	font-family: Tahoma;
+	font-size: 17;
+	font-weight: bold;
+	color: #8bf402;
+}
+
+.malus {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #d0483a;
+}
+
+.malusvalue {
+	font-family: Tahoma;
+	font-size: 17;
+	font-weight: bold;
+	color: #d0483a;
+}
+
+.subeffectleftcolumn {
+	margin-left: 32;
+	leading: -15;
+}
+
+.subeffectrightcolumn {
+	margin-left: 228;
+}
+
+.exotic {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #4683ce;
+}
+
+.exoticvalue {
+	font-family: Tahoma;
+	font-size: 17;
+	font-weight: bold;
+	color: #68b6ff;
+}
+
+.theoretical {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #c7c7c5 ;
+}
+
+.requirement {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #d9ad67;
+}
+
+.special {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #deb169;
+}
+
+.set {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #ebc304;
+}
+
+.description {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #e6893d;
+}
+
+.quote {
+	font-family: Tahoma;
+	font-size: 17;
+	font-style: italic;
+	color: #e6893d;
+}
+
+.headerp {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #c7c7c5;
+	margin-left: 48;
+}
+
+.headermalus {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #d0483a;
+	margin-left: 48;
+}
+
+.headertitle {
+	font-family: Tahoma;
+	font-size: 18;
+	color: #dfdfdf;
+	margin-left: 48;
+}
+
+.footer {
+	font-family: Tahoma;
+	font-size: 17;
+	font-style: italic;
+	color: #6d6d6d;
+	text-align: center;
+}
+
+.footerleft {
+	font-family: Tahoma;
+	font-size: 15;
+	font-style: italic;
+	color: #6d6d6d;
+	text-align: left;
+	leading: -22;
+}
+
+.footerright {
+	font-family: Tahoma;
+	font-size: 15;
+	font-style: italic;
+	color: #6d6d6d;
+	text-align: right;
+}
+
+spellZone {
+	font-family: Tahoma;
+	font-size: 17;
+	color: #c7c7c5;
+	margin-left: 32;
+}
+
+.spellpair {
+    font-family: Roboto;
+    font-size: 18;
+    font-weight: bold;
+    color: #dfdfdf;
+}
+
+.subtitleheader {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
+}

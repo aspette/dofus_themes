@@ -1,0 +1,72 @@
+p {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #3F3932;
+	text-align: justify;
+    font-weight: normal;
+}
+
+left {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #3F3932;
+	text-align: left;
+    font-weight: normal;
+}
+
+right {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #3F3932;
+    text-align: right;
+    font-weight: normal;
+}
+
+smallleftmedium {
+	font-family: Roboto;
+	font-size: 15px;
+	color: #3F3932;
+	text-align: left;
+    font-weight: medium;
+}
+
+rightbold {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #3F3932;
+	text-align: right;
+    font-weight: bold;
+}
+
+goodybookletterleft{
+	font-family:GoodyBookletter;
+	font-size: 21px;
+	color: #2b251e;
+	font-weight: normal;
+	text-align: left;
+}
+
+scrolltitle{
+    font-family: Roboto;
+    font-size: 22px;
+    color: #624025;
+    font-weight: bold;
+    text-align: center;
+}
+
+scrolltext{
+    font-family: Roboto;
+    font-size: 16px;
+    color: #765e44;
+    font-weight: normal;
+    text-align: justify;
+    paddingRight: 5px;
+}
+
+scrolllink{
+    font-family: Roboto;
+    font-size: 18px;
+    color: #deff00;
+    font-weight: bold;
+    text-align: center;
+}

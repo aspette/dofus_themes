@@ -1,0 +1,73 @@
+{
+	block_background:{
+		uri: "[config.ui.skin]common/block_background.jpg",
+		align:"CENTER"
+	},
+	
+	block_background_dark:{
+		uri: "[config.ui.skin]common/block_background.jpg",
+		align:"CENTER",
+		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+	},
+	
+	bg_small_border_light:{
+		uri: "[config.ui.skin]common/bg_small_border_light.png",
+		scale9Grid:{x:10,y:10,width:25,height:20}
+	},
+	
+	bg_small_border_dark:{
+		uri: "[config.ui.skin]common/bg_small_border_dark.png",
+		scale9Grid:{x:10,y:10,width:25,height:20}
+	},
+	
+	block_border:{
+		uri: "[config.ui.skin]common/block_border.png",
+		scale9Grid:{x:10, y:10, width:130, height:112}
+	},
+	
+	block_border_dark:{
+		uri: "[config.ui.skin]common/block_border.png",
+		scale9Grid:{x:10, y:10, width:130, height:112},
+		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+	},
+	
+	block_border_scratch:{
+		uri: "[config.ui.skin]common/block_border_scratch.png",
+		scale9Grid:{x:25, y:17, width:100, height:101}
+	},
+	
+	block_border_scratch_dark:{
+		uri: "[config.ui.skin]common/block_border_scratch.png",
+		scale9Grid:{x:25, y:17, width:100, height:101},
+		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+	},
+	
+	block_border_double:{
+		uri: "[config.ui.skin]common/block_border_double.png",
+		scale9Grid:{x:30, y:30, width:490, height:380}
+	},
+	
+	block_background_double:{
+		uri: "[config.ui.skin]common/block_background_second.png",
+		align:"CENTER"
+	},
+	
+	block_border_double_scratch:{
+		uri: "[config.ui.skin]common/block_border_double_scratch.png",
+		scale9Grid:{}
+	},
+	
+	bg_dark_round_corner:{
+		uri: "[config.ui.skin]texture/onboarding/bg_darkRoundCorner.png",
+		scale9Grid:{}
+	},
+	
+	block_border_warning:{
+		uri: "[config.ui.skin]texture/slot/warningSlot2.png",
+		scale9Grid:{x:25, y:25, width:10, height:10}
+	},	
+	block_border_validated:{
+		uri: "[config.ui.skin]texture/slot/validSlot.png",
+		scale9Grid:{x:25, y:25, width:10, height:10}
+	}
+}

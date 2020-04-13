@@ -1,0 +1,27 @@
+p {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #3b362b;
+	text-align: left;
+}
+bold_p { font-weight: bold; }
+right_p { text-align: right; }
+center_p { text-align: center; }
+justify_p { text-align: justify; }
+center2_center { color: #ffffff; }
+dark_p { color: #4E280A; }
+darkcenterbig_dark { text-align: center; }
+
+
+light {
+	font-family: Tahoma;
+	font-size: 20px;
+	color: #ffffff;
+	text-align: left;
+}
+lightright_light { text-align: right; }
+
+/* Classes servant � l'affichage des objets speciaux */
+
+itemset_light { color: #feb336; }
+itemetheral_light { color: #8ab7ee; }

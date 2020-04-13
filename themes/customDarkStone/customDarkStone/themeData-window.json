@@ -1,0 +1,52 @@
+{
+	window_title_bar:{
+		uri: "[config.ui.skin]common/window_border_top.png",
+		align:"TOPLEFT"
+	},
+	
+	window_title_bar_right:{
+		uri: "[config.ui.skin]common/window_border_top_right.png"
+	},
+	
+	window_border_frame_bottom:{
+		uri: "[config.ui.skin]common/window_border_bottom.png",
+		scale9Grid:{x:50,y:80,width:75,height:150}
+	},
+	
+	window_icon_background:{
+		uri: "[config.ui.skin]common/window_border_icon_background.png"		
+	},
+	
+	window_background:{
+		uri: "[config.ui.skin]common/window_green_background.jpg",
+		align:"CENTER"
+	},
+	
+	window_background_dark:{
+		uri: "[config.ui.skin]common/window_green_background.jpg",
+		align:"CENTER",
+		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+	},
+
+	window_green_background:{
+		uri: "[config.ui.skin]common/window_green_background.jpg",
+		align:"CENTER",
+		margin:{left:15,right:15,top:48,bottom:20}
+	},
+	
+	window_separator:{
+		uri: "[config.ui.skin]common/window_separator_vertical.png",
+		scale9Grid:{x:0,y:110,width:21,height:20},
+		margin:{left:0,right:0,top:41,bottom:20}
+	},
+	
+	window_icon_inventory:{
+		uri: "[config.ui.skin]texture/windowIcon/icon_menu_inventory.png"
+	},
+
+	window_border_small_half:{
+		uri: "[config.ui.skin]common/window_border_small_top.png",
+		colorTransform:{redMultiplier:0.8, greenMultiplier:0.8, blueMultiplier:0.8},
+		scale9Grid:{x:30,y:25,width:126,height:8}
+	}
+}

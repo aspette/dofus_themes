@@ -1,0 +1,47 @@
+p {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #E7DEDA;
+	text-align: center;
+	font-weight: bold;
+}
+
+#cssClass {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #E7DEDA;
+	text-align: center;
+	font-weight: bold;
+}
+
+red {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #ff0142;
+	text-align: center;
+	font-weight: bold;
+}
+
+green {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #66ff99;
+	text-align: center;
+	font-weight: bold;
+}
+
+blue {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #00ffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+orange {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #ffae00;
+	text-align: center;
+	font-weight: bold;
+}
