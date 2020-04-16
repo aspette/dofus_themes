@@ -1,0 +1,187 @@
+successpoints {
+	font-family: Verdana;
+	font-size: 30px;
+	color: #512809;
+	font-weight: bold;
+	text-align: center;
+}
+
+apmp {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #000000;
+	text-align: center;
+	shadow-distance: 0;
+	shadow-blurX: 0;
+}
+
+hp {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #FFFFFF;
+	text-align: center;
+	shadow-distance: 0;
+	shadow-blurX: 0;
+}
+
+hpshield_hp {
+	font-size: 19px;
+}
+
+shield_hp {
+	font-family: Verdana;
+	font-size: 15px;
+}
+
+countdown {
+	font-family: Verdana;
+	font-size: 50px;
+	color: #c96217;
+	text-align: center;
+}
+
+coord {
+	font-family: VerdanaCondensed;
+	font-size: 26px;
+	color: #e5e5e3;
+	font-weight: bold;
+
+	shadow-angle: 360;
+	shadow-distance: 0;
+    shadow-blurX: 8;
+    shadow-blurY: 8;
+    shadow-strength: 1.5;
+
+}
+
+zone {
+	font-family: Verdana;
+	font-size: 27px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+}
+
+idolsscore {
+	font-family: Verdana;
+	font-size: 25px;
+	color: #000000;
+	text-align:center;
+	font-weight: bold;
+}
+
+robotoboldcenter72 {
+	font-family: VerdanaCondensed;
+	font-size: 72px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+}
+
+greenunderlineleft {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	text-decoration: underline;
+}
+
+whitehugeboldshadow{
+	font-family: VerdanaCondensed;
+	font-size: 44px;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+	shadow-distance: 0;
+	shadow-blurX: 0;
+	shadow-angle:90;
+}
+
+whitebigboldshadow{
+	font-family: VerdanaCondensed;
+	font-size: 40px;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+	shadow-distance: 0;
+	shadow-blurX: 0;
+	shadow-angle:90;
+}
+
+levelup {
+	font-family: Verdana;
+	font-size: 20px;
+    color: #000000;
+    text-align: center;
+}
+
+smallscreen {
+	font-family: Verdana;
+	font-size: 17px;
+    color: #000000;
+}
+
+smallscreenleft {
+	font-family: Verdana;
+	font-size: 17px;
+    color: #000000;
+	text-align: left;
+}
+
+statbonus {
+	font-family: Verdana;
+	font-size: 16px;
+	color: #c96217;
+	text-align: left;
+}
+
+fighterinfo {
+	font-family: VerdanaCondensed;
+	font-size: 17px;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+}
+fighterinfodisabled {
+	font-family: VerdanaCondensed;
+	font-size: 17px;
+	color: #848480;
+	font-weight: bold;
+	text-align: left;
+}
+
+fighterinfolifepoints {
+	font-family: VerdanaCondensed;
+	font-size: 17px;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: -2px;
+}
+
+
+configqualityinfo {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #808080;
+	font-style: italic;
+	text-align: center;
+}
+
+shopoldprice {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #737373;
+	text-align: justify;
+    	font-weight: normal;
+}
+/*-------------------- niveaux de zone sur la map --------------------*/
+subarealevel {
+	font-family: Verdana;
+	font-size: 16px;
+	text-align: justify;
+}
+subarealevelgray_subarealevel { color: #000000; }
+subarealevelgreen_subarealevel { color: #1d6320; }
+subarealevelorange_subarealevel { color: #e48c51; }
+subarealevelred_subarealevel { color: #b02424; }

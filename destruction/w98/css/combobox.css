@@ -1,0 +1,14 @@
+p {
+	font-family: Verdana;
+	font-size: 15;
+	color: #B4B4B2;
+	paddingLeft: 13px;
+	verticalAlign: CENTER;
+}
+
+maincontainer {
+	font-family: Verdana;
+	font-size: 15;
+	color: #000000;
+	paddingLeft: 13px;
+}

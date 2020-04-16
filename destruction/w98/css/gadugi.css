@@ -1,0 +1,89 @@
+p {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	text-align: justify;
+    font-weight: normal;
+}
+
+left {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	text-align: left;
+	font-weight: normal;
+}
+
+right {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	text-align: right;
+	font-weight: normal;
+}
+
+center {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	font-weight: normal;
+	text-align: center;
+}
+
+/*--------------- Bold Style ----------------*/
+
+bold {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	font-weight: bold;
+}
+
+boldright {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	font-weight: bold;
+	text-align: right;
+}
+
+boldcenter {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #fffae4;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+
+titleboldhuge {
+	font-family: Verdana;
+	font-size: 60px;
+	color: #fffae4;
+	font-weight: bold;
+}
+
+titlesmallbrown {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #463D2F;
+}
+titlesmallbrownright {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #463D2F;
+	text-align: right;
+}
+
+title {
+	font-family: Verdana;
+	font-size: 26px;
+	color: #fffae4;
+}
+titleright {
+	font-family: Verdana;
+	font-size: 26px;
+	color: #fffae4;
+	text-align: right;
+}
