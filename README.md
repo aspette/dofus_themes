@@ -9,6 +9,7 @@
 - [oldUI (beige) Remake](https://raw.githubusercontent.com/aspette/dofus_themes/master/themes/oldUI%20beige%20Remake/oldUIPreview.jpg?raw=true)
 - [oldUI 1.29 Remake](https://github.com/aspette/dofus_themes/blob/master/themes/oldUI%201.29%20Remake/oldUIPreview.jpg?raw=true)
 - [customDarkStone](https://github.com/aspette/dofus_themes/blob/master/themes/customDarkStone/darkStonePreview.jpg?raw=true)
+- [windows98](https://github.com/aspette/dofus_themes/blob/master/destruction/w98.jpg?raw=true)
 
 ## Links
 
@@ -18,7 +19,8 @@
 	
 	oldUI Remakes : https://github.com/aspette/dofus_themes/raw/master/oldUIRemake.json
   
+ 	wtf : https://github.com/aspette/dofus_themes/raw/master/wtf.json
+	
   if it doesn't work: 
-  https://github.com/aspette/dofus_themes/raw/master/aspetteDT.json
   
   http://www.dofus.tools/?page=themeCenter&sort=popularity&author=Aspette
