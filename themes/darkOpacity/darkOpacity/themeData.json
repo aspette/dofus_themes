@@ -7,8 +7,8 @@
 	popup_background:{
 		uri: "[config.ui.skin]common/window_green_background.jpg",
 		align:"CENTER",
-		margin:{left:22,right:22,top:20,bottom:23},
-		colorTransform:{ alphaMultiplier :0.7,redMultiplier:0.16,	greenMultiplier:0.16,	blueMultiplier:0.16   }
+		margin:{left:22,right:22,top:20,bottom:23}
+		// colorTransform:{ alphaMultiplier :0.7,redMultiplier:0.16,	greenMultiplier:0.16,	blueMultiplier:0.16   }
 	},	
 	
 	popup_close_background:{
