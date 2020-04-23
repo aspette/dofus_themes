@@ -4,6 +4,8 @@ p {
     text-align: left;
     padding-left: 12;
     text-indent: -10;
+    font-style: normal;
+    font-weight: normal;
     leading: -2;
     color: #E8890D;
 }

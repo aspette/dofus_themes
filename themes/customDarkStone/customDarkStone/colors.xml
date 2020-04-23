@@ -35,7 +35,9 @@
 	<entry key="grid.selected">0x30CCCCCC</entry>
 	<entry key="grid.bg.green">0x2C512C</entry>
 	<entry key="grid.bg.red">0x5F190B</entry>
-	
+	<!--	// Temporis IV-->
+	<entry key="grid.passiveSpell">0x7C6399</entry>
+
 	<entry key="multigrid.line">0x5c5c5d</entry>
 	<entry key="multigrid.subline">0x202020</entry>
 	<entry key="multigrid.selected">0xaae50c</entry>
@@ -138,6 +140,7 @@
     <entry key="progressbar.damage">0xff6a3d</entry>
 	<entry key="progressbar.lifePoints">0xc71c26</entry>
 	<entry key="progressbar.shieldPoints">0x9966CC</entry>
+	<entry key="progressbar.lifeThreshold">0xebc304</entry>
 	<entry key="progressbar.xp">0x3AF2FF</entry>
 	<entry key="progressbar.guildXp">0x8400FF</entry>
 	<entry key="progressbar.mountXp">0x6CF0E5</entry>

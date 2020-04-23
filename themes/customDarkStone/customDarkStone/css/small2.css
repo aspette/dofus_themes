@@ -350,6 +350,14 @@ orangecenter {
 	text-align: center;
 }
 
+orangecenterbold {
+	font-family: Roboto;
+	font-size: 14;
+	color: #ebc304;
+	font-weight: bold;
+	text-align: center;
+}
+
 red {
 	font-family: Roboto;
 	font-size: 14;

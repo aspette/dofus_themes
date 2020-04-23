@@ -1,4 +1,4 @@
-/*-------------------- P Style --------------------*/
+﻿/*-------------------- P Style --------------------*/
 p {
 	font-family: Roboto;
 	font-size: 16px;
@@ -25,6 +25,13 @@ boldcenter_p {
 boldright_p {
 	text-align: right;
 	font-weight: bold;
+}
+darkerbold_p {
+	font-family: Roboto;
+	font-size: 14;
+	color: #696968;
+	font-weight: bold;
+	text-align: justify;
 }
 shadowedcenter_center {
     shadow-distance: 1;
@@ -163,9 +170,11 @@ orange {
 	text-align: justify;
 }
 orangeleft_orange { text-align: left; }
+orangeleftbold_orange { text-align: left; font-weight: bold;}
 orangeright_orange { text-align: right; }
 orangecenter_orange { text-align: center; }
 bigorangeleft_orange { text-align: left; font-size: 18px; }
+bigboldorangeleft_bigorangeleft { font-weight: bold }
 
 /*-------------------- red Style --------------------*/
 red {
@@ -274,6 +283,20 @@ hyperlink {
 	font-family: Roboto;
 	font-size: 14px;
 	color: #deff00;
+}
+
+hyperlinkright {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #deff00;
+	text-align: right;
+}
+
+hyperlinkcenter {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #deff00;
+	text-align: center;
 }
 
 hyperlink:hover {
