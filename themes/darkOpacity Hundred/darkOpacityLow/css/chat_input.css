@@ -1,0 +1,330 @@
+/* Feuille de style destin?e ? :
+? login : TextArea des news.
+? banner : typo utilis?e dans la TextArea du chat
+*/
+
+
+/* Alert TODO */
+
+p {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #c10000;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Global */
+
+p0 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    leading: -2;
+    color: #f2f2f2;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Team */
+
+p1 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #4eebb6;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Guild */
+
+p2 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #7d51d0;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Alliance */
+
+p3 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #edb92d;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Party */
+
+p4 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #0088f6;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Sales TODO */
+
+p5 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #663300;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Seek TODO */
+
+p6 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #737373;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Noob TODO */
+
+p7 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #0000cc;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Admin TODO */
+
+p8 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #ff00ff;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Private */
+
+p9 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #eb684e;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Info TODO */
+
+p10 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #009900;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* FightLog TODO */
+
+p11 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #009900;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Pub */
+
+p12 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #24a394;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Arena */
+
+p13 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #f16392;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Community */
+
+p14 {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #9EC79D;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+sender {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15;
+    text-indent: -10;
+    leading: -2;
+    color: #eb684e;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* TODO */
+
+bubble {
+    font-family: Tahoma;
+    font-size: 18px;
+    color: #312D24;
+    padding-left: -15;
+    text-align: left;
+}
+
+
+/* Alert */
+
+indentred {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 25;
+    text-indent: -20;
+    leading: -2;
+    color: #c10000;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Global */
+
+indent {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 25;
+    text-indent: -20;
+    leading: -2;
+    color: #312D24;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}
+
+
+/* Info */
+
+indentgreen {
+    font-family: Roboto;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 25;
+    text-indent: -20;
+    leading: -2;
+    color: #009900;
+    shadow-distance: 2;
+    shadow-blurX: 2;
+    shadow-angle: 90;
+}

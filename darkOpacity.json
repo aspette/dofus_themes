@@ -36,6 +36,18 @@
     },
     {
         "author": "Aspette",
+        "name": "darkOpacity Low",
+        "keyWords": "darkOpacity, Thèmes",
+        "version": "5.8.0",
+        "dofusVersion": "2.55",
+        "description": "darkOpacity Low : darkOpacity Hundred, mais très léger. (Twitter : @Aspette)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityLow.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
+        "creationDate": "01/08/2017",
+        "modificationDate": "24/04/2020"
+    },
+    {
+        "author": "Aspette",
         "name": "lightOpacity",
         "keyWords": "lightOpacity, Thèmes",
         "version": "refonte en cours",
