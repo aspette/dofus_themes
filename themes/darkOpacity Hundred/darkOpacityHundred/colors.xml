@@ -70,7 +70,7 @@
 	
 	<!-- Couleurs de textes -->
 	
-	<entry key="shortcut">0xFFFFFF</entry>
+	<entry key="shortcut">0xffc246</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
 	<entry key="hyperlink.link">0xffc246</entry>
