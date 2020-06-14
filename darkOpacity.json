@@ -216,6 +216,42 @@
     },
     {
         "author": "Aspette",
+        "name": "x darkOpacity - altTactic mode",
+        "keyWords": "darkOpacity, Tactic Mode",
+        "version": "altTactic",
+        "dofusVersion": "2.55",
+        "description": "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ alternative darkTactic mode for darkOpacity",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacity/altTactic/darkOpacity.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/altTacticPreview.png",
+        "creationDate": "11/05/2019",
+        "modificationDate": "11/05/2019"
+    },
+    {
+        "author": "Aspette",
+        "name": "x darkOpacity Hundred- altTactic mode",
+        "keyWords": "darkOpacity Hundred, Tactic Mode",
+        "version": "altTactic",
+        "dofusVersion": "2.55",
+        "description": "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ alternative darkTactic mode for darkOpacity Hundred",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacityHundred/altTactic/darkOpacityHundred.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/altTacticPreview.png",
+        "creationDate": "11/05/2019",
+        "modificationDate": "11/05/2019"
+    },
+    {
+        "author": "Aspette",
+        "name": "x customDarkStone- altTactic mode",
+        "keyWords": "customDarkStone, Tactic Mode",
+        "version": "altTactic",
+        "dofusVersion": "2.55",
+        "description": "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ alternative darkTactic mode for customDarkStone",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/customDarkStone/altTactic/customDarkStone.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/altTacticPreview.png",
+        "creationDate": "11/05/2019",
+        "modificationDate": "11/05/2019"
+    },
+    {
+        "author": "Aspette",
         "name": "x darkOpacity - stone HP display",
         "keyWords": "darkOpacity, HP Display",
         "version": "stoneHPDisplay",
