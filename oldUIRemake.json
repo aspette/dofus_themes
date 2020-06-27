@@ -2,13 +2,13 @@
         "author": "Aspette",
         "name": "oldUI Remake",
         "keyWords": "oldUI Remake, Thèmes",
-        "version": "1.7.0",
-        "dofusVersion": "2.55",
+        "version": "1.8.0",
+        "dofusVersion": "2.56",
         "description": "L'ancienne interface utilisateur revisitée ! (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIRemake.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIPreview.jpg",
         "creationDate": "11/05/2019",
-        "modificationDate": "09/04/2020"
+        "modificationDate": "27/06/2020"
     },
     {
         "author": "Aspette",
@@ -50,7 +50,7 @@
         "name": "x oldUI Remake- altTactic mode",
         "keyWords": "oldUI Remake, Tactic Mode",
         "version": "altTactic",
-        "dofusVersion": "2.55",
+        "dofusVersion": "2.56",
         "description": "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ alternative darkTactic mode for oldUI Remake",
         "url": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/oldUIRemake/altTactic/oldUIRemake.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/altTacticPreview.png",
