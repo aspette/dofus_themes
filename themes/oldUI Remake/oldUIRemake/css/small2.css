@@ -518,3 +518,11 @@ rightfeature_newfeaturecenter {
 	color: #c8c8c8;
 	text-align: right;
 }
+
+smalldarkboldcenter_darkboldcenter {
+	font-family: Roboto;
+	font-size: 12;
+	color: #2d1e13;
+	font-weight: bold;
+	text-align: center;
+}

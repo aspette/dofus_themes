@@ -184,6 +184,17 @@ red {
 }
 redcenter_red { text-align: center; }
 redright_red { text-align: right; }
+redboldcenterwhiteshadow {
+	font-family: Roboto;
+	font-size: 32px;
+	color: #eb0000;
+	text-align: justify;
+	font-weight: bold;
+	shadow-angle: 360;
+	shadow-distance: 0;
+	shadow-strength: 5;
+	shadow-color: #ffffff
+}
 
 /*-------------------- white Style --------------------*/
 white{
