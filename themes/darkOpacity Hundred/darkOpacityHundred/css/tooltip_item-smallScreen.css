@@ -58,6 +58,31 @@ p {
     color: #d0483a;
 }
 
+.neutral {
+    font-family: Roboto;
+    font-size: 17;
+    color: #c7c7c5;
+}
+
+.neutralvalue {
+    font-family: Roboto;
+    font-size: 17;
+    color: #c7c7c5;
+}
+
+.overFm {
+    font-family: Roboto;
+    font-size: 17;
+    color: #ffe21c;
+}
+
+.overFmvalue {
+    font-family: Roboto;
+    font-size: 17;
+    font-weight: bold;
+    color: #ffe21c;
+}
+
 .subeffectleftcolumn {
     margin-left: 32;
     leading: -15;
@@ -70,14 +95,14 @@ p {
 .exotic {
     font-family: Tahoma;
     font-size: 17;
-    color: #4683ce;
+    color: #67acff;
 }
 
 .exoticvalue {
     font-family: Tahoma;
     font-size: 17;
     font-weight: bold;
-    color: #68b6ff;
+    color: #67acff;
 }
 
 .theoretical {
@@ -102,6 +127,13 @@ p {
     font-family: Tahoma;
     font-size: 17;
     color: #ebc304;
+}
+
+.importantNotice {
+    font-family: Roboto;
+    font-size: 17;
+    color: #ebc304;
+    margin-left: 32;
 }
 
 .description {

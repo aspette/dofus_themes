@@ -371,6 +371,10 @@
         "uri": "[config.ui.skin]bitmap/btn_buy_over.png",
         scale9Grid: { x: 10, y: 10, width: 12, height: 12 }
     },
+    btn_buy_over_orange: {
+        "uri": "[config.ui.skin]bitmap/btn_buy_over_orange.png",
+        scale9Grid: { x: 10, y: 10, width: 12, height: 12 }
+    },
     bg_small_green: {
         "uri": "[config.ui.skin]bitmap/bg_small_green.png",
         scale9Grid: { x: 5, y: 5, width: 35, height: 35 }

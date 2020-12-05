@@ -108,6 +108,12 @@ condensedboldcentert_condensedbold {
     text-align: center;
 }
 
+whitecondensedboldleft_condensedbold {
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 20px;
+}
+
 whitecondensedboldright_condensedbold {
     color: #e0e0de;
     text-align: right;
@@ -435,7 +441,7 @@ p4center {
 /*--------------------- Forgemagie style --------------*/
 
 smithmagicexo {
-    color: #658fc4;
+    color: #67acff;
 }
 
 smithmagicfail {
