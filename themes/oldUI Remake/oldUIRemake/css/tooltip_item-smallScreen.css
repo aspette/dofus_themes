@@ -1,175 +1,182 @@
 p {
-	font-family: Verdana;
-	font-size: 17;
-	color: #c7c7c5;
+    font-family: Verdana;
+    font-size: 17;
+    color: #c7c7c5;
 }
 
 .separator {
-	leading: -12;
+    leading: -12;
 }
 
 .customli {
-	color: #57574f;
-	margin-left: 22;
+    color: #57574f;
+    margin-left: 22;
 }
 
 .customlirightmargin {
-	color: #57574f;
-	margin-left: 22;
-	margin-right: 104;
+    color: #57574f;
+    margin-left: 22;
+    margin-right: 104;
 }
 
 .value {
-	font-family: Verdana;
-	font-size: 17;
-	color: #ffffff;
+    font-family: Verdana;
+    font-size: 17;
+    color: #ffffff;
 }
 
 .subtitle {
-	font-family: Verdana;
-	font-size: 18;
-	color: #dfdfdf;
-	margin-left: 16;
+    font-family: Verdana;
+    font-size: 18;
+    color: #dfdfdf;
+    margin-left: 16;
 }
 
 .bonus {
-	font-family: Verdana;
-	font-size: 17;
-	color: #6db213;
+    font-family: Verdana;
+    font-size: 17;
+    color: #6db213;
 }
 
 .bonusvalue {
-	font-family: Verdana;
-	font-size: 17;
-	font-weight: bold;
-	color: #8bf402;
+    font-family: Verdana;
+    font-size: 17;
+    font-weight: bold;
+    color: #8bf402;
 }
 
 .malus {
-	font-family: Verdana;
-	font-size: 17;
-	color: #d0483a;
+    font-family: Verdana;
+    font-size: 17;
+    color: #d0483a;
 }
 
 .malusvalue {
-	font-family: Verdana;
-	font-size: 17;
-	font-weight: bold;
-	color: #d0483a;
+    font-family: Verdana;
+    font-size: 17;
+    font-weight: bold;
+    color: #d0483a;
 }
 
 .subeffectleftcolumn {
-	margin-left: 32;
-	leading: -15;
+    margin-left: 32;
+    leading: -15;
 }
 
 .subeffectrightcolumn {
-	margin-left: 228;
+    margin-left: 228;
 }
 
 .exotic {
-	font-family: Verdana;
-	font-size: 17;
-	color: #4683ce;
+    font-family: Verdana;
+    font-size: 17;
+    color: #599ef1;
 }
 
 .exoticvalue {
-	font-family: Verdana;
-	font-size: 17;
-	font-weight: bold;
-	color: #68b6ff;
+    font-family: Verdana;
+    font-size: 17;
+    font-weight: bold;
+    color: #599ef1;
 }
 
 .theoretical {
-	font-family: Verdana;
-	font-size: 17;
-	color: #c7c7c5 ;
+    font-family: Verdana;
+    font-size: 17;
+    color: #c7c7c5;
 }
 
 .requirement {
-	font-family: Verdana;
-	font-size: 17;
-	color: #d9ad67;
+    font-family: Verdana;
+    font-size: 17;
+    color: #d9ad67;
 }
 
 .special {
-	font-family: Verdana;
-	font-size: 17;
-	color: #deb169;
+    font-family: Verdana;
+    font-size: 17;
+    color: #deb169;
 }
 
 .set {
-	font-family: Verdana;
-	font-size: 17;
-	color: #ebc304;
+    font-family: Verdana;
+    font-size: 17;
+    color: #ebc304;
+}
+
+.importantNotice {
+    font-family: Verdana;
+    font-size: 17;
+    color: #ebc304;
+    margin-left: 32;
 }
 
 .description {
-	font-family: Verdana;
-	font-size: 17;
-	color: #e6893d;
+    font-family: Verdana;
+    font-size: 17;
+    color: #e6893d;
 }
 
 .quote {
-	font-family: Verdana;
-	font-size: 17;
-	font-style: italic;
-	color: #e6893d;
+    font-family: Verdana;
+    font-size: 17;
+    font-style: italic;
+    color: #e6893d;
 }
 
 .headerp {
-	font-family: Verdana;
-	font-size: 17;
-	color: #c7c7c5;
-	margin-right: 126;
+    font-family: Verdana;
+    font-size: 17;
+    color: #c7c7c5;
+    margin-right: 126;
 }
 
 .headermalus {
-	font-family: Verdana;
-	font-size: 17;
-	color: #d0483a;
-	margin-left: 48;
+    font-family: Verdana;
+    font-size: 17;
+    color: #d0483a;
+    margin-left: 48;
 }
 
 .headertitle {
-	font-family: Verdana;
-	font-size: 18;
-	color: #dfdfdf;
-	margin-right: 126;
+    font-family: Verdana;
+    font-size: 18;
+    color: #dfdfdf;
+    margin-right: 126;
 }
 
 .footer {
-	font-family: Verdana;
-	font-size: 17;
-	font-style: italic;
-	color: #6d6d6d;
-	text-align: center;
+    font-family: Verdana;
+    font-size: 17;
+    font-style: italic;
+    color: #6d6d6d;
+    text-align: center;
 }
 
 .footerleft {
-	font-family: Verdana;
-	font-size: 15;
-	font-style: italic;
-	color: #6d6d6d;
-	text-align: left;
-	leading: -22;
+    font-family: Verdana;
+    font-size: 15;
+    font-style: italic;
+    color: #6d6d6d;
+    text-align: left;
+    leading: -22;
 }
 
 .footerright {
-	font-family: Verdana;
-	font-size: 15;
-	font-style: italic;
-	color: #6d6d6d;
-	text-align: right;
+    font-family: Verdana;
+    font-size: 15;
+    font-style: italic;
+    color: #6d6d6d;
+    text-align: right;
 }
 
 spellZone {
-	font-family: Verdana;
-	font-size: 17;
-	color: #c7c7c5;
-	margin-left: 32;
+    font-family: Verdana;
+    font-size: 17;
+    color: #c7c7c5;
+    margin-left: 32;
 }
 
 .contentmargin {
-	margin-right: 126;
+    margin-right: 126;
 }

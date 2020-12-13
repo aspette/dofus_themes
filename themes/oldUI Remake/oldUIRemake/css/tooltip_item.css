@@ -1,241 +1,273 @@
 p {
-	font-family: Verdana;
-	font-size: 15;
-	color: #c7c7c5;
+    font-family: Verdana;
+    font-size: 15;
+    color: #c7c7c5;
 }
 
 .separator {
-	leading: -12;
+    leading: -12;
 }
 
 .customli {
-	color: #57574f;
-	margin-left: 22;
+    color: #57574f;
+    margin-left: 22;
 }
 
 .customlirightmargin {
-	color: #57574f;
-	margin-left: 22;
-	margin-right: 104;
+    color: #57574f;
+    margin-left: 22;
+    margin-right: 104;
 }
 
 .value {
-	font-family: Verdana;
-	font-size: 15;
-	font-weight: bold;
-	color: #ffffff;
+    font-family: Verdana;
+    font-size: 15;
+    font-weight: bold;
+    color: #ffffff;
 }
 
 .subtitle {
-	font-family: Verdana;
-	font-size: 16;
-	font-weight: bold;
-	color: #dfdfdf;
-	margin-left: 16;
+    font-family: Verdana;
+    font-size: 16;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 16;
 }
 
 .subtitlenomargin {
-	font-family: Verdana;
-	font-size: 16;
-	font-weight: bold;
-	color: #dfdfdf;
+    font-family: Verdana;
+    font-size: 16;
+    font-weight: bold;
+    color: #dfdfdf;
 }
 
 .bonus {
-	font-family: Verdana;
-	font-size: 15;
-	color: #52AE3F;
+    font-family: Verdana;
+    font-size: 15;
+    color: #52AE3F;
 }
 
 .bonusvalue {
-	font-family: Verdana;
-	font-size: 15;
-	font-weight: bold;
-	color: #52AE3F;
+    font-family: Verdana;
+    font-size: 15;
+    font-weight: bold;
+    color: #52AE3F;
 }
 
 .malus {
-	font-family: Verdana;
-	font-size: 15;
-	color: #CB685E;
+    font-family: Verdana;
+    font-size: 15;
+    color: #CB685E;
 }
 
 .malusvalue {
-	font-family: Verdana;
-	font-size: 15;
-	font-weight: bold;
-	color: #CB685E;
+    font-family: Verdana;
+    font-size: 15;
+    font-weight: bold;
+    color: #CB685E;
+}
+
+.neutral {
+    font-family: Verdana;
+    font-size: 15;
+    color: #c7c7c5;
+}
+
+.neutralvalue {
+    font-family: Verdana;
+    font-size: 15;
+    color: #c7c7c5;
+}
+
+.overFm {
+    font-family: Verdana;
+    font-size: 15;
+    color: #ffe552;
+}
+
+.overFmvalue {
+    font-family: Verdana;
+    font-size: 15;
+    font-weight: bold;
+    color: #ffe552;
 }
 
 .subeffectleftcolumn {
-	margin-left: 32;
-	leading: -15;
+    margin-left: 32;
+    leading: -15;
 }
 
 .subeffectrightcolumn {
-	margin-left: 228;
+    margin-left: 228;
 }
 
 .exotic {
-	font-family: Verdana;
-	font-size: 15;
-	color: #658FC4;
+    font-family: Verdana;
+    font-size: 15;
+    color: #599ef1;
 }
 
 .exoticvalue {
-	font-family: Verdana;
-	font-size: 15;
-	font-weight: bold;
-	color: #658FC4;
+    font-family: Verdana;
+    font-size: 15;
+    font-weight: bold;
+    color: #599ef1;
 }
 
 .theoretical {
-	font-family: Verdana;
-	font-size: 15;
-	color: #c7c7c5 ;
+    font-family: Verdana;
+    font-size: 15;
+    color: #c7c7c5;
 }
 
 .requirement {
-	font-family: Verdana;
-	font-size: 15;
-	color: #d9ad67;
+    font-family: Verdana;
+    font-size: 15;
+    color: #d9ad67;
 }
 
 .special {
-	font-family: Verdana;
-	font-size: 15;
-	color: #deb169;
+    font-family: Verdana;
+    font-size: 15;
+    color: #deb169;
 }
 
 .set {
-	font-family: Verdana;
-	font-size: 15;
-	color: #ebc304;
+    font-family: Verdana;
+    font-size: 15;
+    color: #ebc304;
+}
+
+.importantNotice {
+    font-family: Verdana;
+    font-size: 15;
+    color: #ebc304;
+    margin-left: 32;
 }
 
 .description {
-	font-family: Verdana;
-	font-size: 15;
-	color: #E6893D;
+    font-family: Verdana;
+    font-size: 15;
+    color: #E6893D;
 }
 
 .quote {
-	font-family: Verdana;
-	font-size: 15;
-	font-style: italic;
-	color: #9D9D9C;
+    font-family: Verdana;
+    font-size: 15;
+    font-style: italic;
+    color: #9D9D9C;
 }
 
 .headerp {
-	font-family: Verdana;
-	font-size: 15;
-	color: #c7c7c5;
-	margin-right: 126;
+    font-family: Verdana;
+    font-size: 15;
+    color: #c7c7c5;
+    margin-right: 126;
 }
 
 .headermalus {
-	font-family: Verdana;
-	font-size: 15;
-	color: #d0483a;
-	margin-right: 126;
+    font-family: Verdana;
+    font-size: 15;
+    color: #d0483a;
+    margin-right: 126;
 }
 
 .headertitle {
-	font-family: Verdana;
-	font-size: 18;
-	font-weight: bold;
-	color: #dfdfdf;
-	margin-right: 126;
+    font-family: Verdana;
+    font-size: 18;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-right: 126;
 }
 
 .footer {
-	font-family: Verdana;
-	font-size: 15;
-	font-style: italic;
-	color: #6d6d6d;
-	text-align: center;
+    font-family: Verdana;
+    font-size: 15;
+    font-style: italic;
+    color: #6d6d6d;
+    text-align: center;
 }
 
 .footerleft {
-	font-family: Verdana;
-	font-size: 15;
-	font-style: italic;
-	color: #6d6d6d;
-	text-align: left;
-	leading: -15;
+    font-family: Verdana;
+    font-size: 15;
+    font-style: italic;
+    color: #6d6d6d;
+    text-align: left;
+    leading: -15;
 }
 
 .footerright {
-	font-family: Verdana;
-	font-size: 15;
-	font-style: italic;
-	color: #6d6d6d;
-	text-align: right;
+    font-family: Verdana;
+    font-size: 15;
+    font-style: italic;
+    color: #6d6d6d;
+    text-align: right;
 }
 
 spellZone {
-	font-family: Verdana;
-	font-size: 15;
-	color: #c7c7c5;
-	margin-left: 32;
+    font-family: Verdana;
+    font-size: 15;
+    color: #c7c7c5;
+    margin-left: 32;
 }
 
 .contentmargin {
-	margin-right: 126;
+    margin-right: 126;
 }
 
 .probaright {
-	font-family: Verdana;
-	font-size: 15;
-	text-align: right;
-	leading: -19;
+    font-family: Verdana;
+    font-size: 15;
+    text-align: right;
+    leading: -19;
 }
 
 .common {
-	font-family: Verdana;
-	font-size: 15;
-	text-align: right;
-	leading: -19;
-	color: #848480;
+    font-family: Verdana;
+    font-size: 15;
+    text-align: right;
+    leading: -19;
+    color: #848480;
 }
 
 .uncommon {
-	font-family: Verdana;
-	font-size: 15;
-	text-align: right;
-	leading: -19;
-	color: #6db213;
+    font-family: Verdana;
+    font-size: 15;
+    text-align: right;
+    leading: -19;
+    color: #6db213;
 }
 
 .rare {
-	font-family: Verdana;
-	font-size: 15;
-	text-align: right;
-	leading: -19;
-	color: #1B96FF;
+    font-family: Verdana;
+    font-size: 15;
+    text-align: right;
+    leading: -19;
+    color: #1B96FF;
 }
 
 .epic {
-	font-family: Verdana;
-	font-size: 15;
-	text-align: right;
-	leading: -19;
-	color: #9400d3;
+    font-family: Verdana;
+    font-size: 15;
+    text-align: right;
+    leading: -19;
+    color: #9400d3;
 }
 
 .legendary {
-	font-family: Verdana;
-	font-size: 15;
-	text-align: right;
-	leading: -19;
-	color: #ffb400;
+    font-family: Verdana;
+    font-size: 15;
+    text-align: right;
+    leading: -19;
+    color: #ffb400;
 }
 
 .descriptionproba {
-	font-family: Verdana;
-	font-size: 15;
-	color: #E6893D;
-	margin-left: 22;
-	margin-right: 75;
-	text-align: left;
+    font-family: Verdana;
+    font-size: 15;
+    color: #E6893D;
+    margin-left: 22;
+    margin-right: 75;
+    text-align: left;
 }

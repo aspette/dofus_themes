@@ -1,29 +1,89 @@
-normal {
+normalhistory {
     font-family: Roboto;
-    font-size: 16px;
-	text-align: left;
-	padding-left: 25;
-	text-indent: -20;
-	leading:-2;
-	color: #dfdfdf;
+    font-size: 15px;
+    text-align: left;
+    color: #dfdfdf;
 }
 
-success {
+successhistory {
     font-family: Roboto;
-    font-size: 16px;
-	text-align: left;
-	padding-left: 25;
-	text-indent: -20;
-	leading:-2;
-	color: #52ae3f;
+    font-size: 15px;
+    text-align: left;
+    color: #6db213;
 }
 
-fail {
+neutralhistory {
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: left;
+    color: #c7c7c5;
+}
+
+exohistory {
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: left;
+    color: #599ef1;
+}
+
+failurehistory {
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: left;
+    color: #cb685e;
+}
+
+shouldnothappenhistory {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: right;
+    color: #FF0000;
+}
+
+normaleffect {
     font-family: Roboto;
     font-size: 16px;
-	text-align: left;
-	padding-left: 25;
-	text-indent: -20;
-	leading:-2;
-	color: #cb685e;
+    color: #c7c7c5;
+    text-align: justify;
+    font-weight: normal;
+}
+
+losteffect {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #6b6b6b;
+    text-align: justify;
+    font-weight: normal;
+}
+
+exoeffect {
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: normal;
+    color: #599ef1;
+}
+
+faileffect {
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: normal;
+    color: #cb685e;
+}
+
+successeffect {
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: normal;
+    color: #6db213;
+}
+
+overeffect {
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: normal;
+    color: #ffe552;
 }

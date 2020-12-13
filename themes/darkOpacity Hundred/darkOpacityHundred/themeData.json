@@ -185,7 +185,13 @@
     filter_misc_on: {
         uri: "[config.ui.skin]texture/map/filterMisc_On.png"
     },
-
+    // quest
+    filter_quest_off: {
+        uri: "[config.ui.skin]texture/map/filterQuest_Off.png"
+    },
+    filter_quest_on: {
+        uri: "[config.ui.skin]texture/map/filterQuest_On.png"
+    },
 
     // private
     filter_private_off: {
