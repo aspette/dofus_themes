@@ -1,11 +1,11 @@
 <theme>
     <name>darkOpacity Low</name>
     <skinType>1</skinType>
-    <description>darkOpacity Low : darkOpacity Hundred, mais très léger. (Twitter : @Aspette)</description>
+    <description>darkOpacity Low : le thème le plus léger pour de meilleures performances. (Twitter : @Aspette)</description>
     <previewUri>darkOpacityHundred.jpg</previewUri>
 	<author>Aspette</author>
 	<version>5.8.0</version>
     <dofusVersion>2.55</dofusVersion>
     <creationDate>01/08/2017</creationDate>
-    <modificationDate>24/04/2020</modificationDate>
+    <modificationDate>02/01/2021</modificationDate>
 </theme>

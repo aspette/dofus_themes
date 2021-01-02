@@ -14,9 +14,6 @@ p {
     text-indent: -10;
     leading: -2;
     color: #c10000;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -28,9 +25,6 @@ p0 {
     text-align: left;
     leading: -2;
     color: #f2f2f2;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -44,9 +38,6 @@ p1 {
     text-indent: -10;
     leading: -2;
     color: #4eebb6;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -60,9 +51,6 @@ p2 {
     text-indent: -10;
     leading: -2;
     color: #7d51d0;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -76,9 +64,6 @@ p3 {
     text-indent: -10;
     leading: -2;
     color: #edb92d;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -92,9 +77,6 @@ p4 {
     text-indent: -10;
     leading: -2;
     color: #0088f6;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -108,9 +90,6 @@ p5 {
     text-indent: -10;
     leading: -2;
     color: #663300;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -124,41 +103,6 @@ p6 {
     text-indent: -10;
     leading: -2;
     color: #737373;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
-}
-
-
-/* Noob TODO */
-
-p7 {
-    font-family: Roboto;
-    font-size: 12px;
-    text-align: left;
-    padding-left: 15;
-    text-indent: -10;
-    leading: -2;
-    color: #0000cc;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
-}
-
-
-/* Admin TODO */
-
-p8 {
-    font-family: Roboto;
-    font-size: 12px;
-    text-align: left;
-    padding-left: 15;
-    text-indent: -10;
-    leading: -2;
-    color: #ff00ff;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -172,9 +116,6 @@ p9 {
     text-indent: -10;
     leading: -2;
     color: #eb684e;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -188,9 +129,6 @@ p10 {
     text-indent: -10;
     leading: -2;
     color: #009900;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -204,9 +142,6 @@ p11 {
     text-indent: -10;
     leading: -2;
     color: #009900;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -220,9 +155,6 @@ p12 {
     text-indent: -10;
     leading: -2;
     color: #24a394;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -236,9 +168,6 @@ p13 {
     text-indent: -10;
     leading: -2;
     color: #f16392;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -252,9 +181,6 @@ p14 {
     text-indent: -10;
     leading: -2;
     color: #9EC79D;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 sender {
@@ -265,9 +191,6 @@ sender {
     text-indent: -10;
     leading: -2;
     color: #eb684e;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -292,9 +215,6 @@ indentred {
     text-indent: -20;
     leading: -2;
     color: #c10000;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -308,9 +228,6 @@ indent {
     text-indent: -20;
     leading: -2;
     color: #312D24;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
 
 
@@ -324,7 +241,4 @@ indentgreen {
     text-indent: -20;
     leading: -2;
     color: #009900;
-    shadow-distance: 2;
-    shadow-blurX: 2;
-    shadow-angle: 90;
 }
