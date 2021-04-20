@@ -249,7 +249,16 @@ darkboldcenter {
     font-weight: bold;
     text-align: center;
 }
+blue {
+	font-family: Roboto;
+	font-size: 14;
+	color: #22f7fd;
+	text-align: justify;
+}
 
+blueright_blue{
+	text-align: right;
+}
 green {
     font-family: Roboto;
     font-size: 14;

@@ -12,6 +12,16 @@ left {
 	font-weight: normal;
 	text-align: left;
 }
+blue {
+	font-family: Roboto;
+	font-size: 14;
+	color: #22f7fd;
+	text-align: justify;
+}
+
+blueright_blue{
+	text-align: right;
+}
 right {
 	font-family: Roboto;
 	font-size: 14;

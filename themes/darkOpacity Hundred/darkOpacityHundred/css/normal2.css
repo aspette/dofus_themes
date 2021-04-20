@@ -187,7 +187,18 @@ disabledboldright_disabledright {
     font-weight: bold;
 }
 
+/*-------------------- blue Style --------------------*/
 
+blue {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #22f7fd;
+	text-align: justify;
+}
+
+blueright_blue{
+	text-align: right;
+}
 /*-------------------- dark Style --------------------*/
 
 dark_p {

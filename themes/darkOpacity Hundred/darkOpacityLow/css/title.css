@@ -137,7 +137,16 @@ greencenter {
 	font-weight: normal;
 	text-align: center;
 }
-
+shadowedgreencenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #FFCB2F;
+	font-weight: normal;
+	text-align: center;
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle: 90;
+}
 gray {
 	font-family: RobotoCondensed;
 	font-size: 22px;

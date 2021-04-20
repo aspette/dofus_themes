@@ -89,7 +89,18 @@ italicdisabled_p {
     font-style: italic;
 }
 
+/*-------------------- blue Style --------------------*/
 
+blue {
+	font-family: Tahoma;
+	font-size: 16px;
+	color: #22f7fd;
+	text-align: justify;
+}
+
+blueright_blue{
+	text-align: right;
+}
 /*-------------------- condensed Style --------------------*/
 
 condensedbold {
