@@ -223,6 +223,7 @@ darkboldleft_darkbold {
 }
 
 darkboldright_darkbold {
+    color: #dbaf1c;
     text-align: right;
 }
 
@@ -269,7 +270,7 @@ greenunderline_p {
 }
 
 greenboldcenter_p {
-    color: #FFCB2F;
+    color: #ffffff;
     text-align: center;
     font-weight: bold;
 }
