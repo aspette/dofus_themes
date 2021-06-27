@@ -316,8 +316,7 @@
         scale9Grid: { x: 10, y: 10, width: 44, height: 44 }
     },
     icon_magnifier_green: {
-        uri: "[config.ui.skin]texture/icon_magnifier.png",
-        colorTransform: { redMultiplier: 0, greenMultiplier: 0, blueMultiplier: 0, redOffset: 194, greenOffset: 233, blueOffset: 2 }
+        uri: "[config.ui.skin]texture/icon_magnifier.png"
     },
     yellow_slot: {
         uri: "[config.ui.skin]texture/slot/slotYellow.png",
