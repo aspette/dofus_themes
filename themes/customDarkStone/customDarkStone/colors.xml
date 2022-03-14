@@ -35,7 +35,7 @@
 	<entry key="grid.selected">0x30CCCCCC</entry>
 	<entry key="grid.bg.green">0x2C512C</entry>
 	<entry key="grid.bg.red">0x5F190B</entry>
-	<!--	// Temporis IV-->
+
 	<entry key="grid.passiveSpell">0x7C6399</entry>
 
 	<entry key="multigrid.line">0x5c5c5d</entry>
@@ -153,21 +153,27 @@
 
 	<entry key="map.search.grid.over">0x151513</entry>
 	<entry key="map.search.grid.over.alpha">0.6</entry>
-	
+
 	<entry key="flag.unknown">0xEE9933</entry>
 	<entry key="flag.right">0x44FF44</entry>
 	<entry key="flag.wrong">0xFF4444</entry>
-	<entry key="flag.quest1">0x16d225</entry>
-	<entry key="flag.quest2">0x00a9fe</entry>
-	<entry key="flag.quest3">0xfe20a9</entry>
-	<entry key="flag.quest4">0xffa91c</entry>
-	<entry key="flag.quest5">0x01fafe</entry>
+	<entry key="flag.quest1">0x7302ff</entry>
+	<entry key="flag.quest2">0x1da9fd</entry>
+	<entry key="flag.quest3">0xff9e00</entry>
+	<entry key="flag.quest4">0x295f14</entry>
+	<entry key="flag.quest5">0xfffb36</entry>
+	<entry key="flag.quest6">0xeea8ff</entry>
+	<entry key="flag.quest7">0x00001a</entry>
+	<entry key="flag.quest8">0x16d225</entry>
+	<entry key="flag.quest9">0xff0212</entry>
+	<entry key="flag.quest10">0xfe20a9</entry>
 	
 	<entry key="gameserver.type0">0x9eb11f</entry>
 	<entry key="gameserver.type1">0x371c12</entry>
 	<entry key="gameserver.type3">0x173c3c</entry>
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
+
 
 	<!--entry key="tacticmode.floor01">0xbdbfbf</entry>
 	<entry key="tacticmode.floor02">0xb7b9b9</entry>

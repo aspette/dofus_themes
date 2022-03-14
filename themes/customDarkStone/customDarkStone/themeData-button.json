@@ -16,7 +16,7 @@
 		uri: "[config.ui.skin]common/btn_green_disabled.png",
 		scale9Grid:{}
 	},
-	
+
 	// Green small button
 	button_small_normal:{
 		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
@@ -103,7 +103,7 @@
 			redOffset: 128, greenOffset: 2, blueOffset: -255
 		}
 	},
-	
+
 	// Green small button with very thin border
 	button_thin_border_normal:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_normal.png",
@@ -125,7 +125,7 @@
 		uri: "[config.ui.skin]common/btn_green_thin_border_disabled.png",
 		scale9Grid:{}
 	},
-	
+
 	// Green grey button with very thin border
 	button_grey_thin_border_normal:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_disabled.png",
@@ -169,7 +169,7 @@
 			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
 		}
 	},
-	
+
 	// Giant green button with decoration
 	button_largeBorder_normal:{
 		uri: "[config.ui.skin]common/btn_greenLargeBorder_normal.png"
@@ -186,7 +186,7 @@
 	button_largeBorder_disabled:{
 		uri: "[config.ui.skin]common/btn_greenLargeBorder_disabled.png"
 	},
-	
+
 	// Giant green button with green decoration
 	button_largeBorder_green_normal:{
 		uri: "[config.ui.skin]common/btn_greenSecondLargeBorder_normal.png"
@@ -246,9 +246,9 @@
 	button_help_normal:{
 		uri: "[config.ui.skin]texture/btnIcon/btnIcon_question.png"
 	},
-    button_help_over:{
-        uri: "[config.ui.skin]texture/subhint_over.png"
-    },
+	button_help_over:{
+		uri: "[config.ui.skin]texture/subhint_over.png"
+	},
 	button_help_selected:{
 		uri: "[config.ui.skin]texture/subhint_selected.png"
 	},
@@ -292,7 +292,7 @@
 	button_minimize_pressed:{
 		uri: "[config.ui.skin]common/btn_reduce_pressed.png"
 	},
-	
+
 	// Yellow button
 	button_yellow_square_normal:{
 		uri: "[config.ui.skin]common/btn_yellow_normal.png",
@@ -316,10 +316,10 @@
 	button_dark_yellow_square_pressed:{
 		uri: "[config.ui.skin]common/btn_yellow2_pressed.png"
 	},
-    button_dark_yellow_square_disabled:{
-        uri: "[config.ui.skin]common/btn_yellow2_disabled.png"
-    },
-	
+	button_dark_yellow_square_disabled:{
+		uri: "[config.ui.skin]common/btn_yellow2_disabled.png"
+	},
+
 	// Scrollbar cursor button
 	button_tiny_normal:{
 		uri: "[config.ui.skin]common/scrollbar_cursor_normal.jpg",
@@ -333,14 +333,14 @@
 		uri: "[config.ui.skin]common/scrollbar_cursor_pressed.jpg",
 		scale9Grid:{}
 	},
-	
+
 	button_checkbox_normal:{
 		uri: "[config.ui.skin]common/btn_checkbox_normal.png"
 	},
 	button_checkbox_selected:{
 		uri: "[config.ui.skin]common/btn_checkbox_selected.png"
 	},
-	
+
 	// Arrow button
 	btn_arrow_pagination_normal:{
 		uri: "[config.ui.skin]common/btn_arrow_pagination_normal.png"
@@ -354,7 +354,7 @@
 	btn_arrow_pagination_disabled:{
 		uri: "[config.ui.skin]common/btn_arrow_pagination_disabled.png"
 	},
-	
+
 	btn_big_arrow_normal:{
 		uri: "[config.ui.skin]common/btn_greenBigArrow_normal.png"
 	},
@@ -367,8 +367,8 @@
 	btn_big_arrow_disabled:{
 		uri: "[config.ui.skin]common/btn_greenBigArrow_disabled.png"
 	},
-	
-	
+
+
 	// Switch button (ActionBar)
 	btn_green_switch_normal:{
 		uri: "[config.ui.skin]texture/hud/btn_green_switch_normal.png"
@@ -379,22 +379,22 @@
 	btn_green_switch_pressed:{
 		uri: "[config.ui.skin]texture/hud/btn_green_switch_pressed.png"
 	},
-	
+
 	// Button with transparent background
 	btn_transparent_normal:{
 		uri: "[config.ui.skin]common/btn_transparent_normal.png",
-        scale9Grid:{}
+		scale9Grid:{}
 	},
 	btn_transparent_over:{
 		uri: "[config.ui.skin]common/btn_transparent_over.png",
-        scale9Grid:{}
+		scale9Grid:{}
 	},
 	btn_transparent_pressed:{
 		uri: "[config.ui.skin]common/btn_transparent_pressed.png",
-        scale9Grid:{}
+		scale9Grid:{}
 	},
-	
-		// help button
+
+	// help button
 	btn_help_normal:{
 		uri: "[config.ui.skin]common/btn_help_normal.png"
 	},
@@ -407,7 +407,7 @@
 	btn_help_disabled:{
 		uri: "[config.ui.skin]common/btn_help_disabled.png"
 	},
-	
+
 	arrow_small_bottom_normal:{
 		uri: "[config.ui.skin]common/arrow_small_bottom_normal.png"
 	},
@@ -418,7 +418,7 @@
 		uri: "[config.ui.skin]common/arrow_small_bottom_pressed.png",
 		alpha: 0.4
 	},
-	
+
 	// Button green eye
 	btn_eye_normal:{
 		uri: "[config.ui.skin]texture/icon_eye_normal.png"
@@ -462,7 +462,7 @@
 	btn_bin_selected_pressed:{
 		uri: "[config.ui.skin]texture/icon_bin_over.png"
 	},
-	
+
 	btn_gender_female_normal:{
 		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_normal.png"
 	},
@@ -484,7 +484,7 @@
 	btn_gender_female_selected_pressed:{
 		uri: "[config.ui.skin]texture/onboarding/icon_gender_female_selected.png"
 	},
-	
+
 	btn_gender_male_normal:{
 		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_normal.png"
 	},
@@ -506,7 +506,7 @@
 	btn_gender_male_selected_pressed:{
 		uri: "[config.ui.skin]texture/onboarding/icon_gender_male_selected.png"
 	},
-	
+
 	btn_close_small_normal:{
 		uri: "[config.ui.skin]texture/onboarding/colors_choice_cross_normal.png"
 	},
@@ -516,7 +516,7 @@
 	btn_close_small_pressed:{
 		uri: "[config.ui.skin]texture/onboarding/colors_choice_cross_pressed.png"
 	},
-	
+
 	btn_color_choice_normal:{
 		uri: "[config.ui.skin]texture/onboarding/bgColorsChoice.png"
 	},
@@ -538,7 +538,7 @@
 	btn_color_choice_selected_pressed:{
 		uri: "[config.ui.skin]texture/onboarding/bgColorChoice.png"
 	},
-	
+
 	btn_arrow_turn_normal:{
 		uri: "[config.ui.skin]common/btn_arrow_turn_character_normal.png"
 	},
@@ -565,17 +565,17 @@
 		uri: "[config.ui.skin]common/btn_arrow_turn_outside_disabled.png"
 	},
 
-    button_magnifier:{
-        uri: "[config.ui.skin]texture/btnIcon/btnIcon_magnifierSearch.png",
-        scale9Grid:{}
-    },
+	button_magnifier:{
+		uri: "[config.ui.skin]texture/btnIcon/btnIcon_magnifierSearch.png",
+		scale9Grid:{}
+	},
 
 	// background bord de fenetre
 	background_border_button:{
 		uri: "[config.ui.skin]common/background_align_green_button.png",
 		scale9Grid:{}
-    },
-	
+	},
+
 	btn_pin_normal:{
 		uri: "[config.ui.skin]common/icon_pin_normal.png"
 	},
@@ -597,7 +597,7 @@
 	btn_pin_selected_pressed:{
 		uri: "[config.ui.skin]common/icon_pin_selected.png"
 	},
-	
+
 	// Grey tab, with green bg when selected
 	tab_small_grey_normal:{
 		uri: "[config.ui.skin]common/tab_small_normal.png",
@@ -685,12 +685,12 @@
 	},
 
 
-    button_green_border_normal:{
-        uri: "[config.ui.skin]common/green_border_slot_normal.png",
-        scale9Grid:{x:15, y:15, width:34, height:34}
-    },
-    button_green_border_over:{
-        uri: "[config.ui.skin]common/green_border_slot_over.png",
-        scale9Grid:{x:15, y:15, width:34, height:34}
-    }
+	button_green_border_normal:{
+		uri: "[config.ui.skin]common/green_border_slot_normal.png",
+		scale9Grid:{x:15, y:15, width:34, height:34}
+	},
+	button_green_border_over:{
+		uri: "[config.ui.skin]common/green_border_slot_over.png",
+		scale9Grid:{x:15, y:15, width:34, height:34}
+	}
 }

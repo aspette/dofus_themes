@@ -50,7 +50,6 @@ p {
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #52AE3F;
 }
 
@@ -63,8 +62,32 @@ p {
 .malusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #CB685E;
+}
+
+.neutral {
+	font-family: Roboto;
+	font-size: 15;
+	color: #969695;
+}
+
+.neutralvalue {
+	font-family: Roboto;
+	font-size: 15;
+	color: #969695;
+}
+
+.overFm {
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #5dcf45;
+}
+
+.overFmvalue {
+	font-family: Roboto;
+	font-size: 16;
+	color: #5dcf45;
 }
 
 .subeffectleftcolumn {
@@ -85,14 +108,13 @@ p {
 .exoticvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #658FC4;
 }
 
 .theoretical {
 	font-family: Roboto;
 	font-size: 15;
-	color: #c7c7c5 ;
+	color: #969695 ;
 }
 
 .requirement {
@@ -111,6 +133,13 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	color: #ebc304;
+}
+
+.importantNotice {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ebc304;
+	margin-left: 32;
 }
 
 .description {

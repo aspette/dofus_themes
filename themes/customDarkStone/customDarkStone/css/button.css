@@ -6,6 +6,10 @@ p {
 	text-align: center;
 }
 
+left_p {
+	text-align: left;
+}
+
 light_p {
 	color: #ffffff;
 }

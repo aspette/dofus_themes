@@ -186,6 +186,14 @@
 		uri: "[config.ui.skin]texture/map/filterMisc_On.png"
 	},
 
+	// quest
+	filter_quest_off:{
+		uri: "[config.ui.skin]texture/map/filterQuest_Off.png"
+	},
+	filter_quest_on:{
+		uri: "[config.ui.skin]texture/map/filterQuest_On.png"
+	},
+
 	
 	// private
 	filter_private_off:{
@@ -372,12 +380,20 @@
 		"uri": "[config.ui.skin]bitmap/btn_buy_over.png",
 		scale9Grid:{x:10,y:10,width:12,height:12}
     },
+	btn_buy_over_orange: {
+		"uri": "[config.ui.skin]bitmap/btn_buy_over_orange.png",
+		scale9Grid:{x:10,y:10,width:12,height:12}
+    },
 	bg_small_green: {
 		"uri": "[config.ui.skin]bitmap/bg_small_green.png",
 		scale9Grid:{x:5,y:5,width:35,height:35}
 	},
 	tx_breach:{
 		uri:"[config.ui.skin]texture/icon_spiral_grey.png"
+	},
+	"bg_error_frame":{
+		"uri":"[config.ui.skin]bitmap/bg_error_frame.png",
+		scale9Grid:{x:5,y:5,width:40,height:40}
 	}
 	
 }

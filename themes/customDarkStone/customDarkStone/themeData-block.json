@@ -19,6 +19,11 @@
 		uri: "[config.ui.skin]common/bg_small_border_dark.png",
 		scale9Grid:{x:10,y:10,width:25,height:20}
 	},
+
+	bg_small_border_dark_square:{
+		uri: "[config.ui.skin]common/bg_small_border_dark_square.png",
+		scale9Grid:{x:1,y:1,width:14,height:14}
+	},
 	
 	block_border:{
 		uri: "[config.ui.skin]common/block_border.png",

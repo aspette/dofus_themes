@@ -37,7 +37,6 @@ p {
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #52AE3F;
 }
 
@@ -50,7 +49,6 @@ p {
 .malusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #CB685E;
 }
 
@@ -72,7 +70,6 @@ p {
 .exoticvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #658FC4;
 }
 
@@ -98,6 +95,13 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	color: #ebc304;
+}
+
+.importantNotice {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ebc304;
+	margin-left: 32;
 }
 
 .description {

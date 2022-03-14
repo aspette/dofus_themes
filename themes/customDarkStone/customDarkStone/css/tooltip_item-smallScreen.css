@@ -32,30 +32,62 @@ p {
 	margin-left: 16;
 }
 
+.subtitlenomargin {
+	font-family: Roboto;
+	font-size: 18;
+	color: #dfdfdf;
+}
+
 .bonus {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #6db213;
+	color: #52AE3F;
 }
 
 .bonusvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #8bf402;
+	color: #52AE3F;
 }
 
 .malus {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #d0483a;
+	color: #CB685E;
 }
 
 .malusvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #d0483a;
+	color: #CB685E;
+}
+
+.neutral {
+	font-family: Roboto;
+	font-size: 17;
+	color: #969695;
+}
+
+.neutralvalue {
+	font-family: Roboto;
+	font-size: 17;
+	color: #969695;
+}
+
+.overFm {
+	font-family: Roboto;
+	font-size: 18;
+	font-weight: bold;
+	color: #5dcf45;
+}
+
+.overFmvalue {
+	font-family: Roboto;
+	font-size: 18;
+	font-weight: bold;
+	color: #5dcf45;
 }
 
 .subeffectleftcolumn {
@@ -70,20 +102,20 @@ p {
 .exotic {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #4683ce;
+	color: #658FC4;
 }
 
 .exoticvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #68b6ff;
+	color: #658FC4;
 }
 
 .theoretical {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #c7c7c5 ;
+	color: #969695 ;
 }
 
 .requirement {
@@ -104,17 +136,24 @@ p {
 	color: #ebc304;
 }
 
+.importantNotice {
+	font-family: Roboto;
+	font-size: 17;
+	color: #ebc304;
+	margin-left: 32;
+}
+
 .description {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #e6893d;
+	color: #E6893D;
 }
 
 .quote {
 	font-family: Tahoma;
 	font-size: 17;
 	font-style: italic;
-	color: #e6893d;
+	color: #9D9D9C;
 }
 
 .headerp {
@@ -172,4 +211,61 @@ spellZone {
 
 .contentmargin {
 	margin-right: 126;
+}
+
+
+.probaright {
+	font-family: Roboto;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+}
+
+.common {
+	font-family: Roboto;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #848480;
+}
+
+.uncommon {
+	font-family: Roboto;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #6db213;
+}
+
+.rare {
+	font-family: Roboto;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #1B96FF;
+}
+
+.epic {
+	font-family: Roboto;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #9400d3;
+}
+
+.legendary {
+	font-family: Roboto;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #ffb400;
+}
+
+.descriptionproba {
+	font-family: Roboto;
+	font-size: 17;
+	color: #E6893D;
+	margin-left: 22;
+	margin-right: 75;
+	text-align: left;
 }
