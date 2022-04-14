@@ -15,7 +15,7 @@ L'utilisation des commandes changeront complètement pour fonctionner convenable
 Commençons par la liste des commandes qui n'existeront plus sur ![](https://cdn.discordapp.com/emojis/801442141682270239.webp?size=28&quality=lossless) **la Bricoleuse** :
 
 - Le Chafer crit `?chaferfu`
-- Le Boomberang Perfide `?bp`
+- Le Boomerang Perfide `?bp`
 - Le fun `?fun`
 - Le guide `?guide`
 - Les havres-sacs `?havenbag`
