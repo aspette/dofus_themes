@@ -4,7 +4,7 @@ Des nouveautés se bricolent chez **![](https://cdn.discordapp.com/emojis/801442
 
 ### **1. Les slash commands**
 L'utilisation des commandes changeront complètement pour fonctionner convenablement avec les nouvelles normes de Discord : les **slash commands** !
-- Elles commenceront toutes avec un "/".
+- Elles commenceront toutes avec un `/`".
 - Elles seront toutes visibles sur votre client Discord.
 ![](https://media.discordapp.net/attachments/889155400950218772/964114821060632647/unknown.png)
 - La saisie sera beaucous plus simple.
