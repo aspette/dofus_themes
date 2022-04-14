@@ -1,13 +1,13 @@
 # La Bricoleuse
-Des nouveautés se bricolent chez **![](https://cdn.discordapp.com/emojis/801442141682270239.webp?size=28&quality=lossless) la Bricoleuse** !
+Des nouveautés se bricolent chez ![](https://cdn.discordapp.com/emojis/801442141682270239.webp?size=28&quality=lossless) **la Bricoleuse** !
 
 
 ### **1. Les slash commands**
 L'utilisation des commandes changeront complètement pour fonctionner convenablement avec les nouvelles normes de Discord : les **slash commands** !
-- Elles commenceront toutes avec un `/`".
+- Elles commenceront toutes avec un `/`.
 - Elles seront toutes visibles sur votre client Discord.
 ![](https://media.discordapp.net/attachments/889155400950218772/964114821060632647/unknown.png)
-- La saisie sera beaucous plus simple.
+- La saisie sera beaucoup plus simple.
 ![](https://media.discordapp.net/attachments/889155400950218772/964115737079869560/unknown.png)
 - L'ancienne utilisation des commandes (préfixe `?` suivi d'un alias) disparaîtra totalement.
 
