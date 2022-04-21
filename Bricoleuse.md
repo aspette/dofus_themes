@@ -28,6 +28,7 @@ Ces commandes étaient très peu, voire pas du tout utilisées. Pour `?psi` et `
 Voici donc la liste des commandes qui seront disponibles avec la nouvelle version de ![](https://cdn.discordapp.com/emojis/801442141682270239.webp?size=28&quality=lossless) **la Bricoleuse** :
 
 - Les arènes PvP `/arena`, anciennement `?map`
+- Les compagnons `/sidekick`
 - Les états `/state`
 - Les monstres `/monster` - <font color="#FFCC00">**NEW!**</font> `?psi` fusionnera avec cette commande !
 - Les objets `/item`
@@ -44,9 +45,7 @@ L'ergonomie des commandes a été grandement améliorée, que ce soit sur la fic
 ![](https://media.discordapp.net/attachments/889155400950218772/964120274972852224/unknown.png?width=496&height=683)
 
 Et pour finir, une liste des commandes actuelles qui arriveront plus tard, et des nouvelles qui pourraient débarquer :
-- Les compagnons `/sidekick`
 - L'aide `/help`
-- Le lien d'invitation vers le Discord de suivi `/discord` - <font color="#FFCC00">**NEW!**</font> `?invitation`, permettant d'inviter le bot sur un Discord fusionnera avec cette commande !
 - Les thèmes Dofus `/theme`
 - L'Item Guesser `/ig` - <font color="#FFCC00">**NEW!**</font> La commande sortira de sa phase de bêta !
 - <font color="#FFCC00">**NEW!**</font> Le Monster Guesser `/mg`
