@@ -77,7 +77,13 @@ robotoboldcenter72 {
 	font-weight: bold;
 	text-align: center;
 }
-
+robotoboldcenter62 {
+	font-family: RobotoCondensed;
+	font-size: 62px;
+	color: #c7c7c5;
+	font-weight: bold;
+	text-align: center;
+}
 greenunderlineleft {
 	font-family: Roboto;
 	font-size: 12px;
@@ -173,6 +179,13 @@ shopoldprice {
 	color: #737373;
 	text-align: justify;
     	font-weight: normal;
+}
+rewardbonus {
+	font-family: Roboto;
+	font-size: 11;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
 }
 /*-------------------- niveaux de zone sur la map --------------------*/
 subarealevel {
