@@ -124,6 +124,8 @@
 	<entry key="icon.green">0xb2d71b</entry>
 	<entry key="icon.grey">0xc7c7c5</entry>
 
+	<entry key="input.tooManyCharacters">0xeb0000</entry>
+	
 	<!-- Divers -->
 	
 	<entry key="progressbar.background">0x000000</entry>

@@ -4,8 +4,8 @@
     <description>L'ancienne interface utilisateur revisitée ! (Twitter : @Aspette)</description>
     <previewUri>oldUIPreview.jpg</previewUri>
 	<author>Aspette</author>
-	<version>2.2.0</version>
-    <dofusVersion>2.63</dofusVersion>
+	<version>2.64.0</version>
+    <dofusVersion>2.64</dofusVersion>
     <creationDate>11/05/2019</creationDate>
-    <modificationDate>14/03/2022</modificationDate>
+    <modificationDate>01/07/2022</modificationDate>
 </theme>

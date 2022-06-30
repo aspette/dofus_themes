@@ -31,6 +31,11 @@ p {
     color: #dfdfdf;
     margin-left: 16;
 }
+.subtitlenomargin {
+	font-family: Verdana;
+	font-size: 18;
+	color: #dfdfdf;
+}
 
 .bonus {
     font-family: Verdana;
@@ -56,6 +61,31 @@ p {
     font-size: 17;
     font-weight: bold;
     color: #d0483a;
+}
+.neutral {
+	font-family: Verdana;
+	font-size: 17;
+	color: #969695;
+}
+
+.neutralvalue {
+	font-family: Verdana;
+	font-size: 17;
+	color: #969695;
+}
+
+.overFm {
+	font-family: Verdana;
+	font-size: 18;
+	font-weight: bold;
+	color: #5dcf45;
+}
+
+.overFmvalue {
+	font-family: Verdana;
+	font-size: 18;
+	font-weight: bold;
+	color: #5dcf45;
 }
 
 .subeffectleftcolumn {
@@ -179,4 +209,67 @@ spellZone {
 
 .contentmargin {
     margin-right: 126;
+}
+
+.probaright {
+	font-family: Verdana;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+}
+
+.common {
+	font-family: Verdana;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #848480;
+}
+
+.uncommon {
+	font-family: Verdana;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #6db213;
+}
+
+.rare {
+	font-family: Verdana;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #1B96FF;
+}
+
+.epic {
+	font-family: Verdana;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #9400d3;
+}
+
+.legendary {
+	font-family: Verdana;
+	font-size: 17;
+	text-align: right;
+	leading: -19;
+	color: #ffb400;
+}
+
+.descriptionproba {
+	font-family: Verdana;
+	font-size: 17;
+	color: #E6893D;
+	margin-left: 22;
+	margin-right: 75;
+	text-align: left;
+}
+
+.valueLineWithIcon {
+	font-family: Verdana;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }

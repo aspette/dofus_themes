@@ -97,6 +97,12 @@ p {
 	font-size: 17;
 	color: #ebc304;
 }
+.importantNotice {
+	font-family: Verdana;
+	font-size: 17;
+	color: #ebc304;
+	margin-left: 32;
+}
 
 .description {
 	font-family: Verdana;
@@ -175,4 +181,10 @@ spellZone {
 	font-family: Verdana;
 	font-size: 15;
 	color: #c7c7c5;
+}
+.valueLineWithIcon {
+	font-family: Verdana;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }
