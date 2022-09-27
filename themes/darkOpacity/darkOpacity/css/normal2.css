@@ -75,7 +75,7 @@ shadowedcenter_center {
 whiteboldcenter_bold {
     color: #ffffff;
     text-align: center;
-    font-size: 20px;
+    font-size: 14px;
   }
 /*-------------------- disabled Style --------------------*/
 
@@ -442,12 +442,12 @@ exoticright_right {
 }
 
 npcdialoganswer_p {
-    color: #ffb300;
+    color: #ffffff;
     text-align: left;
 }
 
 npcdialoganswerover_p {
-    color: #ffff26;
+    color: #ffff00;
     text-align: left;
 }
 

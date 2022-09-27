@@ -1,7 +1,7 @@
 p {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	text-align: justify;
     font-weight: normal;
 }
@@ -9,7 +9,7 @@ p {
 left {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	text-align: left;
 	font-weight: normal;
 }
@@ -17,7 +17,7 @@ left {
 right {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	text-align: right;
 	font-weight: normal;
 }
@@ -25,7 +25,7 @@ right {
 center {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	font-weight: normal;
 	text-align: center;
 }
@@ -35,14 +35,14 @@ center {
 bold {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	font-weight: bold;
 }
 
 boldright {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	font-weight: bold;
 	text-align: right;
 }
@@ -50,7 +50,7 @@ boldright {
 boldcenter {
 	font-family: Gadugi;
 	font-size: 18px;
-	color: #fffae4;
+	color: #ffffff;
 	font-weight: bold;
 	text-align: center;
 }
@@ -60,7 +60,7 @@ boldcenter {
 titleboldhuge {
 	font-family: Gadugi;
 	font-size: 60px;
-	color: #fffae4;
+	color: #ffffff;
 	font-weight: bold;
 }
 
@@ -79,11 +79,11 @@ titlesmallbrownright {
 title {
 	font-family: Gadugi;
 	font-size: 26px;
-	color: #fffae4;
+	color: #ffffff;
 }
 titleright {
 	font-family: Gadugi;
 	font-size: 26px;
-	color: #fffae4;
+	color: #ffffff;
 	text-align: right;
 }

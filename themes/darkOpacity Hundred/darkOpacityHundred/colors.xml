@@ -11,11 +11,11 @@
 			faudra ajouter "colors." aux noms des clefs
 			 Certaines grilles supportent le format AARRGGBB
 	-->
-	
+
 	<!--======================================================================-->
 	<!--                            Couleurs                                -->
 	<!--======================================================================-->
-	
+
 	<entry key="ui.modalbg">0x000000</entry>
 	<entry key="ui.shadow">0x0d0d0d</entry>
 	<entry key="ui.shadow.dark">0x000000</entry>
@@ -168,12 +168,12 @@
 	<entry key="gameserver.type3">0x173c3c</entry>
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
-	
-	
-	<!-- tactic mode -->	
-	<entry key="tacticmode.floor01">0x5f5f5f</entry>
-	<entry key="tacticmode.floor02">0x1d1d1d</entry>
-	<entry key="tacticmode.block01">0x282828</entry>
-	<entry key="tacticmode.block02">0x202020</entry>	
+
+
+	<!-- tactic mode -->
+	<entry key="tacticmode.floor02">0x5f5f5f</entry>
+	<entry key="tacticmode.floor01">0x1d1d1d</entry>
+	<entry key="tacticmode.block01">0x252525</entry>
+	<entry key="tacticmode.block02">0x202020</entry>
 	<entry key="tacticmode.block03">0x101010</entry>
 </LangFile>

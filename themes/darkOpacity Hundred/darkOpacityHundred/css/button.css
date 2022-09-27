@@ -1,7 +1,7 @@
 p {
     font-family: Roboto;
     font-size: 15;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     text-align: center;
 }
@@ -11,7 +11,7 @@ left_p {
 }
 
 light_p {
-    color: #000000;
+    color: #ffffff;
 }
 
 small_p {
@@ -19,7 +19,7 @@ small_p {
 }
 
 lightSmall_small {
-    color: #000000;
+    color: #ffffff;
 }
 
 condensed_p {

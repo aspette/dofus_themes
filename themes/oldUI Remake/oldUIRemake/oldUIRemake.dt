@@ -1,11 +1,11 @@
 <theme>
     <name>oldUI Remake</name>
     <skinType>1</skinType>
-    <description>L'ancienne interface utilisateur revisitée ! (Twitter : @Aspette)</description>
+    <description>oldUI Remake : l'ancienne UI revisitée. (Twitter : @Aspette)</description>
     <previewUri>oldUIPreview.jpg</previewUri>
 	<author>Aspette</author>
-	<version>2.64.0</version>
-    <dofusVersion>2.64</dofusVersion>
+	<version>2.65.0</version>
+    <dofusVersion>2.65</dofusVersion>
     <creationDate>11/05/2019</creationDate>
-    <modificationDate>01/07/2022</modificationDate>
+    <modificationDate>27/09/2022</modificationDate>
 </theme>
