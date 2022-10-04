@@ -37,14 +37,50 @@
     },
     {
         "author": "Aspette",
-        "name": "Mode tactique : défaut (darkOpacity)",
-        "keyWords": "darkOpacity, Mode Tactique",
-        "version": "2.65.0",
+        "name": "Tactic mode : default blocks (darkOpacity)",
+        "keyWords": "darkOpacity Hundred, Tactic mode, block",
+        "version": "block",
         "dofusVersion": "2.65",
-        "description": "darkOpacity : la transparence à portée de main. (Twitter : @Aspette)",
-        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/tacticmode_default.zip",
-        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
-        "creationDate": "01/08/2017",
-        "modificationDate": "27/09/2022"
+        "description": "default blocks for darkOpacity. (⚠ restart your game!)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_default.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_default.jpg",
+        "creationDate": "04/10/2022",
+        "modificationDate": "04/10/2022"
+    },
+    {
+        "author": "Aspette",
+        "name": "Tactic mode : opacity blocks (darkOpacity)",
+        "keyWords": "darkOpacity Hundred, Tactic mode, block",
+        "version": "block",
+        "dofusVersion": "2.65",
+        "description": "opacity blocks for darkOpacity. (⚠ restart your game!)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_opacity.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_opacity.jpg",
+        "creationDate": "04/10/2022",
+        "modificationDate": "04/10/2022"
+    },
+    {
+        "author": "Aspette",
+        "name": "Tactic mode : default blocks (darkOpacity Hundred)",
+        "keyWords": "darkOpacity Hundred, Tactic mode, block",
+        "version": "block",
+        "dofusVersion": "2.65",
+        "description": "default blocks for darkOpacity. (⚠ restart your game!)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.jpg",
+        "creationDate": "04/10/2022",
+        "modificationDate": "04/10/2022"
+    },
+    {
+        "author": "Aspette",
+        "name": "Tactic mode : opacity blocks (darkOpacity Hundred)",
+        "keyWords": "darkOpacity Hundred, Tactic mode, block",
+        "version": "block",
+        "dofusVersion": "2.65",
+        "description": "opacity blocks for darkOpacity. (⚠ restart your game!)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_opacity.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_opacity.jpg",
+        "creationDate": "04/10/2022",
+        "modificationDate": "04/10/2022"
     }
 ]
