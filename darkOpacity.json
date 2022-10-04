@@ -1,6 +1,14 @@
 [
     {
         "author": "Aspette",
+        "name": "!! HOW TO ACTIVATE CUSTOM TACTIC MODE !!",
+        "keyWords": "tutorial",
+        "version": "README",
+        "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE & enable FORCE USE OF THE DEFAULT THEME FOR TACTICAL MODE.",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/disable_colored_tactic_mode.jpg"
+    },
+    {
+        "author": "Aspette",
         "name": "darkOpacity",
         "keyWords": "darkOpacity, Thèmes",
         "version": "2.65.0",
@@ -25,7 +33,7 @@
     },
     {
         "author": "Aspette",
-        "name": "Tactic mode : default blocks (darkOpacity)",
+        "name": "Tactic mode: default blocks (darkOpacity)",
         "keyWords": "darkOpacity, Tactic mode, Block",
         "version": "darkOpacity",
         "dofusVersion": "2.65",
@@ -37,7 +45,7 @@
     },
     {
         "author": "Aspette",
-        "name": "Tactic mode : opacity blocks (darkOpacity)",
+        "name": "Tactic mode: opacity blocks (darkOpacity)",
         "keyWords": "darkOpacity, Tactic mode, Block",
         "version": "darkOpacity",
         "dofusVersion": "2.65",
@@ -49,7 +57,7 @@
     },
     {
         "author": "Aspette",
-        "name": "Tactic mode : default blocks (Hundred)",
+        "name": "Tactic mode: default blocks (Hundred)",
         "keyWords": "darkOpacity Hundred, Tactic mode, Block",
         "version": "dOHundred",
         "dofusVersion": "2.65",
@@ -61,7 +69,7 @@
     },
     {
         "author": "Aspette",
-        "name": "Tactic mode : opacity blocks (Hundred)",
+        "name": "Tactic mode: opacity blocks (Hundred)",
         "keyWords": "darkOpacity Hundred, Tactic mode, Block",
         "version": "dOHundred",
         "dofusVersion": "2.65",
