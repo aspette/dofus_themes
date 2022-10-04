@@ -2,7 +2,7 @@
     {
         "author": "Aspette",
         "name": "!! HOW TO ACTIVATE CUSTOM TACTIC MODE !!",
-        "keyWords": "tutorial",
+        "keyWords": "Tutorial",
         "version": "README",
         "dofusVersion": "2.65",
         "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE\n& enable FORCE USE OF THE DEFAULT THEME FOR TACTICAL MODE.",
@@ -14,7 +14,7 @@
     {
         "author": "Aspette",
         "name": "darkOpacity",
-        "keyWords": "darkOpacity, Thèmes",
+        "keyWords": "darkOpacity, Theme",
         "version": "2.65.0",
         "dofusVersion": "2.65",
         "description": "darkOpacity : la transparence à portée de main. (Twitter : @Aspette)",
@@ -26,7 +26,7 @@
     {
         "author": "Aspette",
         "name": "darkOpacity Hundred",
-        "keyWords": "darkOpacity, Thèmes",
+        "keyWords": "darkOpacity, Theme",
         "version": "2.65.0",
         "dofusVersion": "2.65",
         "description": "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)",
