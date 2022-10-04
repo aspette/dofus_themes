@@ -4,6 +4,7 @@
         "name": "!! HOW TO ACTIVATE CUSTOM TACTIC MODE !!",
         "keyWords": "tutorial",
         "version": "README",
+        "dofusVersion": "2.65",
         "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE & enable FORCE USE OF THE DEFAULT THEME FOR TACTICAL MODE.",
         "url": "#",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/disable_colored_tactic_mode.jpg"
