@@ -5,7 +5,7 @@
         "keyWords": "Tutorial",
         "version": "README",
         "dofusVersion": "Install that do nothing",
-        "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE\n& enable FORCE USE OF THE DEFAULT THEME FOR TACTICAL MODE.",
+        "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.jpg",
         "creationDate": "01/08/2017",
@@ -15,25 +15,25 @@
         "author": "Aspette",
         "name": "darkOpacity",
         "keyWords": "darkOpacity, Theme",
-        "version": "2.65.0",
+        "version": "2.65.1",
         "dofusVersion": "2.65",
         "description": "darkOpacity : la transparence à portée de main. (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg",
         "creationDate": "01/08/2017",
-        "modificationDate": "27/09/2022"
+        "modificationDate": "08/10/2020"
     },
     {
         "author": "Aspette",
         "name": "darkOpacity Hundred",
         "keyWords": "darkOpacity, Theme",
-        "version": "2.65.0",
+        "version": "2.65.1",
         "dofusVersion": "2.65",
         "description": "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
         "creationDate": "01/08/2017",
-        "modificationDate": "27/09/2022"
+        "modificationDate": "08/10/2020"
     },
     {
         "author": "Aspette",

@@ -172,9 +172,9 @@
 
 
 	<!-- tactic mode -->
-	<entry key="tacticmode.floor02">0x5f5f5f</entry>
-	<entry key="tacticmode.floor01">0x1d1d1d</entry>
+	<entry key="tacticmode.floor02">0x4B515F</entry>
+	<entry key="tacticmode.floor01">0x24272F</entry>
 	<entry key="tacticmode.block01">0x252525</entry>
-	<entry key="tacticmode.block02">0x202020</entry>
-	<entry key="tacticmode.block03">0x101010</entry>
+	<entry key="tacticmode.block02">0x101010</entry>
+	<entry key="tacticmode.block03">0x202020</entry>
 </LangFile>
