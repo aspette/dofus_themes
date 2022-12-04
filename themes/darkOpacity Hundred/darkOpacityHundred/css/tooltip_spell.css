@@ -53,6 +53,9 @@ p {
 	font-weight: bold;
 	color: #CB685E;
 }
+.subeffect {
+	margin-left: 32;
+}
 
 .subeffectleftcolumn {
 	margin-left: 32;

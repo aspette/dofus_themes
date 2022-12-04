@@ -568,3 +568,14 @@ smalldarkboldcenter_darkboldcenter {
 	font-weight: bold;
 	text-align: center;
 }
+bonus {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #52AE3F;
+}
+
+malus {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #CB685E;
+}

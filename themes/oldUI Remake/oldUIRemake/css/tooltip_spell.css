@@ -27,7 +27,9 @@ p {
 	color: #dfdfdf;
 	margin-left: 16;
 }
-
+.subeffect {
+	margin-left: 32;
+}
 .bonus {
 	font-family: Verdana;
 	font-size: 15;
