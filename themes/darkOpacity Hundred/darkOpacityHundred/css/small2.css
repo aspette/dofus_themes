@@ -600,12 +600,14 @@ smalldarkboldcenter_darkboldcenter {
 }
 bonus {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
+    font-weight: normal;
 	color: #52AE3F;
 }
 
 malus {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
+    font-weight: normal;
 	color: #CB685E;
 }
