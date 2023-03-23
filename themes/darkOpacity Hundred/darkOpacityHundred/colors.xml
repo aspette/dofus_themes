@@ -35,8 +35,9 @@
 	<entry key="grid.selected">0x30CCCCCC</entry>
 	<entry key="grid.bg.green">0x2C512C</entry>
 	<entry key="grid.bg.red">0x5F190B</entry>
-<!--	// Temporis IV-->
-	<entry key="grid.passiveSpell">0x7C6399</entry>		
+
+	<entry key="grid.passiveSpell">0x7C6399</entry>
+
 	<entry key="multigrid.line">0x4c4c4c</entry>
 	<entry key="multigrid.subline">0x202020</entry>
 	<entry key="multigrid.selected">0xe6c300</entry>
@@ -65,6 +66,8 @@
 	<entry key="tooltip.border">0x000000</entry>
 	<entry key="tooltip.border.activePin">0x000000</entry>
 	<entry key="tooltip.separator">0xFF9E9E9E</entry>
+
+
 	<entry key="scrollbar.bg">0x1d1d1d</entry>
 	<entry key="scrollbar.bar">0xFEFEFE</entry>										   
 	
@@ -105,22 +108,19 @@
 	<entry key="tooltip.malus">0xCB685E</entry>
 		
 	<entry key="shop.oldPrice">0x737373</entry>											
+	
 	<entry key="area.all">0xc7c7c5</entry>
 	<entry key="area.normal">0xc7c7c5</entry>
 	<entry key="area.weakened">0xd7b352</entry>
-	<entry key="area.sabotaged">0xb652d7</entry>
 	<entry key="area.vulnerable">0xd76552</entry>
-	<entry key="area.capturable">0xb2d71b</entry>
-	<entry key="area.all.dark">0x696968</entry>
-	<entry key="area.normal.dark">0x696968</entry>
-	<entry key="area.weakened.dark">0x8c7330</entry>
-	<entry key="area.sabotaged.dark">0x6f427e</entry>
-	<entry key="area.vulnerable.dark">0x7e4b42</entry>
-	<entry key="area.capturable.dark">0x5d6f14</entry>
+	<entry key="area.anomaly">0xb652d7</entry>
+	<entry key="area.bonus">0xb2d71b</entry>
 
 	<entry key="icon.green">0xD9ffffff</entry>
 	<entry key="icon.grey">0xD94d4d4d</entry>
+
 	<entry key="input.tooManyCharacters">0xeb0000</entry>
+
 	<!-- Divers -->
 	
 	<entry key="progressbar.background">0x0d0d0d</entry>
@@ -146,6 +146,7 @@
 	<entry key="progressbar.pods">0x60BE35</entry>
 	<entry key="progressbar.energy">0x7FE16F</entry>
 	<entry key="progressbar.podsShop">0xcdffb6</entry>
+	
 	<entry key="map.search.grid.over">0x0d0d0d</entry>
 	<entry key="map.search.grid.over.alpha">0.85</entry>
 

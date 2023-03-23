@@ -1,5 +1,4 @@
 /*-------------------- P Style --------------------*/
-
 p {
     font-family: Roboto;
     font-size: 16px;
@@ -7,39 +6,34 @@ p {
     text-align: justify;
     font-weight: normal;
 }
-
 p-smallScreen {
     color: #ffffff;
 }
-
 left_p {
     text-align: left;
 }
-
 right_p {
     text-align: right;
 }
-
 center_p {
     text-align: center;
 }
-
 italic_p {
     font-style: italic;
 }
-
 italiccenter_center_p {
     font-style: italic;
 }
-
+italicright_p {
+    font-style: italic;
+    text-align: right;
+  }
 underline_p {
     text-decoration: underline;
 }
-
 p4_p {
     color: #6b6b6b;
 }
-
 bold_p {
     text-align: left;
     font-weight: bold;
@@ -52,12 +46,10 @@ boldcenter_p {
     text-align: center;
     font-weight: bold;
 }
-
 boldright_p {
     text-align: right;
     font-weight: bold;
 }
-
 darkerbold_p {
     font-family: Roboto;
     font-size: 14;
@@ -65,11 +57,10 @@ darkerbold_p {
     font-weight: bold;
     text-align: justify;
 }
-
 shadowedcenter_center {
     shadow-distance: 1;
-    shadow-blurX: 3;
-    shadow-blurY: 3;
+    shadow-blurx: 3;
+    shadow-blury: 3;
 }
 
 whiteboldcenter_bold {
@@ -78,13 +69,11 @@ whiteboldcenter_bold {
     font-size: 14px;
   }
 /*-------------------- disabled Style --------------------*/
-
 disabledboldcenter_p {
     color: #848480;
     text-align: center;
     font-weight: bold;
 }
-
 disabledboldright_p {
     color: #848480;
     text-align: right;
@@ -96,9 +85,7 @@ italicdisabled_p {
     font-style: italic;
 }
 
-
 /*-------------------- condensed Style --------------------*/
-
 condensedbold {
     font-family: RobotoCondensed;
     font-size: 16px;
@@ -110,7 +97,6 @@ condensedbold {
 condensedboldright_condensedbold {
     text-align: right;
 }
-
 condensedboldcentert_condensedbold {
     text-align: center;
 }
@@ -140,7 +126,6 @@ whitecondensedboldshadow_condensedbold {
     shadow: 2px 2px 2px black;
 }
 
-
 /*-------------------- big condensed Style --------------------*/
 
 extrawhitebigcondensedbold_condensedbold {
@@ -151,47 +136,73 @@ extrawhitebigcondensedbold_condensedbold {
 extrawhitebigcondensedboldright_extrawhitebigcondensedbold {
     text-align: right;
 }
-
 extrawhitebigcondensedboldcenter_extrawhitebigcondensedbold {
     text-align: center;
 }
-
 
 /*-------------------- medium Style --------------------*/
 
 medium_p {
     font-family: Roboto;
 }
-
 mediumleft_medium {
     text-align: left;
 }
-
 mediumright_medium {
     text-align: right;
 }
-
 mediumcenter_medium {
     text-align: center;
 }
-
 
 /*-------------------- disabled Style --------------------*/
 
 disabled_p {
     color: #848480;
 }
-
 disabledcenter_disabled {
     text-align: center;
 }
-
 disabledright_disabled {
     text-align: right;
 }
-
 disabledboldright_disabledright {
     font-weight: bold;
+}
+
+/*-------------------- dark Style --------------------*/
+dark_p {
+    color: #9b9b9b;
+}
+darkright_dark {
+    text-align: right;
+}
+darkcenter_dark {
+    text-align: center;
+}
+
+darkbold_p {
+    color: #ffffff;
+    font-weight: bold;
+}
+darkboldleft_darkbold {
+    text-align: left;
+}
+darkboldright_darkbold {
+    color: #dbaf1c;
+    text-align: right;
+}
+darkboldcenter_darkbold {
+    text-align: center;
+}
+
+/*-------------------- brown Style --------------------*/
+browncondensedboldcenter {
+    font-family: RobotoCondensed;
+    font-size: 16px;
+    color: #3c381b;
+    font-weight: bold;
+    text-align: center;
 }
 
 /*-------------------- blue Style --------------------*/
@@ -203,70 +214,23 @@ blue {
 	text-align: justify;
 }
 
-blueright_blue{
+blueright_blue {
 	text-align: right;
 }
-/*-------------------- dark Style --------------------*/
-
-dark_p {
-    color: #9b9b9b;
-}
-
-darkright_dark {
-    text-align: right;
-}
-
-darkcenter_dark {
-    text-align: center;
-}
-
-darkbold_p {
-    color: #ffffff;
-    font-weight: bold;
-}
-
-darkboldleft_darkbold {
-    text-align: left;
-}
-
-darkboldright_darkbold {
-    color: #dbaf1c;
-    text-align: right;
-}
-
-darkboldcenter_darkbold {
-    text-align: center;
-}
-
-
-/*-------------------- brown Style --------------------*/
-
-browncondensedboldcenter {
-    font-family: RobotoCondensed;
-    font-size: 16px;
-    color: #3c381b;
-    font-weight: bold;
-    text-align: center;
-}
-
 
 /*-------------------- green Style --------------------*/
-
 green {
     font-family: Roboto;
     font-size: 16px;
     color: #FFCB2F;
     text-align: justify;
 }
-
 greenleft_green {
     text-align: left;
 }
-
 greenright_green {
     text-align: right;
 }
-
 greencenter_green {
     text-align: center;
 }
@@ -275,45 +239,40 @@ greenunderline_p {
     color: #FFCB2F;
     text-decoration: underline;
 }
-
 greenboldcenter_p {
     color: #ffffff;
     text-align: center;
     font-weight: bold;
 }
 
-
 /*-------------------- orange Style --------------------*/
-
 orange {
     font-family: Roboto;
     font-size: 16px;
     color: #ebc304;
     text-align: justify;
 }
-
 orangeleft_orange {
     text-align: left;
 }
-
 orangeleftbold_orange {
     text-align: left;
     font-weight: bold;
 }
-
 orangeright_orange {
     text-align: right;
 }
-
+orangecenterbold_orange {
+    text-align: center;
+    font-weight: bold;
+}
 orangecenter_orange {
     text-align: center;
 }
-
 bigorangeleft_orange {
     text-align: left;
     font-size: 18px;
 }
-
 bigboldorangeleft_bigorangeleft {
     font-weight: bold
 }
@@ -331,23 +290,26 @@ lightred {
     font-size: 16px;
     color: #ff5c55;
     text-align: justify;
-  }
+}
+
 red {
     font-family: Roboto;
     font-size: 16px;
     color: #eb0000;
     text-align: justify;
 }
-
 redcenter_red {
     text-align: center;
 }
+
 lightredcenter_lightred {
     text-align: center;
   }
-redright_red {
+
+  redright_red {
     text-align: right;
 }
+
 lightredright_lightred {
     text-align: right;
   }
@@ -363,31 +325,24 @@ redboldcenterwhiteshadow {
     shadow-color: #ffffff
 }
 
-
 /*-------------------- white Style --------------------*/
-
 white {
     font-family: Roboto;
     font-size: 16px;
     color: #e0e0de;
 }
-
 whitebold_white {
     font-weight: bold;
 }
-
 whiteboldleft_whitebold {
     text-align: left;
 }
-
 whiteboldright_whitebold {
     text-align: right;
 }
-
 whiteboldcenter_whitebold {
     text-align: center;
 }
-
 whitecenter_white {
     text-align: center;
 }
@@ -395,7 +350,6 @@ whitecenter_white {
 extrawhitebold_whitebold {
     color: #ffffff;
 }
-
 extrawhiteboldcenter_extrawhitebold {
     text-align: center;
 }
@@ -405,38 +359,29 @@ extrawhitebig {
     color: #ffffff;
     font-size: 16px;
 }
-
 extrawhitebigleft_extrawhitebig {
     text-align: left;
 }
 
-
 /*-------------------- HDV Style --------------------*/
-
 itemset_left {
     color: #feb336;
 }
-
 itemetheral_left {
     color: #8ab7ee;
 }
-
 malus_left {
     color: #ff0142;
 }
-
 bonus_left {
     color: #65E456;
 }
-
 bonusright_right {
     color: #65E456;
 }
-
 exotic_left {
     color: #a3bcfd;
 }
-
 exoticright_right {
     color: #a3bcfd;
 }
@@ -445,15 +390,12 @@ npcdialoganswer_p {
     color: #ffffff;
     text-align: left;
 }
-
 npcdialoganswerover_p {
     color: #ffff00;
     text-align: left;
 }
 
-
 /*-------------------- Misc Style --------------------*/
-
 boldcenterogrine {
     font-family: Roboto;
     font-size: 18px;
@@ -470,25 +412,7 @@ p4center {
     text-align: center;
     letterSpacing: 0.3;
 }
-
-
-/*--------------------- Forgemagie style --------------*/
-
-smithmagicexo {
-    color: #67acff;
-}
-
-smithmagicfail {
-    color: #cb685e;
-}
-
-smithmagicsuccess {
-    color: #52ae3f;
-}
-
-
 /*--------------------- Suivi de quête ---------------*/
-
 questtitle {
     font-family: Roboto;
     font-size: 16px;
@@ -496,11 +420,9 @@ questtitle {
     text-align: left;
     shadow-distance: 1;
 }
-
 questtitlecenter_questtitle {
     text-align: center;
 }
-
 questobjective {
     font-family: Roboto;
     font-size: 16px;
@@ -510,20 +432,16 @@ questobjective {
     shadow-distance: 1;
     leading: -1;
 }
-
 seemore_questobjective {
     color: #d7d7d7;
 }
-
 questfinished_p {
     color: #e0e0de;
 }
-
 questlevel_p {
     font-size: 14px;
     text-align: right;
 }
-
 spellobtained_greenboldcenter_p {
     font-size: 20px;
 }
@@ -551,6 +469,7 @@ hyperlinkcenter {
 hyperlink:hover {
     color: #ffffff;
 }
+
 dark {
     font-family: Roboto;
     color: #696968;
@@ -574,4 +493,18 @@ dark {
     color: #696968;
     font-weight: normal;
     text-align: center;
-  }
+}
+
+/*--------------------- Forgemagie style --------------*/
+
+smithmagicexo {
+    color: #67acff;
+}
+
+smithmagicfail {
+    color: #cb685e;
+}
+
+smithmagicsuccess {
+    color: #52ae3f;
+}

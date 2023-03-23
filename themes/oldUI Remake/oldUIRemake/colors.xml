@@ -111,15 +111,9 @@
 	<entry key="area.all">0xc7c7c5</entry>
 	<entry key="area.normal">0xc7c7c5</entry>
 	<entry key="area.weakened">0xd7b352</entry>
-	<entry key="area.sabotaged">0xb652d7</entry>
 	<entry key="area.vulnerable">0xd76552</entry>
-	<entry key="area.capturable">0xb2d71b</entry>
-	<entry key="area.all.dark">0x696968</entry>
-	<entry key="area.normal.dark">0x696968</entry>
-	<entry key="area.weakened.dark">0x8c7330</entry>
-	<entry key="area.sabotaged.dark">0x6f427e</entry>
-	<entry key="area.vulnerable.dark">0x7e4b42</entry>
-	<entry key="area.capturable.dark">0x5d6f14</entry>
+	<entry key="area.anomaly">0xb652d7</entry>
+	<entry key="area.bonus">0xb2d71b</entry>
 
 	<entry key="icon.green">0xb2d71b</entry>
 	<entry key="icon.grey">0xc7c7c5</entry>

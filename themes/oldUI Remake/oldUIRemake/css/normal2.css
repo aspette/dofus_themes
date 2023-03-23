@@ -31,7 +31,10 @@ italic_p {
 italiccenter_center_p {
   font-style: italic;
 }
-
+italicright_p {
+  font-style: italic;
+  text-align: right;
+}
 underline_p {
   text-decoration: underline;
 }
@@ -309,7 +312,10 @@ orangeleftbold_orange {
 orangeright_orange {
   text-align: right;
 }
-
+orangecenterbold_orange {
+  text-align: center;
+  font-weight: bold;
+}
 orangecenter_orange {
   text-align: center;
 }
@@ -321,6 +327,13 @@ bigorangeleft_orange {
 
 bigboldorangeleft_bigorangeleft {
   font-weight: bold;
+}
+orangecentershadow_orange {
+  text-align: center;
+  shadow-angle: 360;
+  shadow-distance: 0;
+  shadow-strength: 5;
+  shadow-color: #36382d;
 }
 
 /*-------------------- red Style --------------------*/
@@ -339,6 +352,9 @@ red {
 }
 
 redcenter_red {
+  text-align: center;
+}
+lightredcenter_lightred {
   text-align: center;
 }
 
