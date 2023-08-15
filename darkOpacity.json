@@ -2,38 +2,36 @@
     {
         "author": "Aspette",
         "name": "!! HOW TO ACTIVATE CUSTOM TACTIC MODE !!",
-        "keyWords": "Tutorial",
+        "keyWords": "README",
         "version": "README",
-        "dofusVersion": "Install that do nothing",
+        "dofusVersion": "Install that does nothing",
         "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.zip",
-        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.jpg",
-        "creationDate": "01/08/2017",
-        "modificationDate": "01/08/2017"
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.jpg"
     },
     {
         "author": "Aspette",
         "name": "darkOpacity",
         "keyWords": "darkOpacity, Theme",
-        "version": "2.68.0",
+        "version": "2.68.1",
         "dofusVersion": "2.68",
         "description": "darkOpacity : la transparence à portée de main. (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg",
         "creationDate": "01/08/2017",
-        "modificationDate": "15/06/2023"
+        "modificationDate": "15/08/2023"
     },
     {
         "author": "Aspette",
         "name": "darkOpacity Hundred",
         "keyWords": "darkOpacity Hundred, Theme",
-        "version": "2.68.0",
+        "version": "2.68.1",
         "dofusVersion": "2.68",
         "description": "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
         "creationDate": "01/08/2017",
-        "modificationDate": "15/06/2023"
+        "modificationDate": "15/08/2023"
     },
     {
         "author": "Aspette",
@@ -45,7 +43,7 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_default.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_default.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "15/06/2023"
+        "modificationDate": "15/08/2023"
     },
     {
         "author": "Aspette",
@@ -57,7 +55,7 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_opacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_opacity.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "15/06/2023"
+        "modificationDate": "15/08/2023"
     },
     {
         "author": "Aspette",
@@ -69,7 +67,7 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "15/06/2023"
+        "modificationDate": "15/08/2023"
     },
     {
         "author": "Aspette",
@@ -81,6 +79,6 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_opacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_opacity.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "15/06/2023"
+        "modificationDate": "15/08/2023"
     }
 ]
