@@ -384,12 +384,50 @@
         "uri": "[config.ui.skin]bitmap/bg_small_green.png",
         scale9Grid: { x: 5, y: 5, width: 35, height: 35 }
     },
-    tx_breach: {
-        uri: "[config.ui.skin]texture/icon_spiral_grey.png"
-    },
-    "bg_error_frame": {
-        "uri": "[config.ui.skin]bitmap/bg_error_frame.png",
-        scale9Grid: { x: 5, y: 5, width: 40, height: 40 }
+    tx_breach:{
+		uri:"[config.ui.skin]texture/icon_spiral_grey.png"
+	},
+	"bg_error_frame":{
+		"uri":"[config.ui.skin]bitmap/bg_error_frame.png",
+		scale9Grid:{x:5,y:5,width:40,height:40}
+	},
+
+	"rare_slot":{
+		"uri":"[config.ui.skin]texture/slot/rareSlot.png",
+		scale9Grid:{x:5,y:5,width:35,height:35}
+	},
+
+	vtab_right_disabled_normal:{
+		uri: "[config.ui.skin]common/tab_right_disabled.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_disabled_over:{
+		uri: "[config.ui.skin]common/tab_right_disabled_over.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_disabled_pressed:{
+		uri: "[config.ui.skin]common/tab_right_disabled_pressed.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_disabled_selected:{
+		uri: "[config.ui.skin]common/tab_right_disabled_pressed.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_normal:{
+		uri: "[config.ui.skin]common/tab_right_normal.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_over:{
+		uri: "[config.ui.skin]common/tab_right_over.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_pressed:{
+		uri: "[config.ui.skin]common/tab_right_pressed.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_selected:{
+		uri: "[config.ui.skin]common/tab_right_selected.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
     }
 
 }

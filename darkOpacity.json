@@ -13,25 +13,25 @@
         "author": "Aspette",
         "name": "darkOpacity",
         "keyWords": "darkOpacity, Theme",
-        "version": "2.70.0",
+        "version": "2.70.1",
         "dofusVersion": "2.70",
         "description": "darkOpacity : la transparence à portée de main. (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg",
         "creationDate": "01/08/2017",
-        "modificationDate": "26/11/2023"
+        "modificationDate": "07/01/2024"
     },
     {
         "author": "Aspette",
         "name": "darkOpacity Hundred",
         "keyWords": "darkOpacity Hundred, Theme",
-        "version": "2.70.0",
+        "version": "2.70.1",
         "dofusVersion": "2.70",
         "description": "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)",
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
         "creationDate": "01/08/2017",
-        "modificationDate": "26/11/2023"
+        "modificationDate": "07/01/2024"
     },
     {
         "author": "Aspette",
@@ -43,7 +43,7 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_default.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_default.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "26/11/2023"
+        "modificationDate": "07/01/2024"
     },
     {
         "author": "Aspette",
@@ -55,7 +55,7 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_opacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/modules/block/tacticblock_opacity.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "26/11/2023"
+        "modificationDate": "07/01/2024"
     },
     {
         "author": "Aspette",
@@ -67,7 +67,7 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "26/11/2023"
+        "modificationDate": "07/01/2024"
     },
     {
         "author": "Aspette",
@@ -79,6 +79,6 @@
         "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_opacity.zip",
         "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_opacity.jpg",
         "creationDate": "04/10/2022",
-        "modificationDate": "26/11/2023"
+        "modificationDate": "07/01/2024"
     }
 ]
